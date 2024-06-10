@@ -1,5 +1,5 @@
 # Project summary
-Tool to extract GlyGen O-GlcNAc and Phosphorylation sites.
+Creating a command line tool to extract GlyGen O-GlcNAc and Phosphorylation sites into an ML ready dataset.
 
 # Installation instructions
 
