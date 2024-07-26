@@ -1,0 +1,2260 @@
+2024-07-23 15:09:31,672 - INFO - logger - found cache file
+2024-07-23 15:09:32,487 - INFO - logger - Hit checkpoint at index 0
+2024-07-23 15:09:32,487 - INFO - logger - API calls 0
+2024-07-23 15:09:32,487 - INFO - logger - cache hits 100
+2024-07-23 15:09:32,487 - INFO - logger - ============================================
+2024-07-23 15:09:32,520 - INFO - logger - Hit checkpoint at index 100
+2024-07-23 15:09:32,520 - INFO - logger - API calls 0
+2024-07-23 15:09:32,520 - INFO - logger - cache hits 100
+2024-07-23 15:09:32,520 - INFO - logger - ============================================
+2024-07-23 15:09:32,552 - INFO - logger - Hit checkpoint at index 200
+2024-07-23 15:09:32,552 - INFO - logger - API calls 0
+2024-07-23 15:09:32,552 - INFO - logger - cache hits 100
+2024-07-23 15:09:32,552 - INFO - logger - ============================================
+2024-07-23 15:09:32,585 - INFO - logger - Hit checkpoint at index 300
+2024-07-23 15:09:32,585 - INFO - logger - API calls 0
+2024-07-23 15:09:32,585 - INFO - logger - cache hits 100
+2024-07-23 15:09:32,585 - INFO - logger - ============================================
+2024-07-23 15:09:32,628 - INFO - logger - Hit checkpoint at index 400
+2024-07-23 15:09:32,628 - INFO - logger - API calls 0
+2024-07-23 15:09:32,628 - INFO - logger - cache hits 100
+2024-07-23 15:09:32,628 - INFO - logger - ============================================
+2024-07-23 15:09:32,662 - INFO - logger - Hit checkpoint at index 500
+2024-07-23 15:09:32,662 - INFO - logger - API calls 0
+2024-07-23 15:09:32,662 - INFO - logger - cache hits 100
+2024-07-23 15:09:32,662 - INFO - logger - ============================================
+2024-07-23 15:09:32,693 - INFO - logger - Hit checkpoint at index 600
+2024-07-23 15:09:32,693 - INFO - logger - API calls 0
+2024-07-23 15:09:32,693 - INFO - logger - cache hits 100
+2024-07-23 15:09:32,693 - INFO - logger - ============================================
+2024-07-23 15:09:32,724 - INFO - logger - Hit checkpoint at index 700
+2024-07-23 15:09:32,724 - INFO - logger - API calls 0
+2024-07-23 15:09:32,724 - INFO - logger - cache hits 100
+2024-07-23 15:09:32,724 - INFO - logger - ============================================
+2024-07-23 15:09:32,755 - INFO - logger - Hit checkpoint at index 800
+2024-07-23 15:09:32,755 - INFO - logger - API calls 0
+2024-07-23 15:09:32,755 - INFO - logger - cache hits 100
+2024-07-23 15:09:32,755 - INFO - logger - ============================================
+2024-07-23 15:09:32,786 - INFO - logger - Hit checkpoint at index 900
+2024-07-23 15:09:32,786 - INFO - logger - API calls 0
+2024-07-23 15:09:32,786 - INFO - logger - cache hits 100
+2024-07-23 15:09:32,786 - INFO - logger - ============================================
+2024-07-23 15:09:32,818 - INFO - logger - Hit checkpoint at index 1000
+2024-07-23 15:09:32,818 - INFO - logger - API calls 0
+2024-07-23 15:09:32,818 - INFO - logger - cache hits 100
+2024-07-23 15:09:32,818 - INFO - logger - ============================================
+2024-07-23 15:09:32,849 - INFO - logger - Hit checkpoint at index 1100
+2024-07-23 15:09:32,849 - INFO - logger - API calls 0
+2024-07-23 15:09:32,849 - INFO - logger - cache hits 100
+2024-07-23 15:09:32,849 - INFO - logger - ============================================
+2024-07-23 15:09:32,880 - INFO - logger - Hit checkpoint at index 1200
+2024-07-23 15:09:32,880 - INFO - logger - API calls 0
+2024-07-23 15:09:32,880 - INFO - logger - cache hits 100
+2024-07-23 15:09:32,880 - INFO - logger - ============================================
+2024-07-23 15:09:32,918 - INFO - logger - Hit checkpoint at index 1300
+2024-07-23 15:09:32,918 - INFO - logger - API calls 0
+2024-07-23 15:09:32,918 - INFO - logger - cache hits 100
+2024-07-23 15:09:32,918 - INFO - logger - ============================================
+2024-07-23 15:09:32,949 - INFO - logger - Hit checkpoint at index 1400
+2024-07-23 15:09:32,950 - INFO - logger - API calls 0
+2024-07-23 15:09:32,950 - INFO - logger - cache hits 100
+2024-07-23 15:09:32,950 - INFO - logger - ============================================
+2024-07-23 15:09:32,981 - INFO - logger - Hit checkpoint at index 1500
+2024-07-23 15:09:32,981 - INFO - logger - API calls 0
+2024-07-23 15:09:32,981 - INFO - logger - cache hits 100
+2024-07-23 15:09:32,981 - INFO - logger - ============================================
+2024-07-23 15:09:33,012 - INFO - logger - Hit checkpoint at index 1600
+2024-07-23 15:09:33,012 - INFO - logger - API calls 0
+2024-07-23 15:09:33,012 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,012 - INFO - logger - ============================================
+2024-07-23 15:09:33,043 - INFO - logger - Hit checkpoint at index 1700
+2024-07-23 15:09:33,043 - INFO - logger - API calls 0
+2024-07-23 15:09:33,043 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,043 - INFO - logger - ============================================
+2024-07-23 15:09:33,074 - INFO - logger - Hit checkpoint at index 1800
+2024-07-23 15:09:33,074 - INFO - logger - API calls 0
+2024-07-23 15:09:33,074 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,074 - INFO - logger - ============================================
+2024-07-23 15:09:33,106 - INFO - logger - Hit checkpoint at index 1900
+2024-07-23 15:09:33,106 - INFO - logger - API calls 0
+2024-07-23 15:09:33,106 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,106 - INFO - logger - ============================================
+2024-07-23 15:09:33,137 - INFO - logger - Hit checkpoint at index 2000
+2024-07-23 15:09:33,137 - INFO - logger - API calls 0
+2024-07-23 15:09:33,137 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,137 - INFO - logger - ============================================
+2024-07-23 15:09:33,169 - INFO - logger - Hit checkpoint at index 2100
+2024-07-23 15:09:33,169 - INFO - logger - API calls 0
+2024-07-23 15:09:33,169 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,169 - INFO - logger - ============================================
+2024-07-23 15:09:33,199 - INFO - logger - Hit checkpoint at index 2200
+2024-07-23 15:09:33,199 - INFO - logger - API calls 0
+2024-07-23 15:09:33,199 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,199 - INFO - logger - ============================================
+2024-07-23 15:09:33,232 - INFO - logger - Hit checkpoint at index 2300
+2024-07-23 15:09:33,232 - INFO - logger - API calls 0
+2024-07-23 15:09:33,232 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,232 - INFO - logger - ============================================
+2024-07-23 15:09:33,263 - INFO - logger - Hit checkpoint at index 2400
+2024-07-23 15:09:33,263 - INFO - logger - API calls 0
+2024-07-23 15:09:33,263 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,263 - INFO - logger - ============================================
+2024-07-23 15:09:33,294 - INFO - logger - Hit checkpoint at index 2500
+2024-07-23 15:09:33,294 - INFO - logger - API calls 0
+2024-07-23 15:09:33,294 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,294 - INFO - logger - ============================================
+2024-07-23 15:09:33,325 - INFO - logger - Hit checkpoint at index 2600
+2024-07-23 15:09:33,325 - INFO - logger - API calls 0
+2024-07-23 15:09:33,325 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,325 - INFO - logger - ============================================
+2024-07-23 15:09:33,356 - INFO - logger - Hit checkpoint at index 2700
+2024-07-23 15:09:33,356 - INFO - logger - API calls 0
+2024-07-23 15:09:33,356 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,356 - INFO - logger - ============================================
+2024-07-23 15:09:33,387 - INFO - logger - Hit checkpoint at index 2800
+2024-07-23 15:09:33,387 - INFO - logger - API calls 0
+2024-07-23 15:09:33,387 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,387 - INFO - logger - ============================================
+2024-07-23 15:09:33,418 - INFO - logger - Hit checkpoint at index 2900
+2024-07-23 15:09:33,418 - INFO - logger - API calls 0
+2024-07-23 15:09:33,418 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,418 - INFO - logger - ============================================
+2024-07-23 15:09:33,453 - INFO - logger - Hit checkpoint at index 3000
+2024-07-23 15:09:33,453 - INFO - logger - API calls 0
+2024-07-23 15:09:33,453 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,453 - INFO - logger - ============================================
+2024-07-23 15:09:33,484 - INFO - logger - Hit checkpoint at index 3100
+2024-07-23 15:09:33,484 - INFO - logger - API calls 0
+2024-07-23 15:09:33,484 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,484 - INFO - logger - ============================================
+2024-07-23 15:09:33,514 - INFO - logger - Hit checkpoint at index 3200
+2024-07-23 15:09:33,514 - INFO - logger - API calls 0
+2024-07-23 15:09:33,514 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,514 - INFO - logger - ============================================
+2024-07-23 15:09:33,545 - INFO - logger - Hit checkpoint at index 3300
+2024-07-23 15:09:33,545 - INFO - logger - API calls 0
+2024-07-23 15:09:33,545 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,545 - INFO - logger - ============================================
+2024-07-23 15:09:33,578 - INFO - logger - Hit checkpoint at index 3400
+2024-07-23 15:09:33,578 - INFO - logger - API calls 0
+2024-07-23 15:09:33,578 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,578 - INFO - logger - ============================================
+2024-07-23 15:09:33,609 - INFO - logger - Hit checkpoint at index 3500
+2024-07-23 15:09:33,609 - INFO - logger - API calls 0
+2024-07-23 15:09:33,609 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,609 - INFO - logger - ============================================
+2024-07-23 15:09:33,641 - INFO - logger - Hit checkpoint at index 3600
+2024-07-23 15:09:33,641 - INFO - logger - API calls 0
+2024-07-23 15:09:33,641 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,641 - INFO - logger - ============================================
+2024-07-23 15:09:33,671 - INFO - logger - Hit checkpoint at index 3700
+2024-07-23 15:09:33,671 - INFO - logger - API calls 0
+2024-07-23 15:09:33,671 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,671 - INFO - logger - ============================================
+2024-07-23 15:09:33,703 - INFO - logger - Hit checkpoint at index 3800
+2024-07-23 15:09:33,703 - INFO - logger - API calls 0
+2024-07-23 15:09:33,703 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,703 - INFO - logger - ============================================
+2024-07-23 15:09:33,734 - INFO - logger - Hit checkpoint at index 3900
+2024-07-23 15:09:33,734 - INFO - logger - API calls 0
+2024-07-23 15:09:33,734 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,734 - INFO - logger - ============================================
+2024-07-23 15:09:33,766 - INFO - logger - Hit checkpoint at index 4000
+2024-07-23 15:09:33,766 - INFO - logger - API calls 0
+2024-07-23 15:09:33,766 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,766 - INFO - logger - ============================================
+2024-07-23 15:09:33,797 - INFO - logger - Hit checkpoint at index 4100
+2024-07-23 15:09:33,797 - INFO - logger - API calls 0
+2024-07-23 15:09:33,797 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,797 - INFO - logger - ============================================
+2024-07-23 15:09:33,828 - INFO - logger - Hit checkpoint at index 4200
+2024-07-23 15:09:33,828 - INFO - logger - API calls 0
+2024-07-23 15:09:33,828 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,828 - INFO - logger - ============================================
+2024-07-23 15:09:33,859 - INFO - logger - Hit checkpoint at index 4300
+2024-07-23 15:09:33,859 - INFO - logger - API calls 0
+2024-07-23 15:09:33,859 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,859 - INFO - logger - ============================================
+2024-07-23 15:09:33,889 - INFO - logger - Hit checkpoint at index 4400
+2024-07-23 15:09:33,889 - INFO - logger - API calls 0
+2024-07-23 15:09:33,889 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,889 - INFO - logger - ============================================
+2024-07-23 15:09:33,920 - INFO - logger - Hit checkpoint at index 4500
+2024-07-23 15:09:33,920 - INFO - logger - API calls 0
+2024-07-23 15:09:33,920 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,920 - INFO - logger - ============================================
+2024-07-23 15:09:33,951 - INFO - logger - Hit checkpoint at index 4600
+2024-07-23 15:09:33,951 - INFO - logger - API calls 0
+2024-07-23 15:09:33,951 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,951 - INFO - logger - ============================================
+2024-07-23 15:09:33,981 - INFO - logger - Hit checkpoint at index 4700
+2024-07-23 15:09:33,981 - INFO - logger - API calls 0
+2024-07-23 15:09:33,981 - INFO - logger - cache hits 100
+2024-07-23 15:09:33,981 - INFO - logger - ============================================
+2024-07-23 15:09:34,012 - INFO - logger - Hit checkpoint at index 4800
+2024-07-23 15:09:34,012 - INFO - logger - API calls 0
+2024-07-23 15:09:34,012 - INFO - logger - cache hits 100
+2024-07-23 15:09:34,012 - INFO - logger - ============================================
+2024-07-23 15:09:34,042 - INFO - logger - Hit checkpoint at index 4900
+2024-07-23 15:09:34,042 - INFO - logger - API calls 0
+2024-07-23 15:09:34,042 - INFO - logger - cache hits 100
+2024-07-23 15:09:34,042 - INFO - logger - ============================================
+2024-07-23 15:09:34,073 - INFO - logger - Hit checkpoint at index 5000
+2024-07-23 15:09:34,073 - INFO - logger - API calls 0
+2024-07-23 15:09:34,073 - INFO - logger - cache hits 100
+2024-07-23 15:09:34,073 - INFO - logger - ============================================
+2024-07-23 15:09:34,104 - INFO - logger - Hit checkpoint at index 5100
+2024-07-23 15:09:34,104 - INFO - logger - API calls 0
+2024-07-23 15:09:34,104 - INFO - logger - cache hits 100
+2024-07-23 15:09:34,104 - INFO - logger - ============================================
+2024-07-23 15:09:34,135 - INFO - logger - Hit checkpoint at index 5200
+2024-07-23 15:09:34,135 - INFO - logger - API calls 0
+2024-07-23 15:09:34,135 - INFO - logger - cache hits 100
+2024-07-23 15:09:34,135 - INFO - logger - ============================================
+2024-07-23 15:09:34,165 - INFO - logger - Hit checkpoint at index 5300
+2024-07-23 15:09:34,165 - INFO - logger - API calls 0
+2024-07-23 15:09:34,165 - INFO - logger - cache hits 100
+2024-07-23 15:09:34,165 - INFO - logger - ============================================
+2024-07-23 15:09:34,196 - INFO - logger - Hit checkpoint at index 5400
+2024-07-23 15:09:34,196 - INFO - logger - API calls 0
+2024-07-23 15:09:34,196 - INFO - logger - cache hits 100
+2024-07-23 15:09:34,196 - INFO - logger - ============================================
+2024-07-23 15:09:34,227 - INFO - logger - Hit checkpoint at index 5500
+2024-07-23 15:09:34,227 - INFO - logger - API calls 0
+2024-07-23 15:09:34,227 - INFO - logger - cache hits 100
+2024-07-23 15:09:34,227 - INFO - logger - ============================================
+2024-07-23 15:09:34,265 - INFO - logger - Hit checkpoint at index 5600
+2024-07-23 15:09:34,265 - INFO - logger - API calls 0
+2024-07-23 15:09:34,265 - INFO - logger - cache hits 100
+2024-07-23 15:09:34,265 - INFO - logger - ============================================
+2024-07-23 15:09:34,297 - INFO - logger - Hit checkpoint at index 5700
+2024-07-23 15:09:34,297 - INFO - logger - API calls 0
+2024-07-23 15:09:34,297 - INFO - logger - cache hits 100
+2024-07-23 15:09:34,297 - INFO - logger - ============================================
+2024-07-23 15:09:34,328 - INFO - logger - Hit checkpoint at index 5800
+2024-07-23 15:09:34,328 - INFO - logger - API calls 0
+2024-07-23 15:09:34,328 - INFO - logger - cache hits 100
+2024-07-23 15:09:34,328 - INFO - logger - ============================================
+2024-07-23 15:09:54,959 - INFO - logger - Processed Q14789-1 in 20.630666971206665 seconds
+2024-07-23 15:09:59,198 - INFO - logger - Processed Q9Y2G7-1 in 24.86877202987671 seconds
+2024-07-23 15:10:02,043 - INFO - logger - Processed P31948-1 in 27.71305012702942 seconds
+2024-07-23 15:10:05,459 - INFO - logger - Processed O95625-1 in 31.13003420829773 seconds
+2024-07-23 15:10:12,297 - INFO - logger - Processed Q9ULK4-1 in 37.96751594543457 seconds
+2024-07-23 15:10:18,067 - INFO - logger - Processed Q01201-1 in 43.736828327178955 seconds
+2024-07-23 15:10:19,290 - INFO - logger - Processed Q2M2H8-1 in 44.96029806137085 seconds
+2024-07-23 15:10:21,684 - INFO - logger - Processed Q8IXF0-1 in 22.42786979675293 seconds
+2024-07-23 15:10:28,705 - INFO - logger - Processed A6NGB9-1 in 23.213222980499268 seconds
+2024-07-23 15:10:32,044 - INFO - logger - Processed P62917-1 in 57.71485900878906 seconds
+2024-07-23 15:10:38,641 - INFO - logger - Processed Q14679-1 in 64.31030488014221 seconds
+2024-07-23 15:10:39,000 - INFO - logger - Processed O43312-1 in 26.652528047561646 seconds
+2024-07-23 15:10:43,185 - INFO - logger - Processed P26439-1 in 68.85559916496277 seconds
+2024-07-23 15:10:43,915 - INFO - logger - Processed P33240-1 in 41.8239369392395 seconds
+2024-07-23 15:10:48,503 - INFO - logger - Processed Q6XPR3-1 in 29.181596040725708 seconds
+2024-07-23 15:10:48,606 - INFO - logger - Processed P09067-1 in 19.860511302947998 seconds
+2024-07-23 15:10:54,875 - INFO - logger - Processed Q6P996-1 in 36.774653911590576 seconds
+2024-07-23 15:10:56,651 - INFO - logger - Processed P35527-1 in 61.65193700790405 seconds
+2024-07-23 15:10:58,328 - INFO - logger - Processed O94915-1 in 19.28020405769348 seconds
+2024-07-23 15:10:58,971 - INFO - logger - Processed Q96NB3-1 in 37.249982833862305 seconds
+2024-07-23 15:11:07,232 - INFO - logger - Processed P31040-1 in 23.28265905380249 seconds
+2024-07-23 15:11:08,744 - INFO - logger - Processed Q9UKY4-1 in 20.114731073379517 seconds
+2024-07-23 15:11:10,869 - INFO - logger - Processed Q5W5X9-1 in 38.7853422164917 seconds
+2024-07-23 15:11:11,728 - INFO - logger - Processed Q9Y2G3-1 in 28.50565195083618 seconds
+2024-07-23 15:11:15,397 - INFO - logger - Processed Q9UQR1-1 in 36.71695804595947 seconds
+2024-07-23 15:11:18,874 - INFO - logger - Processed Q5T8A7-1 in 30.197906017303467 seconds
+2024-07-23 15:11:18,946 - INFO - logger - Hit checkpoint at index 5900
+2024-07-23 15:11:18,946 - INFO - logger - API calls 26
+2024-07-23 15:11:18,946 - INFO - logger - cache hits 74
+2024-07-23 15:11:18,946 - INFO - logger - ============================================
+2024-07-23 15:11:32,650 - INFO - logger - Processed Q6YHK3-1 in 13.700569152832031 seconds
+2024-07-23 15:11:39,127 - INFO - logger - Processed Q9H2W6-1 in 20.17759084701538 seconds
+2024-07-23 15:11:42,299 - INFO - logger - Processed Q9NX95-1 in 23.34908127784729 seconds
+2024-07-23 15:11:43,963 - INFO - logger - Processed O75334-1 in 25.013379096984863 seconds
+2024-07-23 15:11:48,315 - INFO - logger - Processed Q99973-1 in 29.366623878479004 seconds
+2024-07-23 15:11:48,834 - INFO - logger - Processed Q9UHD9-1 in 29.883851051330566 seconds
+2024-07-23 15:11:50,893 - INFO - logger - Processed Q9Y6X3-1 in 31.94398808479309 seconds
+2024-07-23 15:11:54,044 - INFO - logger - Processed Q5T1N1-1 in 21.347777128219604 seconds
+2024-07-23 15:11:59,522 - INFO - logger - Processed P22670-1 in 20.356281042099 seconds
+2024-07-23 15:12:00,446 - INFO - logger - Processed Q8N3V7-1 in 41.49624705314636 seconds
+2024-07-23 15:12:01,397 - INFO - logger - Processed Q2M3M2-1 in 42.44829797744751 seconds
+2024-07-23 15:12:05,369 - INFO - logger - Processed P29084-1 in 23.025655031204224 seconds
+2024-07-23 15:12:07,657 - INFO - logger - Processed Q86XH1-1 in 48.7060489654541 seconds
+2024-07-23 15:12:08,488 - INFO - logger - Processed A6NED2-1 in 24.490345001220703 seconds
+2024-07-23 15:12:25,169 - INFO - logger - Processed Q96RY5-1 in 36.302531242370605 seconds
+2024-07-23 15:12:28,997 - INFO - logger - Processed Q9NPR9-1 in 23.5946786403656 seconds
+2024-07-23 15:12:30,146 - INFO - logger - Processed Q9D2Y4-1 in 21.61886501312256 seconds
+2024-07-23 15:12:31,392 - INFO - logger - Processed Q8N4B5-1 in 43.03998899459839 seconds
+2024-07-23 15:12:39,509 - INFO - logger - Processed Q9NZH7-1 in 31.819712162017822 seconds
+2024-07-23 15:12:45,318 - INFO - logger - Processed Q15059-1 in 45.75987195968628 seconds
+2024-07-23 15:12:46,304 - INFO - logger - Processed Q9NTG7-1 in 14.877479076385498 seconds
+2024-07-23 15:12:48,087 - INFO - logger - Processed H7BZ55-1 in 57.163074016571045 seconds
+2024-07-23 15:12:56,665 - INFO - logger - Processed P35236-1 in 55.232470750808716 seconds
+2024-07-23 15:13:03,105 - INFO - logger - Processed Q6AI39-1 in 17.75112509727478 seconds
+2024-07-23 15:13:03,728 - INFO - logger - Processed Q765P7-1 in 17.389134883880615 seconds
+2024-07-23 15:13:04,486 - INFO - logger - Processed Q9Y6X3-1 in 64.00431275367737 seconds
+2024-07-23 15:13:05,277 - INFO - logger - Processed P52333-1 in 36.24804496765137 seconds
+2024-07-23 15:13:13,607 - INFO - logger - Processed P19022-1 in 48.391185998916626 seconds
+2024-07-23 15:13:14,622 - INFO - logger - Processed Q9NZR1-1 in 80.5418541431427 seconds
+2024-07-23 15:13:19,619 - INFO - logger - Processed O60934-1 in 40.06022095680237 seconds
+2024-07-23 15:13:26,030 - INFO - logger - Processed Q4ZG55-1 in 29.31384015083313 seconds
+2024-07-23 15:13:27,958 - INFO - logger - Processed Q96PQ1-1 in 39.838377952575684 seconds
+2024-07-23 15:13:29,280 - INFO - logger - Processed Q8WXE9-1 in 59.100364208221436 seconds
+2024-07-23 15:13:34,703 - INFO - logger - Processed Q70CQ2-1 in 30.93819284439087 seconds
+2024-07-23 15:13:41,278 - INFO - logger - Processed P08F94-1 in 38.136130809783936 seconds
+2024-07-23 15:13:41,352 - INFO - logger - Hit checkpoint at index 6000
+2024-07-23 15:13:41,352 - INFO - logger - API calls 35
+2024-07-23 15:13:41,352 - INFO - logger - cache hits 65
+2024-07-23 15:13:41,352 - INFO - logger - ============================================
+2024-07-23 15:14:02,783 - INFO - logger - Processed Q9NP61-1 in 21.424358129501343 seconds
+2024-07-23 15:14:07,720 - INFO - logger - Processed A6QL63-1 in 26.366843938827515 seconds
+2024-07-23 15:14:12,816 - INFO - logger - Processed Q9NRR5-1 in 31.458105087280273 seconds
+2024-07-23 15:14:18,070 - INFO - logger - Processed Q9H4A4-1 in 36.71314215660095 seconds
+2024-07-23 15:14:21,239 - INFO - logger - Processed P54252-2 in 39.87984013557434 seconds
+2024-07-23 15:14:22,367 - INFO - logger - Processed Q9NP80-1 in 41.0069260597229 seconds
+2024-07-23 15:14:31,959 - INFO - logger - Processed P10637-1 in 29.126374006271362 seconds
+2024-07-23 15:14:32,907 - INFO - logger - Processed Q9H7U1-1 in 51.549153089523315 seconds
+2024-07-23 15:14:33,316 - INFO - logger - Processed Q12789-2 in 15.207860946655273 seconds
+2024-07-23 15:14:40,117 - INFO - logger - Processed Q9BQG0-1 in 58.76407504081726 seconds
+2024-07-23 15:14:42,268 - INFO - logger - Processed Q9NQL9-1 in 60.90919780731201 seconds
+2024-07-23 15:14:44,950 - INFO - logger - Processed Q80UE6-1 in 63.597169160842896 seconds
+2024-07-23 15:14:54,404 - INFO - logger - Processed Q5T619-1 in 22.409695863723755 seconds
+2024-07-23 15:14:54,921 - INFO - logger - Processed Q86UU5-1 in 42.06001687049866 seconds
+2024-07-23 15:15:02,087 - INFO - logger - Processed P40189-1 in 39.680155992507935 seconds
+2024-07-23 15:15:03,304 - INFO - logger - Processed Q9P273-1 in 29.904960870742798 seconds
+2024-07-23 15:15:13,186 - INFO - logger - Processed Q9BSJ8-1 in 51.908679246902466 seconds
+2024-07-23 15:15:13,221 - INFO - logger - Processed Q92791-1 in 30.918402910232544 seconds
+2024-07-23 15:15:17,430 - INFO - logger - Processed Q8TDF5-3 in 22.475183248519897 seconds
+2024-07-23 15:15:17,976 - INFO - logger - Processed A2AQ25-1 in 23.524627923965454 seconds
+2024-07-23 15:15:19,095 - INFO - logger - Processed P56282-1 in 15.7497239112854 seconds
+2024-07-23 15:15:21,311 - INFO - logger - Processed Q6AZY7-1 in 48.37098693847656 seconds
+2024-07-23 15:15:26,717 - INFO - logger - Processed Q9P2P6-1 in 78.94626092910767 seconds
+2024-07-23 15:15:28,645 - INFO - logger - Processed O95466-1 in 48.488216161727905 seconds
+2024-07-23 15:15:36,046 - INFO - logger - Processed Q9H1V8-1 in 51.0625 seconds
+2024-07-23 15:15:40,391 - INFO - logger - Processed Q96B97-1 in 27.098121881484985 seconds
+2024-07-23 15:15:43,029 - INFO - logger - Processed O14523-1 in 40.89576816558838 seconds
+2024-07-23 15:15:43,480 - INFO - logger - Processed Q8NBA8-1 in 30.183021068572998 seconds
+2024-07-23 15:15:43,555 - INFO - logger - Hit checkpoint at index 6100
+2024-07-23 15:15:43,555 - INFO - logger - API calls 28
+2024-07-23 15:15:43,555 - INFO - logger - cache hits 72
+2024-07-23 15:15:43,555 - INFO - logger - ============================================
+2024-07-23 15:16:08,901 - INFO - logger - Processed Q8NG27-1 in 25.34501886367798 seconds
+2024-07-23 15:16:09,650 - INFO - logger - Processed Q8IUG5-1 in 26.094887018203735 seconds
+2024-07-23 15:16:10,776 - INFO - logger - Processed Q5EBL2-1 in 27.218357801437378 seconds
+2024-07-23 15:16:11,926 - INFO - logger - Processed Q96EY7-1 in 28.36867904663086 seconds
+2024-07-23 15:16:24,087 - INFO - logger - Processed Q8NEG7-1 in 40.53080201148987 seconds
+2024-07-23 15:16:25,719 - INFO - logger - Processed P28161-1 in 16.775257110595703 seconds
+2024-07-23 15:16:32,787 - INFO - logger - Processed Q5VSY0-1 in 49.22910785675049 seconds
+2024-07-23 15:16:33,076 - INFO - logger - Processed Q0VDD8-1 in 21.11363387107849 seconds
+2024-07-23 15:16:35,914 - INFO - logger - Processed Q6UWL2-1 in 52.35747790336609 seconds
+2024-07-23 15:16:41,663 - INFO - logger - Processed P98198-1 in 31.97751212120056 seconds
+2024-07-23 15:16:43,093 - INFO - logger - Processed Q68DL7-1 in 59.53407907485962 seconds
+2024-07-23 15:16:44,840 - INFO - logger - Processed Q12797-1 in 34.02801060676575 seconds
+2024-07-23 15:16:46,357 - INFO - logger - Processed Q9P0X4-1 in 20.597564935684204 seconds
+2024-07-23 15:16:50,030 - INFO - logger - Processed Q96MC2-1 in 66.47330403327942 seconds
+2024-07-23 15:16:52,742 - INFO - logger - Processed P17858-1 in 69.18368268013 seconds
+2024-07-23 15:16:57,199 - INFO - logger - Processed Q14106-1 in 24.37990117073059 seconds
+2024-07-23 15:16:57,845 - INFO - logger - Processed Q9P2J3-1 in 33.70989799499512 seconds
+2024-07-23 15:17:13,986 - INFO - logger - Processed Q9NUM4-1 in 30.84770393371582 seconds
+2024-07-23 15:17:14,629 - INFO - logger - Processed P35590-1 in 32.92172694206238 seconds
+2024-07-23 15:17:15,249 - INFO - logger - Processed P29323-1 in 39.29989790916443 seconds
+2024-07-23 15:17:24,381 - INFO - logger - Processed Q80U93-1 in 51.272549867630005 seconds
+2024-07-23 15:17:24,451 - INFO - logger - Hit checkpoint at index 6200
+2024-07-23 15:17:24,451 - INFO - logger - API calls 21
+2024-07-23 15:17:24,451 - INFO - logger - cache hits 79
+2024-07-23 15:17:24,451 - INFO - logger - ============================================
+2024-07-23 15:17:48,057 - INFO - logger - Processed Q9R1P4-1 in 23.60325288772583 seconds
+2024-07-23 15:17:49,097 - INFO - logger - Processed P52655-1 in 24.643761157989502 seconds
+2024-07-23 15:17:49,758 - INFO - logger - Processed P78316-1 in 25.302985906600952 seconds
+2024-07-23 15:17:57,315 - INFO - logger - Processed O60237-1 in 32.860551834106445 seconds
+2024-07-23 15:18:00,669 - INFO - logger - Processed Q6ZNB7-1 in 36.214497089385986 seconds
+2024-07-23 15:18:03,196 - INFO - logger - Processed O75554-1 in 38.74358105659485 seconds
+2024-07-23 15:18:05,736 - INFO - logger - Processed Q8NI27-1 in 41.28347396850586 seconds
+2024-07-23 15:18:13,448 - INFO - logger - Processed P83436-1 in 48.99611687660217 seconds
+2024-07-23 15:18:16,534 - INFO - logger - Processed Q9Y6Q5-1 in 52.0822331905365 seconds
+2024-07-23 15:18:17,843 - INFO - logger - Processed O95149-1 in 28.71141791343689 seconds
+2024-07-23 15:18:18,454 - INFO - logger - Processed O60293-1 in 17.75234603881836 seconds
+2024-07-23 15:18:23,845 - INFO - logger - Processed Q8NGE1-1 in 59.390514850616455 seconds
+2024-07-23 15:18:24,489 - INFO - logger - Processed Q02297-1 in 21.25606393814087 seconds
+2024-07-23 15:18:31,806 - INFO - logger - Processed Q96N64-1 in 43.708274841308594 seconds
+2024-07-23 15:18:32,824 - INFO - logger - Processed P28715-1 in 43.03395175933838 seconds
+2024-07-23 15:18:39,489 - INFO - logger - Processed Q86WI3-1 in 33.716269969940186 seconds
+2024-07-23 15:18:41,634 - INFO - logger - Processed Q6ZPD8-1 in 28.14293384552002 seconds
+2024-07-23 15:18:45,057 - INFO - logger - Processed Q9Y2E8-1 in 28.48637104034424 seconds
+2024-07-23 15:18:45,837 - INFO - logger - Processed Q8IZD0-1 in 48.473469972610474 seconds
+2024-07-23 15:18:45,904 - INFO - logger - Hit checkpoint at index 6300
+2024-07-23 15:18:45,904 - INFO - logger - API calls 19
+2024-07-23 15:18:45,904 - INFO - logger - cache hits 81
+2024-07-23 15:18:45,904 - INFO - logger - ============================================
+2024-07-23 15:19:05,315 - INFO - logger - Processed Q9C0B2-1 in 19.40949511528015 seconds
+2024-07-23 15:19:11,430 - INFO - logger - Processed O15015-2 in 25.52496075630188 seconds
+2024-07-23 15:19:15,629 - INFO - logger - Processed Q9NP79-1 in 29.72449779510498 seconds
+2024-07-23 15:19:17,298 - INFO - logger - Processed Q9UBQ7-1 in 31.390673875808716 seconds
+2024-07-23 15:19:17,344 - INFO - logger - Processed Q7Z699-1 in 31.436437845230103 seconds
+2024-07-23 15:19:22,214 - INFO - logger - Processed Q9H4Z2-1 in 36.3069589138031 seconds
+2024-07-23 15:19:22,737 - INFO - logger - Processed Q8IVH2-1 in 36.8317391872406 seconds
+2024-07-23 15:19:29,548 - INFO - logger - Processed Q6UWW0-1 in 24.18782877922058 seconds
+2024-07-23 15:19:31,123 - INFO - logger - Processed A6NJ78-1 in 15.454453945159912 seconds
+2024-07-23 15:19:43,535 - INFO - logger - Processed P16157-1 in 57.628390073776245 seconds
+2024-07-23 15:19:44,677 - INFO - logger - Processed Q15052-1 in 58.77268099784851 seconds
+2024-07-23 15:19:48,619 - INFO - logger - Processed Q9NZK7-1 in 26.36760902404785 seconds
+2024-07-23 15:19:49,849 - INFO - logger - Processed Q9BWF2-1 in 63.942739963531494 seconds
+2024-07-23 15:19:52,089 - INFO - logger - Processed P20719-1 in 22.492866039276123 seconds
+2024-07-23 15:19:55,923 - INFO - logger - Processed Q9NZZ3-1 in 38.51829385757446 seconds
+2024-07-23 15:20:02,987 - INFO - logger - Processed Q8N5L8-1 in 31.83188033103943 seconds
+2024-07-23 15:20:05,336 - INFO - logger - Processed Q13454-1 in 16.670083045959473 seconds
+2024-07-23 15:20:07,075 - INFO - logger - Processed P51511-1 in 49.6708869934082 seconds
+2024-07-23 15:20:10,676 - INFO - logger - Processed Q9Y6N1-1 in 59.208497285842896 seconds
+2024-07-23 15:20:19,755 - INFO - logger - Processed P07195-1 in 36.17949628829956 seconds
+2024-07-23 15:20:21,997 - INFO - logger - Processed P35052-1 in 16.618748903274536 seconds
+2024-07-23 15:20:29,113 - INFO - logger - Processed P13284-1 in 22.006386756896973 seconds
+2024-07-23 15:20:30,059 - INFO - logger - Processed O75718-1 in 67.28637218475342 seconds
+2024-07-23 15:20:32,157 - INFO - logger - Processed P35241-1 in 36.18821382522583 seconds
+2024-07-23 15:20:36,457 - INFO - logger - Processed P53801-1 in 14.418328046798706 seconds
+2024-07-23 15:20:38,090 - INFO - logger - Processed O15511-1 in 35.06178402900696 seconds
+2024-07-23 15:20:38,098 - INFO - logger - Processed Q9UJN7-1 in 27.377439975738525 seconds
+2024-07-23 15:20:44,941 - INFO - logger - Processed Q8TCT7-1 in 52.81210803985596 seconds
+2024-07-23 15:20:44,950 - INFO - logger - Processed Q9NXF8-1 in 55.068716049194336 seconds
+2024-07-23 15:20:49,086 - INFO - logger - Processed Q96E93-1 in 64.3754711151123 seconds
+2024-07-23 15:20:54,068 - INFO - logger - Processed P48145-1 in 15.900235652923584 seconds
+2024-07-23 15:20:58,974 - INFO - logger - Processed P62937-1 in 28.880615949630737 seconds
+2024-07-23 15:20:59,691 - INFO - logger - Processed O43502-1 in 14.654736042022705 seconds
+2024-07-23 15:21:03,144 - INFO - logger - Processed Q8TDQ0-1 in 18.11053228378296 seconds
+2024-07-23 15:21:03,379 - INFO - logger - Processed Q6P1K2-1 in 14.257780075073242 seconds
+2024-07-23 15:21:04,660 - INFO - logger - Processed Q9H6K4-1 in 35.50735902786255 seconds
+2024-07-23 15:21:05,173 - INFO - logger - Processed P63044-1 in 32.97791004180908 seconds
+2024-07-23 15:21:05,656 - INFO - logger - Processed O00291-1 in 29.163284063339233 seconds
+2024-07-23 15:21:05,800 - INFO - logger - Processed P12268-1 in 46.0069100856781 seconds
+2024-07-23 15:21:16,401 - INFO - logger - Processed P32189-3 in 38.237184047698975 seconds
+2024-07-23 15:21:16,475 - INFO - logger - Hit checkpoint at index 6400
+2024-07-23 15:21:16,475 - INFO - logger - API calls 40
+2024-07-23 15:21:16,475 - INFO - logger - cache hits 60
+2024-07-23 15:21:16,475 - INFO - logger - ============================================
+2024-07-23 15:21:37,822 - INFO - logger - Processed Q63HM9-1 in 21.342334985733032 seconds
+2024-07-23 15:21:38,293 - INFO - logger - Processed Q86XE5-1 in 21.814600944519043 seconds
+2024-07-23 15:21:45,662 - INFO - logger - Processed Q8WVR3-1 in 29.182390928268433 seconds
+2024-07-23 15:21:53,657 - INFO - logger - Processed O75427-1 in 37.1775221824646 seconds
+2024-07-23 15:21:53,775 - INFO - logger - Processed Q8WWV3-1 in 37.297890186309814 seconds
+2024-07-23 15:22:04,303 - INFO - logger - Processed O08537-1 in 25.97321605682373 seconds
+2024-07-23 15:22:06,190 - INFO - logger - Processed Q9QUM9-1 in 28.325114965438843 seconds
+2024-07-23 15:22:07,251 - INFO - logger - Processed P16435-1 in 50.774494886398315 seconds
+2024-07-23 15:22:08,585 - INFO - logger - Processed P31274-1 in 52.10606288909912 seconds
+2024-07-23 15:22:16,351 - INFO - logger - Processed Q14624-1 in 22.61881184577942 seconds
+2024-07-23 15:22:16,631 - INFO - logger - Processed Q8N7X8-1 in 60.15271186828613 seconds
+2024-07-23 15:22:18,094 - INFO - logger - Processed Q8TDX6-1 in 61.614126205444336 seconds
+2024-07-23 15:22:29,796 - INFO - logger - Processed Q86XE5-1 in 73.31794571876526 seconds
+2024-07-23 15:22:30,825 - INFO - logger - Processed Q86TL0-1 in 26.488646745681763 seconds
+2024-07-23 15:22:31,746 - INFO - logger - Processed P16444-1 in 37.932570934295654 seconds
+2024-07-23 15:22:34,637 - INFO - logger - Processed Q92973-1 in 28.411209106445312 seconds
+2024-07-23 15:22:39,940 - INFO - logger - Processed P27449-1 in 54.23741388320923 seconds
+2024-07-23 15:22:48,575 - INFO - logger - Processed Q9Y5Y2-1 in 32.128730058670044 seconds
+2024-07-23 15:22:49,851 - INFO - logger - Processed Q8N2K0-1 in 42.56595778465271 seconds
+2024-07-23 15:22:56,401 - INFO - logger - Processed Q15428-1 in 25.541645050048828 seconds
+2024-07-23 15:22:56,774 - INFO - logger - Processed Q03265-1 in 24.995999813079834 seconds
+2024-07-23 15:23:00,572 - INFO - logger - Processed P09960-1 in 42.44487810134888 seconds
+2024-07-23 15:23:06,095 - INFO - logger - Processed Q8NDZ2-1 in 17.478847980499268 seconds
+2024-07-23 15:23:07,925 - INFO - logger - Processed B3KS81-1 in 51.26055908203125 seconds
+2024-07-23 15:23:08,040 - INFO - logger - Processed P38117-1 in 38.205437898635864 seconds
+2024-07-23 15:23:09,411 - INFO - logger - Processed Q8TDX6-1 in 60.78799390792847 seconds
+2024-07-23 15:23:15,369 - INFO - logger - Processed Q8CGY8-1 in 35.36952495574951 seconds
+2024-07-23 15:23:28,906 - INFO - logger - Processed P58876-1 in 32.46686506271362 seconds
+2024-07-23 15:23:29,931 - INFO - logger - Processed P58876-1 in 21.8574640750885 seconds
+2024-07-23 15:23:39,682 - INFO - logger - Processed Q8N8Z6-1 in 65.00243401527405 seconds
+2024-07-23 15:23:43,724 - INFO - logger - Processed P39998-1 in 3.997460126876831 seconds
+2024-07-23 15:23:46,464 - INFO - logger - Processed P51125-1 in 40.330926179885864 seconds
+2024-07-23 15:23:47,728 - INFO - logger - Processed Q9UBN7-1 in 18.77560806274414 seconds
+2024-07-23 15:23:50,603 - INFO - logger - Processed P32861-1 in 4.104846000671387 seconds
+2024-07-23 15:23:51,024 - INFO - logger - Processed Q8CGY8-1 in 54.215089082717896 seconds
+2024-07-23 15:23:51,993 - INFO - logger - Processed Q5VVC0-1 in 62.10898494720459 seconds
+2024-07-23 15:23:52,553 - INFO - logger - Processed Q96ES7-1 in 44.51328110694885 seconds
+2024-07-23 15:23:53,701 - INFO - logger - Processed Q00887-1 in 38.29792881011963 seconds
+2024-07-23 15:23:54,555 - INFO - logger - Processed P35398-2 in 53.91137886047363 seconds
+2024-07-23 15:23:56,583 - INFO - logger - Processed O43405-1 in 26.618799924850464 seconds
+2024-07-23 15:23:58,543 - INFO - logger - Processed P39960-1 in 6.51661229133606 seconds
+2024-07-23 15:23:59,495 - INFO - logger - Processed P16649-1 in 4.906484365463257 seconds
+2024-07-23 15:24:02,396 - INFO - logger - Processed P04821-1 in 3.8179922103881836 seconds
+2024-07-23 15:24:04,211 - INFO - logger - Processed Q92570-1 in 54.75935101509094 seconds
+2024-07-23 15:24:04,678 - INFO - logger - Processed P39705-1 in 5.145432949066162 seconds
+2024-07-23 15:24:12,129 - INFO - logger - Processed Q13201-1 in 28.360520124435425 seconds
+2024-07-23 15:24:15,902 - INFO - logger - Processed Q9C0B9-1 in 22.16776394844055 seconds
+2024-07-23 15:24:17,484 - INFO - logger - Processed Q9BPZ7-1 in 24.88462519645691 seconds
+2024-07-23 15:24:22,643 - INFO - logger - Processed Q6ZXV5-1 in 31.58731198310852 seconds
+2024-07-23 15:24:26,787 - INFO - logger - Processed P56480-1 in 36.14527988433838 seconds
+2024-07-23 15:24:28,545 - INFO - logger - Processed Q86VP6-1 in 40.782222032547 seconds
+2024-07-23 15:24:33,062 - INFO - logger - Processed P04692-1 in 36.44484615325928 seconds
+2024-07-23 15:24:33,130 - INFO - logger - Hit checkpoint at index 6500
+2024-07-23 15:24:33,130 - INFO - logger - API calls 52
+2024-07-23 15:24:33,130 - INFO - logger - cache hits 48
+2024-07-23 15:24:33,130 - INFO - logger - ============================================
+2024-07-23 15:24:39,051 - INFO - logger - Processed Q04183-1 in 5.917505979537964 seconds
+2024-07-23 15:24:40,302 - INFO - logger - Processed P34761-1 in 7.169434070587158 seconds
+2024-07-23 15:24:43,640 - INFO - logger - Processed P42839-1 in 10.507224798202515 seconds
+2024-07-23 15:24:43,909 - INFO - logger - Processed P46676-1 in 10.778083801269531 seconds
+2024-07-23 15:24:45,038 - INFO - logger - Processed P53094-1 in 11.905932903289795 seconds
+2024-07-23 15:24:46,689 - INFO - logger - Processed P53094-1 in 7.601249933242798 seconds
+2024-07-23 15:24:50,634 - INFO - logger - Processed P53924-1 in 6.95534086227417 seconds
+2024-07-23 15:24:56,282 - INFO - logger - Processed Q6IA69-1 in 23.150185108184814 seconds
+2024-07-23 15:24:56,407 - INFO - logger - Processed P25302-1 in 11.334786653518677 seconds
+2024-07-23 15:25:06,616 - INFO - logger - Processed Q9ES03-1 in 33.48415803909302 seconds
+2024-07-23 15:25:10,161 - INFO - logger - Processed P00507-1 in 37.028409242630005 seconds
+2024-07-23 15:25:18,825 - INFO - logger - Processed Q9Z0P4-1 in 22.50819683074951 seconds
+2024-07-23 15:25:21,552 - INFO - logger - Processed P62908-1 in 48.41870713233948 seconds
+2024-07-23 15:25:23,716 - INFO - logger - Processed Q7L7X3-1 in 27.27555203437805 seconds
+2024-07-23 15:25:25,267 - INFO - logger - Processed P32499-1 in 3.681624174118042 seconds
+2024-07-23 15:25:25,775 - INFO - logger - Processed Q01085-1 in 39.046278953552246 seconds
+2024-07-23 15:25:27,281 - INFO - logger - Processed Q9BT04-1 in 20.62939691543579 seconds
+2024-07-23 15:25:27,446 - INFO - logger - Processed Q8IYA6-1 in 43.500166177749634 seconds
+2024-07-23 15:25:30,181 - INFO - logger - Processed Q03533-1 in 4.874530076980591 seconds
+2024-07-23 15:25:31,424 - INFO - logger - Processed P0CF97-1 in 51.077348709106445 seconds
+2024-07-23 15:25:35,071 - INFO - logger - Processed P16070-1 in 44.39885592460632 seconds
+2024-07-23 15:25:35,863 - INFO - logger - Processed Q6WRX3-1 in 62.731027126312256 seconds
+2024-07-23 15:25:41,908 - INFO - logger - Processed P32499-1 in 6.79809308052063 seconds
+2024-07-23 15:25:45,875 - INFO - logger - Processed Q9CQ25-1 in 20.066181898117065 seconds
+2024-07-23 15:25:51,902 - INFO - logger - Processed Q9CYZ8-1 in 16.003489017486572 seconds
+2024-07-23 15:25:53,138 - INFO - logger - Processed P49748-1 in 42.93863606452942 seconds
+2024-07-23 15:26:03,241 - INFO - logger - Processed Q8TF39-1 in 35.76066279411316 seconds
+2024-07-23 15:26:06,864 - INFO - logger - Processed P46060-1 in 14.927700996398926 seconds
+2024-07-23 15:26:08,120 - INFO - logger - Processed P39923-1 in 4.832178115844727 seconds
+2024-07-23 15:26:09,111 - INFO - logger - Processed O35927-1 in 41.784079790115356 seconds
+2024-07-23 15:26:12,184 - INFO - logger - Processed P06105-1 in 4.027072906494141 seconds
+2024-07-23 15:26:12,951 - INFO - logger - Processed P63319-1 in 41.492146015167236 seconds
+2024-07-23 15:26:14,160 - INFO - logger - Processed Q9JKV2-1 in 28.2485990524292 seconds
+2024-07-23 15:26:14,884 - INFO - logger - Processed Q8IY81-1 in 21.71209692955017 seconds
+2024-07-23 15:26:16,558 - INFO - logger - Processed Q8BK26-1 in 52.8049840927124 seconds
+2024-07-23 15:26:17,711 - INFO - logger - Processed P34909-1 in 4.72093391418457 seconds
+2024-07-23 15:26:22,476 - INFO - logger - Processed Q9Y2H9-1 in 40.50856423377991 seconds
+2024-07-23 15:26:23,936 - INFO - logger - Processed Q12934-1 in 65.07747602462769 seconds
+2024-07-23 15:26:24,677 - INFO - logger - Processed Q9NQ66-1 in 54.45712900161743 seconds
+2024-07-23 15:26:28,437 - INFO - logger - Processed P36041-1 in 10.68271780014038 seconds
+2024-07-23 15:26:28,681 - INFO - logger - Processed P48582-1 in 4.712414979934692 seconds
+2024-07-23 15:26:31,003 - INFO - logger - Processed Q03780-1 in 8.492791891098022 seconds
+2024-07-23 15:26:34,300 - INFO - logger - Processed Q86SU0-1 in 22.072118997573853 seconds
+2024-07-23 15:26:37,393 - INFO - logger - Processed P53854-1 in 8.916941165924072 seconds
+2024-07-23 15:26:39,230 - INFO - logger - Processed P06105-1 in 4.890683174133301 seconds
+2024-07-23 15:26:39,628 - INFO - logger - Processed Q93038-1 in 14.917349815368652 seconds
+2024-07-23 15:26:42,183 - INFO - logger - Processed Q9WVI9-1 in 27.984044075012207 seconds
+2024-07-23 15:26:44,386 - INFO - logger - Processed Q6ZUI0-1 in 29.465643882751465 seconds
+2024-07-23 15:26:44,970 - INFO - logger - Processed Q8K3Z9-1 in 38.070826053619385 seconds
+2024-07-23 15:26:50,736 - INFO - logger - Processed P05453-1 in 8.513730764389038 seconds
+2024-07-23 15:26:50,783 - INFO - logger - Processed P38426-1 in 11.517388820648193 seconds
+2024-07-23 15:26:51,397 - INFO - logger - Processed Q04067-1 in 6.976884126663208 seconds
+2024-07-23 15:27:02,291 - INFO - logger - Processed P52306-1 in 53.139564752578735 seconds
+2024-07-23 15:27:05,595 - INFO - logger - Processed Q68CZ1-1 in 20.59092402458191 seconds
+2024-07-23 15:27:06,104 - INFO - logger - Processed Q15398-2 in 28.67382502555847 seconds
+2024-07-23 15:27:09,628 - INFO - logger - Processed Q9NXD2-1 in 53.0304479598999 seconds
+2024-07-23 15:27:10,350 - INFO - logger - Processed Q9BPZ2-1 in 19.54486107826233 seconds
+2024-07-23 15:27:14,081 - INFO - logger - Processed Q9Y2R4-1 in 45.36346435546875 seconds
+2024-07-23 15:27:16,181 - INFO - logger - Processed P05165-1 in 36.50355887413025 seconds
+2024-07-23 15:27:22,440 - INFO - logger - Processed O35927-1 in 51.39905095100403 seconds
+2024-07-23 15:27:22,508 - INFO - logger - Hit checkpoint at index 6600
+2024-07-23 15:27:22,508 - INFO - logger - API calls 60
+2024-07-23 15:27:22,508 - INFO - logger - cache hits 40
+2024-07-23 15:27:22,508 - INFO - logger - ============================================
+2024-07-23 15:27:27,870 - INFO - logger - Processed O14467-1 in 5.360281229019165 seconds
+2024-07-23 15:27:30,244 - INFO - logger - Processed P32790-1 in 7.732012033462524 seconds
+2024-07-23 15:27:31,919 - INFO - logger - Processed P48562-1 in 9.40743899345398 seconds
+2024-07-23 15:27:34,161 - INFO - logger - Processed P23291-1 in 3.8772830963134766 seconds
+2024-07-23 15:27:35,937 - INFO - logger - Processed P25339-1 in 13.424942016601562 seconds
+2024-07-23 15:27:41,026 - INFO - logger - Processed P39940-1 in 9.067735195159912 seconds
+2024-07-23 15:27:43,391 - INFO - logger - Processed O08553-1 in 20.881761074066162 seconds
+2024-07-23 15:27:48,578 - INFO - logger - Processed Q3TUF7-1 in 26.06711983680725 seconds
+2024-07-23 15:27:53,696 - INFO - logger - Processed Q3UHF7-1 in 31.184459924697876 seconds
+2024-07-23 15:27:54,456 - INFO - logger - Processed P10719-1 in 26.545175075531006 seconds
+2024-07-23 15:27:55,072 - INFO - logger - Processed P25567-1 in 6.452448129653931 seconds
+2024-07-23 15:28:00,471 - INFO - logger - Processed Q05027-1 in 5.980583906173706 seconds
+2024-07-23 15:28:01,766 - INFO - logger - Processed O95081-1 in 39.253867864608765 seconds
+2024-07-23 15:28:03,183 - INFO - logger - Processed Q8NB12-1 in 40.671342849731445 seconds
+2024-07-23 15:28:06,890 - INFO - logger - Processed Q924H7-1 in 30.912303924560547 seconds
+2024-07-23 15:28:13,221 - INFO - logger - Processed Q4AC94-5 in 39.0193977355957 seconds
+2024-07-23 15:28:16,227 - INFO - logger - Processed P43560-1 in 9.301456928253174 seconds
+2024-07-23 15:28:18,892 - INFO - logger - Processed P12110-1 in 56.380626916885376 seconds
+2024-07-23 15:28:19,491 - INFO - logger - Processed Q9JKV1-1 in 17.6867458820343 seconds
+2024-07-23 15:28:22,697 - INFO - logger - Processed Q03306-1 in 9.43331503868103 seconds
+2024-07-23 15:28:23,375 - INFO - logger - Processed P53010-1 in 7.103801012039185 seconds
+2024-07-23 15:28:25,155 - INFO - logger - Processed P18085-1 in 24.643749952316284 seconds
+2024-07-23 15:28:27,604 - INFO - logger - Processed P48562-1 in 4.866441965103149 seconds
+2024-07-23 15:28:28,987 - INFO - logger - Processed P43582-1 in 5.574023008346558 seconds
+2024-07-23 15:28:29,191 - INFO - logger - Processed Q03306-1 in 4.002445220947266 seconds
+2024-07-23 15:28:31,704 - INFO - logger - Processed P53890-1 in 4.061923027038574 seconds
+2024-07-23 15:28:34,692 - INFO - logger - Processed Q7TSG3-1 in 40.95928430557251 seconds
+2024-07-23 15:28:36,386 - INFO - logger - Processed Q00535-1 in 55.31903409957886 seconds
+2024-07-23 15:28:36,877 - INFO - logger - Processed Q16633-1 in 17.351927995681763 seconds
+2024-07-23 15:28:37,798 - INFO - logger - Processed P40477-1 in 6.051738023757935 seconds
+2024-07-23 15:28:42,600 - INFO - logger - Processed P40535-1 in 7.871263027191162 seconds
+2024-07-23 15:28:46,661 - INFO - logger - Processed Q5JWR5-1 in 43.44355297088623 seconds
+2024-07-23 15:28:46,983 - INFO - logger - Processed P23059-1 in 4.340288162231445 seconds
+2024-07-23 15:28:51,151 - INFO - logger - Processed P13595-1 in 67.72077298164368 seconds
+2024-07-23 15:28:58,385 - INFO - logger - Processed Q9Z2H5-1 in 63.27414917945862 seconds
+2024-07-23 15:28:59,617 - INFO - logger - Processed Q92777-1 in 40.69056677818298 seconds
+2024-07-23 15:29:03,217 - INFO - logger - Processed Q9JKV1-1 in 26.30374813079834 seconds
+2024-07-23 15:29:05,737 - INFO - logger - Processed P46675-1 in 7.317436218261719 seconds
+2024-07-23 15:29:09,051 - INFO - logger - Processed Q16875-1 in 22.03008198738098 seconds
+2024-07-23 15:29:09,906 - INFO - logger - Processed Q8N8X9-1 in 40.67836284637451 seconds
+2024-07-23 15:29:13,725 - INFO - logger - Processed P14602-1 in 35.88624620437622 seconds
+2024-07-23 15:29:17,181 - INFO - logger - Processed P07477-1 in 30.484930753707886 seconds
+2024-07-23 15:29:21,394 - INFO - logger - Processed O95456-1 in 21.743228912353516 seconds
+2024-07-23 15:29:22,713 - INFO - logger - Processed P34810-1 in 19.46181297302246 seconds
+2024-07-23 15:29:25,682 - INFO - logger - Processed Q9H173-1 in 49.26029372215271 seconds
+2024-07-23 15:29:25,843 - INFO - logger - Processed P02461-1 in 34.65724205970764 seconds
+2024-07-23 15:29:26,989 - INFO - logger - Processed Q9UMQ3-1 in 57.96285128593445 seconds
+2024-07-23 15:29:27,057 - INFO - logger - Hit checkpoint at index 6700
+2024-07-23 15:29:27,057 - INFO - logger - API calls 47
+2024-07-23 15:29:27,057 - INFO - logger - cache hits 53
+2024-07-23 15:29:27,057 - INFO - logger - ============================================
+2024-07-23 15:29:30,472 - INFO - logger - Processed Q12502-1 in 3.4126017093658447 seconds
+2024-07-23 15:29:31,683 - INFO - logger - Processed Q12276-1 in 4.6224400997161865 seconds
+2024-07-23 15:29:33,767 - INFO - logger - Processed P14680-1 in 6.706735134124756 seconds
+2024-07-23 15:29:45,011 - INFO - logger - Processed Q8IWA6-1 in 17.950906991958618 seconds
+2024-07-23 15:29:47,543 - INFO - logger - Processed Q8CFN5-1 in 20.484210968017578 seconds
+2024-07-23 15:29:50,249 - INFO - logger - Processed Q12446-1 in 5.199545860290527 seconds
+2024-07-23 15:30:07,535 - INFO - logger - Processed P09215-1 in 40.47525382041931 seconds
+2024-07-23 15:30:08,627 - INFO - logger - Processed Q9DBG9-1 in 41.57009792327881 seconds
+2024-07-23 15:30:09,503 - INFO - logger - Processed Q80X50-1 in 19.21384906768799 seconds
+2024-07-23 15:30:10,265 - INFO - logger - Processed Q6ZSJ9-1 in 38.54385471343994 seconds
+2024-07-23 15:30:13,604 - INFO - logger - Processed P34217-1 in 6.030078887939453 seconds
+2024-07-23 15:30:13,672 - INFO - logger - Processed Q03063-1 in 4.1283910274505615 seconds
+2024-07-23 15:30:16,869 - INFO - logger - Processed Q8N4F7-1 in 49.81198000907898 seconds
+2024-07-23 15:30:17,110 - INFO - logger - Processed Q16827-1 in 46.60032510757446 seconds
+2024-07-23 15:30:20,075 - INFO - logger - Processed P39678-1 in 6.411473274230957 seconds
+2024-07-23 15:30:20,760 - INFO - logger - Processed Q7TQ16-1 in 53.700286865234375 seconds
+2024-07-23 15:30:25,868 - INFO - logger - Processed P40956-1 in 5.753393888473511 seconds
+2024-07-23 15:30:26,455 - INFO - logger - Processed Q92597-1 in 17.790672779083252 seconds
+2024-07-23 15:30:27,101 - INFO - logger - Processed E9Q5G3-1 in 39.52247405052185 seconds
+2024-07-23 15:30:29,446 - INFO - logger - Processed Q15155-1 in 62.38640570640564 seconds
+2024-07-23 15:30:34,265 - INFO - logger - Processed Q8NFW9-1 in 17.33621096611023 seconds
+2024-07-23 15:30:44,934 - INFO - logger - Processed Q6NXJ0-1 in 34.63372492790222 seconds
+2024-07-23 15:30:45,189 - INFO - logger - Processed O76096-1 in 71.37978625297546 seconds
+2024-07-23 15:30:46,411 - INFO - logger - Processed P15498-1 in 29.26722002029419 seconds
+2024-07-23 15:30:53,573 - INFO - logger - Processed P70302-1 in 19.273722887039185 seconds
+2024-07-23 15:31:01,053 - INFO - logger - Processed P82930-1 in 40.25614595413208 seconds
+2024-07-23 15:31:03,392 - INFO - logger - Processed P25490-1 in 18.167958974838257 seconds
+2024-07-23 15:31:05,192 - INFO - logger - Processed Q96S06-1 in 35.70959520339966 seconds
+2024-07-23 15:31:07,205 - INFO - logger - Processed P20357-1 in 40.71442890167236 seconds
+2024-07-23 15:31:11,799 - INFO - logger - Processed Q8TD19-1 in 18.18907594680786 seconds
+2024-07-23 15:31:14,576 - INFO - logger - Processed P38692-1 in 11.149383783340454 seconds
+2024-07-23 15:31:15,047 - INFO - logger - Processed P48678-1 in 49.138920068740845 seconds
+2024-07-23 15:31:16,525 - INFO - logger - Processed Q8C2Q3-1 in 62.817415952682495 seconds
+2024-07-23 15:31:16,536 - INFO - logger - Processed Q9H0Z9-1 in 31.49775505065918 seconds
+2024-07-23 15:31:20,866 - INFO - logger - Processed P20134-1 in 4.254758834838867 seconds
+2024-07-23 15:31:21,205 - INFO - logger - Processed Q05193-1 in 54.06897711753845 seconds
+2024-07-23 15:31:22,382 - INFO - logger - Processed A1L188-1 in 21.295129776000977 seconds
+2024-07-23 15:31:26,741 - INFO - logger - Processed P53741-1 in 4.321548700332642 seconds
+2024-07-23 15:31:29,266 - INFO - logger - Processed Q12044-1 in 8.025415182113647 seconds
+2024-07-23 15:31:31,258 - INFO - logger - Processed Q62441-1 in 24.015733003616333 seconds
+2024-07-23 15:31:32,504 - INFO - logger - Processed P40956-1 in 3.1993579864501953 seconds
+2024-07-23 15:31:33,234 - INFO - logger - Processed P06737-1 in 18.618529081344604 seconds
+2024-07-23 15:31:35,390 - INFO - logger - Processed Q68FH0-1 in 23.552034854888916 seconds
+2024-07-23 15:31:40,635 - INFO - logger - Processed Q9UJY4-1 in 25.550533056259155 seconds
+2024-07-23 15:31:40,974 - INFO - logger - Processed Q8BSS9-1 in 35.745384216308594 seconds
+2024-07-23 15:31:41,884 - INFO - logger - Processed Q8N1K5-1 in 20.89692497253418 seconds
+2024-07-23 15:31:43,262 - INFO - logger - Processed Q8BTI8-1 in 11.970592737197876 seconds
+2024-07-23 15:31:43,717 - INFO - logger - Processed Q9BRN9-1 in 57.269208908081055 seconds
+2024-07-23 15:31:44,767 - INFO - logger - Processed P48678-1 in 28.161489963531494 seconds
+2024-07-23 15:31:45,059 - INFO - logger - Processed Q6ZTI6-1 in 18.274096965789795 seconds
+2024-07-23 15:31:45,126 - INFO - logger - Hit checkpoint at index 6800
+2024-07-23 15:31:45,126 - INFO - logger - API calls 50
+2024-07-23 15:31:45,126 - INFO - logger - cache hits 50
+2024-07-23 15:31:45,126 - INFO - logger - ============================================
+2024-07-23 15:31:50,703 - INFO - logger - Processed Q12265-1 in 5.573148965835571 seconds
+2024-07-23 15:31:51,312 - INFO - logger - Processed P38968-1 in 6.183145999908447 seconds
+2024-07-23 15:31:53,940 - INFO - logger - Processed P32618-1 in 3.1960439682006836 seconds
+2024-07-23 15:31:55,184 - INFO - logger - Processed Q06407-1 in 10.057306051254272 seconds
+2024-07-23 15:31:55,253 - INFO - logger - Processed P38266-1 in 10.122577905654907 seconds
+2024-07-23 15:32:09,381 - INFO - logger - Processed Q9H147-1 in 18.028156995773315 seconds
+2024-07-23 15:32:14,991 - INFO - logger - Processed Q9BYG8-1 in 29.861580848693848 seconds
+2024-07-23 15:32:18,984 - INFO - logger - Processed Q92896-1 in 33.854576110839844 seconds
+2024-07-23 15:32:22,176 - INFO - logger - Processed Q9D032-1 in 28.196364879608154 seconds
+2024-07-23 15:32:24,449 - INFO - logger - Processed Q9UIQ6-1 in 29.16091799736023 seconds
+2024-07-23 15:32:24,748 - INFO - logger - Processed Q08484-1 in 5.725671768188477 seconds
+2024-07-23 15:32:32,711 - INFO - logger - Processed Q9CPV2-1 in 47.58261227607727 seconds
+2024-07-23 15:32:34,192 - INFO - logger - Processed Q8CH77-1 in 49.061497926712036 seconds
+2024-07-23 15:32:35,352 - INFO - logger - Processed P70402-1 in 25.917991876602173 seconds
+2024-07-23 15:32:38,966 - INFO - logger - Processed Q9QZS8-1 in 53.838327169418335 seconds
+2024-07-23 15:32:42,144 - INFO - logger - Processed Q8K3X4-1 in 46.91988921165466 seconds
+2024-07-23 15:32:42,442 - INFO - logger - Processed P25357-1 in 3.4380571842193604 seconds
+2024-07-23 15:32:45,086 - INFO - logger - Processed Q6UB35-1 in 59.95905160903931 seconds
+2024-07-23 15:32:45,095 - INFO - logger - Processed Q86XS5-1 in 20.61101794242859 seconds
+2024-07-23 15:32:45,930 - INFO - logger - Processed Q8TAT5-1 in 30.89826512336731 seconds
+2024-07-23 15:32:50,066 - INFO - logger - Processed P47135-1 in 4.098243236541748 seconds
+2024-07-23 15:32:54,361 - INFO - logger - Processed Q13477-1 in 32.14736819267273 seconds
+2024-07-23 15:33:04,194 - INFO - logger - Processed Q96JM2-1 in 31.442950963974 seconds
+2024-07-23 15:33:05,722 - INFO - logger - Processed Q8IWD5-1 in 20.548126220703125 seconds
+2024-07-23 15:33:06,977 - INFO - logger - Processed Q8IVE3-1 in 24.49588394165039 seconds
+2024-07-23 15:33:07,880 - INFO - logger - Processed Q14134-1 in 22.709609985351562 seconds
+2024-07-23 15:33:12,155 - INFO - logger - Processed Q6NXK2-1 in 47.36538600921631 seconds
+2024-07-23 15:33:19,935 - INFO - logger - Processed Q9NSB8-1 in 45.70447015762329 seconds
+2024-07-23 15:33:23,221 - INFO - logger - Processed O14975-1 in 41.035611152648926 seconds
+2024-07-23 15:33:23,927 - INFO - logger - Processed Q8NFQ8-1 in 29.52892279624939 seconds
+2024-07-23 15:33:27,587 - INFO - logger - Processed Q2NL68-1 in 52.19872689247131 seconds
+2024-07-23 15:33:35,874 - INFO - logger - Processed P54920-1 in 31.64040970802307 seconds
+2024-07-23 15:33:37,208 - INFO - logger - Processed Q80YR4-1 in 47.09103608131409 seconds
+2024-07-23 15:33:42,432 - INFO - logger - Processed Q9HC96-1 in 36.67338490486145 seconds
+2024-07-23 15:33:42,550 - INFO - logger - Hit checkpoint at index 6900
+2024-07-23 15:33:42,550 - INFO - logger - API calls 34
+2024-07-23 15:33:42,550 - INFO - logger - cache hits 66
+2024-07-23 15:33:42,550 - INFO - logger - ============================================
+2024-07-23 15:33:46,758 - INFO - logger - Processed P39969-1 in 4.206509828567505 seconds
+2024-07-23 15:33:51,883 - INFO - logger - Processed Q12432-1 in 9.33218502998352 seconds
+2024-07-23 15:33:51,935 - INFO - logger - Processed Q03213-1 in 5.135303020477295 seconds
+2024-07-23 15:33:56,977 - INFO - logger - Processed P07261-1 in 4.988856077194214 seconds
+2024-07-23 15:34:02,735 - INFO - logger - Processed Q9NPF4-1 in 20.182305097579956 seconds
+2024-07-23 15:34:07,929 - INFO - logger - Processed O60232-1 in 25.3788321018219 seconds
+2024-07-23 15:34:09,517 - INFO - logger - Processed P53191-1 in 6.741600036621094 seconds
+2024-07-23 15:34:16,068 - INFO - logger - Processed P33332-1 in 6.5092620849609375 seconds
+2024-07-23 15:34:24,522 - INFO - logger - Processed P40433-1 in 16.555086851119995 seconds
+2024-07-23 15:34:28,223 - INFO - logger - Processed O95208-1 in 45.669737100601196 seconds
+2024-07-23 15:34:31,952 - INFO - logger - Processed B1AZP2-1 in 49.399879932403564 seconds
+2024-07-23 15:34:40,595 - INFO - logger - Processed Q9NXR8-1 in 58.04138803482056 seconds
+2024-07-23 15:34:43,617 - INFO - logger - Processed Q09XV5-1 in 61.065325021743774 seconds
+2024-07-23 15:34:49,667 - INFO - logger - Processed Q6P9F0-1 in 25.103513956069946 seconds
+2024-07-23 15:34:56,140 - INFO - logger - Processed Q80YA9-1 in 73.58683013916016 seconds
+2024-07-23 15:35:01,519 - INFO - logger - Processed Q8IY51-1 in 78.96796226501465 seconds
+2024-07-23 15:35:01,746 - INFO - logger - Processed Q6ZW31-1 in 18.087736129760742 seconds
+2024-07-23 15:35:03,180 - INFO - logger - Processed P82933-1 in 66.16102194786072 seconds
+2024-07-23 15:35:03,895 - INFO - logger - Processed Q9UBC0-1 in 35.637202978134155 seconds
+2024-07-23 15:35:06,419 - INFO - logger - Processed P08018-1 in 4.769963026046753 seconds
+2024-07-23 15:35:09,036 - INFO - logger - Processed Q7TQE6-1 in 77.0772397518158 seconds
+2024-07-23 15:35:17,805 - INFO - logger - Processed Q96AY3-1 in 21.62343192100525 seconds
+2024-07-23 15:35:25,768 - INFO - logger - Processed Q08116-1 in 22.55318593978882 seconds
+2024-07-23 15:35:27,873 - INFO - logger - Processed Q9H0M4-1 in 71.76211285591125 seconds
+2024-07-23 15:35:29,493 - INFO - logger - Processed P16409-1 in 48.82691287994385 seconds
+2024-07-23 15:35:30,328 - INFO - logger - Processed Q3MJ13-1 in 12.477592706680298 seconds
+2024-07-23 15:35:32,125 - INFO - logger - Processed Q9BXS4-1 in 28.189120054244995 seconds
+2024-07-23 15:35:34,711 - INFO - logger - Processed P99027-1 in 28.253576040267944 seconds
+2024-07-23 15:35:36,366 - INFO - logger - Processed Q07825-1 in 8.444406032562256 seconds
+2024-07-23 15:35:37,542 - INFO - logger - Processed F6SEU4-1 in 65.55423092842102 seconds
+2024-07-23 15:35:45,483 - INFO - logger - Processed Q91ZZ3-1 in 55.780932903289795 seconds
+2024-07-23 15:35:50,953 - INFO - logger - Processed Q5VZ18-1 in 49.17159700393677 seconds
+2024-07-23 15:35:51,241 - INFO - logger - Processed Q02083-1 in 14.838243007659912 seconds
+2024-07-23 15:35:54,298 - INFO - logger - Processed Q6P9A3-1 in 23.932766914367676 seconds
+2024-07-23 15:35:56,734 - INFO - logger - Processed Q07825-1 in 5.4574432373046875 seconds
+2024-07-23 15:35:57,055 - INFO - logger - Processed Q9GZX9-1 in 24.89339280128479 seconds
+2024-07-23 15:36:00,771 - INFO - logger - Processed P08018-1 in 3.9589428901672363 seconds
+2024-07-23 15:36:01,359 - INFO - logger - Processed Q00444-1 in 52.282370805740356 seconds
+2024-07-23 15:36:03,162 - INFO - logger - Processed Q9H425-1 in 37.34707188606262 seconds
+2024-07-23 15:36:03,366 - INFO - logger - Processed Q9UIW0-1 in 17.836113929748535 seconds
+2024-07-23 15:36:03,683 - INFO - logger - Processed P62073-1 in 28.935669898986816 seconds
+2024-07-23 15:36:08,079 - INFO - logger - Processed Q96EY8-1 in 10.98361086845398 seconds
+2024-07-23 15:36:11,264 - INFO - logger - Processed O76038-1 in 33.6872980594635 seconds
+2024-07-23 15:36:11,473 - INFO - logger - Processed Q9NZH4-1 in 20.4475200176239 seconds
+2024-07-23 15:36:15,156 - INFO - logger - Processed P51570-1 in 45.62530183792114 seconds
+2024-07-23 15:36:19,247 - INFO - logger - Processed Q9BVV7-1 in 24.910189151763916 seconds
+2024-07-23 15:36:26,628 - INFO - logger - Processed Q15672-1 in 25.21303391456604 seconds
+2024-07-23 15:36:33,289 - INFO - logger - Processed Q9H3K2-1 in 32.477559089660645 seconds
+2024-07-23 15:36:33,375 - INFO - logger - Hit checkpoint at index 7000
+2024-07-23 15:36:33,375 - INFO - logger - API calls 48
+2024-07-23 15:36:33,375 - INFO - logger - cache hits 52
+2024-07-23 15:36:33,375 - INFO - logger - ============================================
+2024-07-23 15:36:41,959 - INFO - logger - Processed Q12124-1 in 8.576681137084961 seconds
+2024-07-23 15:36:50,069 - INFO - logger - Processed Q07807-1 in 8.049120903015137 seconds
+2024-07-23 15:36:59,838 - INFO - logger - Processed Q9JL70-1 in 26.460878133773804 seconds
+2024-07-23 15:37:02,638 - INFO - logger - Processed Q9NWX6-1 in 29.25637674331665 seconds
+2024-07-23 15:37:04,175 - INFO - logger - Processed Q5BJF6-1 in 30.79869318008423 seconds
+2024-07-23 15:37:10,613 - INFO - logger - Processed P16118-1 in 37.230501890182495 seconds
+2024-07-23 15:37:19,466 - INFO - logger - Processed O43567-1 in 16.791362762451172 seconds
+2024-07-23 15:37:19,859 - INFO - logger - Processed Q9HAW7-1 in 46.476367712020874 seconds
+2024-07-23 15:37:21,615 - INFO - logger - Processed O60447-1 in 48.232227087020874 seconds
+2024-07-23 15:37:24,921 - INFO - logger - Processed Q96PB7-1 in 51.5391731262207 seconds
+2024-07-23 15:37:25,951 - INFO - logger - Processed Q07807-1 in 4.297194004058838 seconds
+2024-07-23 15:37:27,449 - INFO - logger - Processed Q9UBT7-1 in 54.065924882888794 seconds
+2024-07-23 15:37:35,213 - INFO - logger - Processed P26006-2 in 61.83116388320923 seconds
+2024-07-23 15:37:37,690 - INFO - logger - Processed P20933-1 in 27.032708168029785 seconds
+2024-07-23 15:37:42,883 - INFO - logger - Processed P11951-1 in 38.67154884338379 seconds
+2024-07-23 15:37:57,475 - INFO - logger - Processed P14324-1 in 67.35591411590576 seconds
+2024-07-23 15:37:57,665 - INFO - logger - Processed P04636-1 in 22.402318239212036 seconds
+2024-07-23 15:38:00,348 - INFO - logger - Processed P62987-1 in 34.35816979408264 seconds
+2024-07-23 15:38:04,833 - INFO - logger - Processed Q9DC51-1 in 45.30854392051697 seconds
+2024-07-23 15:38:05,579 - INFO - logger - Processed O75394-1 in 40.61706209182739 seconds
+2024-07-23 15:38:07,853 - INFO - logger - Processed Q60876-1 in 47.949925899505615 seconds
+2024-07-23 15:38:09,501 - INFO - logger - Processed P84098-1 in 69.62132716178894 seconds
+2024-07-23 15:38:10,231 - INFO - logger - Processed Q02100-1 in 4.615031003952026 seconds
+2024-07-23 15:38:11,459 - INFO - logger - Processed Q99216-1 in 6.584329843521118 seconds
+2024-07-23 15:38:13,947 - INFO - logger - Processed Q07807-1 in 6.056601047515869 seconds
+2024-07-23 15:38:17,505 - INFO - logger - Processed P46682-1 in 6.01052188873291 seconds
+2024-07-23 15:38:22,243 - INFO - logger - Processed Q9BQ24-1 in 54.7572500705719 seconds
+2024-07-23 15:38:26,217 - INFO - logger - Processed Q8WW52-1 in 48.46873998641968 seconds
+2024-07-23 15:38:27,978 - INFO - logger - Processed Q8WXX5-1 in 30.277456998825073 seconds
+2024-07-23 15:38:29,022 - INFO - logger - Processed Q8WTR2-1 in 15.036824941635132 seconds
+2024-07-23 15:38:34,003 - INFO - logger - Processed P63313-1 in 33.61401295661926 seconds
+2024-07-23 15:38:35,524 - INFO - logger - Processed Q8IXQ5-1 in 37.96373200416565 seconds
+2024-07-23 15:38:43,195 - INFO - logger - Processed P45452-1 in 60.270195960998535 seconds
+2024-07-23 15:38:45,986 - INFO - logger - Processed Q9P2Y4-1 in 35.716150999069214 seconds
+2024-07-23 15:38:53,335 - INFO - logger - Processed P00338-1 in 27.0831561088562 seconds
+2024-07-23 15:38:53,512 - INFO - logger - Processed Q61183-1 in 35.963958978652954 seconds
+2024-07-23 15:38:54,749 - INFO - logger - Processed Q3TLH4-1 in 20.703083038330078 seconds
+2024-07-23 15:38:59,025 - INFO - logger - Processed Q8R4S0-1 in 36.72827386856079 seconds
+2024-07-23 15:39:02,149 - INFO - logger - Processed O43294-1 in 52.60666298866272 seconds
+2024-07-23 15:39:03,381 - INFO - logger - Processed P01942-1 in 35.366952896118164 seconds
+2024-07-23 15:39:08,192 - INFO - logger - Processed Q99988-1 in 39.12704420089722 seconds
+2024-07-23 15:39:08,265 - INFO - logger - Hit checkpoint at index 7100
+2024-07-23 15:39:08,265 - INFO - logger - API calls 41
+2024-07-23 15:39:08,265 - INFO - logger - cache hits 59
+2024-07-23 15:39:08,265 - INFO - logger - ============================================
+2024-07-23 15:39:15,033 - INFO - logger - Processed P40002-1 in 6.767582893371582 seconds
+2024-07-23 15:39:30,267 - INFO - logger - Processed P14625-1 in 21.999271869659424 seconds
+2024-07-23 15:39:32,828 - INFO - logger - Processed P51881-1 in 24.56167221069336 seconds
+2024-07-23 15:39:34,700 - INFO - logger - Processed O94986-4 in 26.432146787643433 seconds
+2024-07-23 15:39:42,910 - INFO - logger - Processed A2AKB9-1 in 34.64046001434326 seconds
+2024-07-23 15:39:43,159 - INFO - logger - Processed Q6BDI9-1 in 34.89265727996826 seconds
+2024-07-23 15:39:47,762 - INFO - logger - Processed Q9QYX7-1 in 39.495672941207886 seconds
+2024-07-23 15:39:50,496 - INFO - logger - Processed Q8IXW5-1 in 17.63113498687744 seconds
+2024-07-23 15:39:56,211 - INFO - logger - Processed Q8C9B9-1 in 47.946210861206055 seconds
+2024-07-23 15:39:59,289 - INFO - logger - Processed Q96RT1-1 in 44.20774483680725 seconds
+2024-07-23 15:39:59,653 - INFO - logger - Processed P30665-1 in 3.401280164718628 seconds
+2024-07-23 15:40:00,888 - INFO - logger - Processed P0DN25-1 in 52.61955189704895 seconds
+2024-07-23 15:40:01,459 - INFO - logger - Processed Q99PP2-1 in 26.719154119491577 seconds
+2024-07-23 15:40:01,704 - INFO - logger - Processed Q2PZL6-1 in 53.43791198730469 seconds
+2024-07-23 15:40:03,804 - INFO - logger - Processed Q9WU42-1 in 16.00378394126892 seconds
+2024-07-23 15:40:04,868 - INFO - logger - Processed Q03825-1 in 3.3243257999420166 seconds
+2024-07-23 15:40:05,882 - INFO - logger - Processed Q9Z2D6-1 in 35.569759130477905 seconds
+2024-07-23 15:40:15,872 - INFO - logger - Processed Q9Y2H2-1 in 16.54603910446167 seconds
+2024-07-23 15:40:21,443 - INFO - logger - Processed O15126-1 in 21.75156307220459 seconds
+2024-07-23 15:40:22,882 - INFO - logger - Processed Q9Y468-5 in 19.039852142333984 seconds
+2024-07-23 15:40:27,648 - INFO - logger - Processed Q96FL9-1 in 44.45008826255798 seconds
+2024-07-23 15:40:28,019 - INFO - logger - Processed P02563-1 in 45.049116134643555 seconds
+2024-07-23 15:40:32,186 - INFO - logger - Processed Q4JK59-1 in 27.278370141983032 seconds
+2024-07-23 15:40:37,975 - INFO - logger - Processed P0C7P4-1 in 47.439908027648926 seconds
+2024-07-23 15:40:38,086 - INFO - logger - Processed Q12271-1 in 5.862469911575317 seconds
+2024-07-23 15:40:43,125 - INFO - logger - Processed P56645-1 in 42.201164960861206 seconds
+2024-07-23 15:40:44,237 - INFO - logger - Processed P30665-1 in 6.223793029785156 seconds
+2024-07-23 15:40:48,127 - INFO - logger - Processed Q99JB6-1 in 26.647263050079346 seconds
+2024-07-23 15:40:50,611 - INFO - logger - Processed Q9BPX5-1 in 27.689422130584717 seconds
+2024-07-23 15:40:51,741 - INFO - logger - Processed Q9QYX7-1 in 35.82506704330444 seconds
+2024-07-23 15:40:55,788 - INFO - logger - Processed Q8N961-1 in 49.86824703216553 seconds
+2024-07-23 15:41:03,380 - INFO - logger - Processed Q9EQF5-1 in 61.639028787612915 seconds
+2024-07-23 15:41:07,267 - INFO - logger - Processed Q8TBZ9-1 in 16.618135929107666 seconds
+2024-07-23 15:41:10,749 - INFO - logger - Processed Q8N693-1 in 27.578685998916626 seconds
+2024-07-23 15:41:10,842 - INFO - logger - Processed Q06409-1 in 3.534564256668091 seconds
+2024-07-23 15:41:12,046 - INFO - logger - Processed Q5W0Q7-1 in 27.76670813560486 seconds
+2024-07-23 15:41:16,501 - INFO - logger - Processed P68035-1 in 38.37557911872864 seconds
+2024-07-23 15:41:18,704 - INFO - logger - Processed O95400-1 in 50.64604687690735 seconds
+2024-07-23 15:41:24,084 - INFO - logger - Processed Q9Y2K2-5 in 56.29821705818176 seconds
+2024-07-23 15:41:25,762 - INFO - logger - Processed Q99J27-1 in 22.337367057800293 seconds
+2024-07-23 15:41:28,109 - INFO - logger - Processed Q8CGB6-1 in 32.28452491760254 seconds
+2024-07-23 15:41:32,436 - INFO - logger - Processed P49247-1 in 44.27344012260437 seconds
+2024-07-23 15:41:34,890 - INFO - logger - Processed Q8VEK3-1 in 43.11196279525757 seconds
+2024-07-23 15:41:34,964 - INFO - logger - Hit checkpoint at index 7200
+2024-07-23 15:41:34,964 - INFO - logger - API calls 43
+2024-07-23 15:41:34,964 - INFO - logger - cache hits 57
+2024-07-23 15:41:34,964 - INFO - logger - ============================================
+2024-07-23 15:41:39,532 - INFO - logger - Processed P48361-1 in 4.565267324447632 seconds
+2024-07-23 15:41:40,834 - INFO - logger - Processed P48415-1 in 5.867569208145142 seconds
+2024-07-23 15:41:59,061 - INFO - logger - Processed Q8IWR0-1 in 24.095239877700806 seconds
+2024-07-23 15:42:02,165 - INFO - logger - Processed Q3U3E2-1 in 27.19744896888733 seconds
+2024-07-23 15:42:02,446 - INFO - logger - Processed Q921C3-1 in 21.570679903030396 seconds
+2024-07-23 15:42:04,951 - INFO - logger - Processed Q14573-1 in 29.984829902648926 seconds
+2024-07-23 15:42:07,250 - INFO - logger - Processed P33400-1 in 5.004974126815796 seconds
+2024-07-23 15:42:11,546 - INFO - logger - Processed P08559-1 in 31.951820850372314 seconds
+2024-07-23 15:42:19,552 - INFO - logger - Processed P27600-1 in 44.58607578277588 seconds
+2024-07-23 15:42:21,214 - INFO - logger - Processed O96028-1 in 22.10657787322998 seconds
+2024-07-23 15:42:24,166 - INFO - logger - Processed Q8K0U4-1 in 49.197932958602905 seconds
+2024-07-23 15:42:26,418 - INFO - logger - Processed P39113-1 in 6.8234028816223145 seconds
+2024-07-23 15:42:28,068 - INFO - logger - Processed O00468-1 in 53.10016417503357 seconds
+2024-07-23 15:42:32,937 - INFO - logger - Processed Q2WGJ8-1 in 57.97075891494751 seconds
+2024-07-23 15:42:34,130 - INFO - logger - Processed P53115-1 in 7.673985004425049 seconds
+2024-07-23 15:42:37,964 - INFO - logger - Processed Q12891-1 in 32.97622203826904 seconds
+2024-07-23 15:42:39,428 - INFO - logger - Processed Q8NI36-1 in 64.46079087257385 seconds
+2024-07-23 15:42:40,570 - INFO - logger - Processed Q3UVX5-1 in 28.96684217453003 seconds
+2024-07-23 15:42:40,820 - INFO - logger - Processed P42669-1 in 38.33550310134888 seconds
+2024-07-23 15:42:45,526 - INFO - logger - Processed Q8WXE0-1 in 24.27415108680725 seconds
+2024-07-23 15:42:46,356 - INFO - logger - Processed Q5HYK7-1 in 39.06625819206238 seconds
+2024-07-23 15:42:58,566 - INFO - logger - Processed Q86Y33-1 in 30.460070848464966 seconds
+2024-07-23 15:43:02,997 - INFO - logger - Processed Q13287-1 in 28.826358795166016 seconds
+2024-07-23 15:43:10,129 - INFO - logger - Processed Q6P7N7-1 in 45.926973819732666 seconds
+2024-07-23 15:43:10,740 - INFO - logger - Processed Q96PF2-1 in 25.17585015296936 seconds
+2024-07-23 15:43:20,351 - INFO - logger - Processed P55061-1 in 39.69331192970276 seconds
+2024-07-23 15:43:21,206 - INFO - logger - Processed Q16143-1 in 40.349241971969604 seconds
+2024-07-23 15:43:21,277 - INFO - logger - Processed Q96AQ1-1 in 34.88437104225159 seconds
+2024-07-23 15:43:21,851 - INFO - logger - Processed Q8IZC4-1 in 48.87686514854431 seconds
+2024-07-23 15:43:22,304 - INFO - logger - Processed O43704-1 in 44.299290895462036 seconds
+2024-07-23 15:43:24,578 - INFO - logger - Processed Q99963-1 in 45.10926628112793 seconds
+2024-07-23 15:43:24,661 - INFO - logger - Hit checkpoint at index 7300
+2024-07-23 15:43:24,661 - INFO - logger - API calls 31
+2024-07-23 15:43:24,661 - INFO - logger - cache hits 69
+2024-07-23 15:43:24,661 - INFO - logger - ============================================
+2024-07-23 15:43:47,199 - INFO - logger - Processed O43707-1 in 22.53538703918457 seconds
+2024-07-23 15:43:53,439 - INFO - logger - Processed P13378-1 in 28.77769923210144 seconds
+2024-07-23 15:44:04,645 - INFO - logger - Processed P46938-1 in 39.98303294181824 seconds
+2024-07-23 15:44:06,949 - INFO - logger - Processed P08752-1 in 42.28625512123108 seconds
+2024-07-23 15:44:07,176 - INFO - logger - Processed P07910-1 in 42.51097893714905 seconds
+2024-07-23 15:44:12,323 - INFO - logger - Processed O35491-1 in 47.65890312194824 seconds
+2024-07-23 15:44:15,607 - INFO - logger - Processed Q99880-1 in 22.129191875457764 seconds
+2024-07-23 15:44:16,524 - INFO - logger - Processed Q16674-1 in 51.86119604110718 seconds
+2024-07-23 15:44:19,433 - INFO - logger - Processed Q7Z624-1 in 54.7684862613678 seconds
+2024-07-23 15:44:20,644 - INFO - logger - Processed P12754-1 in 8.276934146881104 seconds
+2024-07-23 15:44:21,711 - INFO - logger - Processed Q5T7M4-1 in 57.04706406593323 seconds
+2024-07-23 15:44:22,503 - INFO - logger - Processed Q8IXM3-1 in 35.259272813797 seconds
+2024-07-23 15:44:25,159 - INFO - logger - Processed Q6PDG8-1 in 60.49418115615845 seconds
+2024-07-23 15:44:31,362 - INFO - logger - Processed Q7Z4P5-1 in 24.147374868392944 seconds
+2024-07-23 15:44:31,480 - INFO - logger - Processed Q14739-1 in 15.828605890274048 seconds
+2024-07-23 15:44:32,820 - INFO - logger - Processed Q9UL59-1 in 25.78557300567627 seconds
+2024-07-23 15:44:39,232 - INFO - logger - Processed Q99880-1 in 16.69190216064453 seconds
+2024-07-23 15:44:43,364 - INFO - logger - Processed P07910-1 in 26.800318002700806 seconds
+2024-07-23 15:44:44,468 - INFO - logger - Processed Q8NHG7-1 in 24.991333723068237 seconds
+2024-07-23 15:44:46,356 - INFO - logger - Processed P50281-1 in 25.672019243240356 seconds
+2024-07-23 15:44:53,153 - INFO - logger - Processed P58334-1 in 27.95488476753235 seconds
+2024-07-23 15:44:54,836 - INFO - logger - Processed P26350-1 in 50.147582054138184 seconds
+2024-07-23 15:45:00,014 - INFO - logger - Processed P46938-1 in 28.469542980194092 seconds
+2024-07-23 15:45:00,178 - INFO - logger - Processed O60487-1 in 27.317397117614746 seconds
+2024-07-23 15:45:06,347 - INFO - logger - Processed Q8WW59-1 in 19.95418906211853 seconds
+2024-07-23 15:45:06,893 - INFO - logger - Processed Q6PGH2-1 in 35.3808479309082 seconds
+2024-07-23 15:45:07,257 - INFO - logger - Processed P54296-1 in 12.378942012786865 seconds
+2024-07-23 15:45:07,976 - INFO - logger - Processed Q5U5X8-1 in 24.568636894226074 seconds
+2024-07-23 15:45:09,716 - INFO - logger - Processed P12754-1 in 3.32610821723938 seconds
+2024-07-23 15:45:10,658 - INFO - logger - Processed Q08380-1 in 26.14541506767273 seconds
+2024-07-23 15:45:12,490 - INFO - logger - Processed P61160-1 in 19.29153800010681 seconds
+2024-07-23 15:45:20,686 - INFO - logger - Processed A6NI73-1 in 41.395538091659546 seconds
+2024-07-23 15:45:26,888 - INFO - logger - Processed A0A0G2JUA5-1 in 65.13309097290039 seconds
+2024-07-23 15:45:32,822 - INFO - logger - Processed O70400-1 in 32.606016874313354 seconds
+2024-07-23 15:45:35,686 - INFO - logger - Processed Q6ZWY8-1 in 35.58471179008484 seconds
+2024-07-23 15:45:35,735 - INFO - logger - Processed P20485-1 in 2.874042272567749 seconds
+2024-07-23 15:45:36,223 - INFO - logger - Processed Q8WVD5-1 in 23.687904596328735 seconds
+2024-07-23 15:45:36,634 - INFO - logger - Processed Q8IV36-1 in 25.93698501586914 seconds
+2024-07-23 15:45:42,298 - INFO - logger - Processed Q8NBN3-1 in 32.515748023986816 seconds
+2024-07-23 15:45:53,623 - INFO - logger - Processed A6PVY3-1 in 26.69477081298828 seconds
+2024-07-23 15:45:58,370 - INFO - logger - Processed Q7TMB3-1 in 51.07572412490845 seconds
+2024-07-23 15:46:00,044 - INFO - logger - Processed Q8N7H5-1 in 53.11376428604126 seconds
+2024-07-23 15:46:00,045 - INFO - logger - Processed O43390-1 in 52.029051780700684 seconds
+2024-07-23 15:46:03,029 - INFO - logger - Processed P48962-1 in 27.266583919525146 seconds
+2024-07-23 15:46:03,888 - INFO - logger - Processed P16092-1 in 43.15747904777527 seconds
+2024-07-23 15:46:03,961 - INFO - logger - Hit checkpoint at index 7400
+2024-07-23 15:46:03,961 - INFO - logger - API calls 45
+2024-07-23 15:46:03,961 - INFO - logger - cache hits 55
+2024-07-23 15:46:03,961 - INFO - logger - ============================================
+2024-07-23 15:46:27,246 - INFO - logger - Processed Q2VPJ9-1 in 23.280395984649658 seconds
+2024-07-23 15:46:27,725 - INFO - logger - Processed Q9Z0F7-1 in 23.759850025177002 seconds
+2024-07-23 15:46:32,141 - INFO - logger - Processed Q9H6S0-1 in 28.176006317138672 seconds
+2024-07-23 15:46:37,280 - INFO - logger - Processed Q9NXG2-1 in 33.3169379234314 seconds
+2024-07-23 15:46:43,366 - INFO - logger - Processed Q7L8S5-1 in 39.4047589302063 seconds
+2024-07-23 15:46:51,232 - INFO - logger - Processed O15342-1 in 23.92860174179077 seconds
+2024-07-23 15:46:51,399 - INFO - logger - Processed Q8TF42-1 in 47.43541121482849 seconds
+2024-07-23 15:46:59,253 - INFO - logger - Processed Q14469-1 in 31.490552186965942 seconds
+2024-07-23 15:46:59,515 - INFO - logger - Processed P50990-1 in 55.549827098846436 seconds
+2024-07-23 15:47:05,455 - INFO - logger - Processed Q8NHL6-1 in 61.49055814743042 seconds
+2024-07-23 15:47:07,594 - INFO - logger - Processed Q8N111-1 in 63.63059210777283 seconds
+2024-07-23 15:47:16,460 - INFO - logger - Processed P04183-1 in 44.279343128204346 seconds
+2024-07-23 15:47:18,346 - INFO - logger - Processed Q9CYZ2-1 in 27.026543855667114 seconds
+2024-07-23 15:47:20,837 - INFO - logger - Processed Q9Y2U8-1 in 21.510853052139282 seconds
+2024-07-23 15:47:22,150 - INFO - logger - Processed O14907-1 in 78.18727397918701 seconds
+2024-07-23 15:47:22,629 - INFO - logger - Processed O14990-1 in 45.305739879608154 seconds
+2024-07-23 15:47:25,854 - INFO - logger - Processed P37370-1 in 3.6659810543060303 seconds
+2024-07-23 15:47:35,327 - INFO - logger - Processed P05627-1 in 27.69483208656311 seconds
+2024-07-23 15:47:36,429 - INFO - logger - Processed Q9D454-1 in 44.98934197425842 seconds
+2024-07-23 15:47:36,594 - INFO - logger - Processed Q8NEN0-1 in 37.0371150970459 seconds
+2024-07-23 15:47:41,007 - INFO - logger - Processed P53076-1 in 4.3727867603302 seconds
+2024-07-23 15:47:49,703 - INFO - logger - Processed Q05962-1 in 66.29567313194275 seconds
+2024-07-23 15:47:50,273 - INFO - logger - Processed P37304-1 in 9.21153473854065 seconds
+2024-07-23 15:47:56,047 - INFO - logger - Processed Q9Y597-1 in 30.151748180389404 seconds
+2024-07-23 15:47:57,353 - INFO - logger - Processed Q9NRL3-1 in 21.981841802597046 seconds
+2024-07-23 15:47:58,689 - INFO - logger - Processed Q9HD15-1 in 42.17699098587036 seconds
+2024-07-23 15:47:59,164 - INFO - logger - Processed P78543-1 in 22.651716947555542 seconds
+2024-07-23 15:47:59,364 - INFO - logger - Processed P30999-1 in 36.69757795333862 seconds
+2024-07-23 15:48:00,891 - INFO - logger - Processed P34239-1 in 4.806084871292114 seconds
+2024-07-23 15:48:05,637 - INFO - logger - Processed Q9NTK1-1 in 60.14413571357727 seconds
+2024-07-23 15:48:12,265 - INFO - logger - Processed Q8WU58-1 in 22.522740840911865 seconds
+2024-07-23 15:48:13,489 - INFO - logger - Processed Q8N111-1 in 52.60583806037903 seconds
+2024-07-23 15:48:21,417 - INFO - logger - Processed P27671-1 in 63.03224205970764 seconds
+2024-07-23 15:48:24,055 - INFO - logger - Processed Q8BI84-1 in 33.742451906204224 seconds
+2024-07-23 15:48:27,509 - INFO - logger - Processed O75494-1 in 30.11631488800049 seconds
+2024-07-23 15:48:27,583 - INFO - logger - Hit checkpoint at index 7500
+2024-07-23 15:48:27,583 - INFO - logger - API calls 35
+2024-07-23 15:48:27,583 - INFO - logger - cache hits 65
+2024-07-23 15:48:27,583 - INFO - logger - ============================================
+2024-07-23 15:48:33,163 - INFO - logger - Processed P47035-1 in 5.576766014099121 seconds
+2024-07-23 15:48:34,547 - INFO - logger - Processed Q06836-1 in 6.961687088012695 seconds
+2024-07-23 15:48:36,699 - INFO - logger - Processed P40356-1 in 9.113260746002197 seconds
+2024-07-23 15:48:42,736 - INFO - logger - Processed P40494-1 in 5.995397090911865 seconds
+2024-07-23 15:48:47,531 - INFO - logger - Processed P32862-1 in 4.727124929428101 seconds
+2024-07-23 15:48:53,065 - INFO - logger - Processed P04104-1 in 25.479920148849487 seconds
+2024-07-23 15:48:58,896 - INFO - logger - Processed P28356-1 in 31.31003189086914 seconds
+2024-07-23 15:49:09,810 - INFO - logger - Processed P45481-1 in 22.23883891105652 seconds
+2024-07-23 15:49:10,099 - INFO - logger - Processed Q9BWT6-1 in 42.51264834403992 seconds
+2024-07-23 15:49:14,568 - INFO - logger - Processed Q14137-1 in 46.98442816734314 seconds
+2024-07-23 15:49:16,081 - INFO - logger - Processed P57764-1 in 48.494539976119995 seconds
+2024-07-23 15:49:16,081 - INFO - logger - Processed O60637-1 in 17.13506817817688 seconds
+2024-07-23 15:49:23,696 - INFO - logger - Processed P53009-1 in 9.085173845291138 seconds
+2024-07-23 15:49:29,982 - INFO - logger - Processed Q7L014-1 in 55.396095991134644 seconds
+2024-07-23 15:49:31,460 - INFO - logger - Processed P31947-1 in 63.8741991519928 seconds
+2024-07-23 15:49:35,757 - INFO - logger - Processed O76027-1 in 62.55371809005737 seconds
+2024-07-23 15:49:36,819 - INFO - logger - Processed Q8BIH0-1 in 26.68231987953186 seconds
+2024-07-23 15:49:39,870 - INFO - logger - Processed Q9BSH4-1 in 72.28288197517395 seconds
+2024-07-23 15:49:40,099 - INFO - logger - Processed Q12743-1 in 10.078833818435669 seconds
+2024-07-23 15:49:41,310 - INFO - logger - Processed Q59J78-1 in 31.3850359916687 seconds
+2024-07-23 15:49:45,518 - INFO - logger - Processed Q7Z3G6-1 in 52.415663957595825 seconds
+2024-07-23 15:49:45,730 - INFO - logger - Processed P40059-1 in 4.381286144256592 seconds
+2024-07-23 15:49:45,964 - INFO - logger - Processed P13864-1 in 29.800107955932617 seconds
+2024-07-23 15:49:47,324 - INFO - logger - Processed Q6PDK2-1 in 23.5794939994812 seconds
+2024-07-23 15:49:49,369 - INFO - logger - Processed Q5DTM8-1 in 17.871241092681885 seconds
+2024-07-23 15:49:50,087 - INFO - logger - Processed Q04461-1 in 4.267963171005249 seconds
+2024-07-23 15:49:54,398 - INFO - logger - Processed Q3TRM4-1 in 38.23743391036987 seconds
+2024-07-23 15:49:56,245 - INFO - logger - Processed Q06604-1 in 6.83462119102478 seconds
+2024-07-23 15:50:01,705 - INFO - logger - Processed Q62417-1 in 15.700961112976074 seconds
+2024-07-23 15:50:02,690 - INFO - logger - Processed P46949-1 in 6.400548219680786 seconds
+2024-07-23 15:50:02,800 - INFO - logger - Processed P60710-1 in 15.434693098068237 seconds
+2024-07-23 15:50:03,921 - INFO - logger - Processed O43684-1 in 23.77759599685669 seconds
+2024-07-23 15:50:05,278 - INFO - logger - Processed P41832-1 in 3.525874137878418 seconds
+2024-07-23 15:50:05,565 - INFO - logger - Processed P41832-1 in 2.7176268100738525 seconds
+2024-07-23 15:50:05,721 - INFO - logger - Processed P39523-1 in 2.909562110900879 seconds
+2024-07-23 15:50:06,038 - INFO - logger - Processed Q9H999-1 in 26.11933422088623 seconds
+2024-07-23 15:50:18,718 - INFO - logger - Processed Q6P158-1 in 33.159372091293335 seconds
+2024-07-23 15:50:19,566 - INFO - logger - Processed Q8BJ05-1 in 25.127641916275024 seconds
+2024-07-23 15:50:24,154 - INFO - logger - Processed Q0D2K2-1 in 48.357521295547485 seconds
+2024-07-23 15:50:26,097 - INFO - logger - Processed A2AGT5-1 in 49.241113901138306 seconds
+2024-07-23 15:50:28,827 - INFO - logger - Processed Q9DBG5-1 in 38.6991229057312 seconds
+2024-07-23 15:50:29,640 - INFO - logger - Processed Q7TMM9-1 in 24.307658910751343 seconds
+2024-07-23 15:50:33,925 - INFO - logger - Processed Q7TMY8-1 in 29.968271732330322 seconds
+2024-07-23 15:50:34,002 - INFO - logger - Hit checkpoint at index 7600
+2024-07-23 15:50:34,002 - INFO - logger - API calls 43
+2024-07-23 15:50:34,002 - INFO - logger - cache hits 57
+2024-07-23 15:50:34,002 - INFO - logger - ============================================
+2024-07-23 15:50:39,443 - INFO - logger - Processed Q05050-1 in 5.4369261264801025 seconds
+2024-07-23 15:50:40,546 - INFO - logger - Processed P38321-1 in 6.5395121574401855 seconds
+2024-07-23 15:50:41,745 - INFO - logger - Processed Q05050-1 in 7.739442825317383 seconds
+2024-07-23 15:50:42,738 - INFO - logger - Processed P14907-1 in 8.73270583152771 seconds
+2024-07-23 15:50:59,579 - INFO - logger - Processed Q9WTQ0-1 in 25.571540117263794 seconds
+2024-07-23 15:51:02,080 - INFO - logger - Processed P42702-1 in 28.073941946029663 seconds
+2024-07-23 15:51:03,560 - INFO - logger - Processed P18669-1 in 22.971738815307617 seconds
+2024-07-23 15:51:20,139 - INFO - logger - Processed P52597-1 in 46.13291692733765 seconds
+2024-07-23 15:51:22,516 - INFO - logger - Processed Q99570-1 in 48.51374912261963 seconds
+2024-07-23 15:51:24,700 - INFO - logger - Processed Q8BZH4-1 in 22.580698013305664 seconds
+2024-07-23 15:51:25,922 - INFO - logger - Processed O75391-1 in 22.321202039718628 seconds
+2024-07-23 15:51:26,367 - INFO - logger - Processed O75882-1 in 46.87731194496155 seconds
+2024-07-23 15:51:26,417 - INFO - logger - Processed Q8K0L9-1 in 43.63588094711304 seconds
+2024-07-23 15:51:30,164 - INFO - logger - Processed P38853-1 in 5.424382209777832 seconds
+2024-07-23 15:51:33,532 - INFO - logger - Processed P53552-1 in 3.3270928859710693 seconds
+2024-07-23 15:51:39,687 - INFO - logger - Processed Q9QWI6-1 in 40.0606050491333 seconds
+2024-07-23 15:51:43,682 - INFO - logger - Processed Q9H161-1 in 69.67499208450317 seconds
+2024-07-23 15:51:44,478 - INFO - logger - Processed Q9NUL7-1 in 62.69013214111328 seconds
+2024-07-23 15:51:54,909 - INFO - logger - Processed O14879-1 in 28.41379690170288 seconds
+2024-07-23 15:51:59,639 - INFO - logger - Processed Q9QYS9-1 in 26.065840005874634 seconds
+2024-07-23 15:52:00,576 - INFO - logger - Processed P19634-1 in 86.57333779335022 seconds
+2024-07-23 15:52:00,953 - INFO - logger - Processed Q02875-1 in 6.001319169998169 seconds
+2024-07-23 15:52:03,988 - INFO - logger - Processed O75940-1 in 24.255485773086548 seconds
+2024-07-23 15:52:05,311 - INFO - logger - Processed P21926-1 in 38.820361375808716 seconds
+2024-07-23 15:52:06,226 - INFO - logger - Processed P32521-1 in 6.541474103927612 seconds
+2024-07-23 15:52:06,761 - INFO - logger - Processed Q9H347-1 in 23.03711175918579 seconds
+2024-07-23 15:52:08,239 - INFO - logger - Processed P38165-1 in 4.2104151248931885 seconds
+2024-07-23 15:52:08,740 - INFO - logger - Processed O14490-1 in 42.70072293281555 seconds
+2024-07-23 15:52:08,746 - INFO - logger - Processed Q86TH1-1 in 48.558980226516724 seconds
+2024-07-23 15:52:09,321 - INFO - logger - Processed Q07872-1 in 3.0546927452087402 seconds
+2024-07-23 15:52:25,372 - INFO - logger - Processed Q9UPU5-1 in 40.84961986541748 seconds
+2024-07-23 15:52:25,645 - INFO - logger - Processed P68032-1 in 25.027811288833618 seconds
+2024-07-23 15:52:27,505 - INFO - logger - Processed Q91VX2-1 in 64.95039200782776 seconds
+2024-07-23 15:52:31,702 - INFO - logger - Processed P11908-1 in 30.70475482940674 seconds
+2024-07-23 15:52:33,306 - INFO - logger - Processed Q6N069-1 in 27.949594259262085 seconds
+2024-07-23 15:52:33,388 - INFO - logger - Hit checkpoint at index 7700
+2024-07-23 15:52:33,388 - INFO - logger - API calls 35
+2024-07-23 15:52:33,388 - INFO - logger - cache hits 65
+2024-07-23 15:52:33,388 - INFO - logger - ============================================
+2024-07-23 15:52:40,413 - INFO - logger - Processed P40850-1 in 7.022065877914429 seconds
+2024-07-23 15:52:44,845 - INFO - logger - Processed Q08732-1 in 11.454869985580444 seconds
+2024-07-23 15:52:54,977 - INFO - logger - Processed Q80U78-1 in 21.586920976638794 seconds
+2024-07-23 15:53:00,664 - INFO - logger - Processed Q96QE3-1 in 27.275036096572876 seconds
+2024-07-23 15:53:05,598 - INFO - logger - Processed P22543-1 in 4.869882106781006 seconds
+2024-07-23 15:53:07,772 - INFO - logger - Processed P24593-1 in 34.38328671455383 seconds
+2024-07-23 15:53:10,101 - INFO - logger - Processed Q8CC35-1 in 36.70951199531555 seconds
+2024-07-23 15:53:15,561 - INFO - logger - Processed P68033-1 in 42.17201495170593 seconds
+2024-07-23 15:53:16,449 - INFO - logger - Processed Q03631-1 in 8.616894006729126 seconds
+2024-07-23 15:53:16,896 - INFO - logger - Processed P28574-1 in 43.50446581840515 seconds
+2024-07-23 15:53:20,954 - INFO - logger - Processed P47068-1 in 4.444155931472778 seconds
+2024-07-23 15:53:21,133 - INFO - logger - Processed Q9CWF2-1 in 40.667261838912964 seconds
+2024-07-23 15:53:28,580 - INFO - logger - Processed Q9JHC9-1 in 43.69310998916626 seconds
+2024-07-23 15:53:32,456 - INFO - logger - Processed Q9BXJ9-1 in 59.066147804260254 seconds
+2024-07-23 15:53:43,366 - INFO - logger - Processed Q9NZL9-1 in 27.754535913467407 seconds
+2024-07-23 15:53:45,392 - INFO - logger - Processed P46660-1 in 39.721638917922974 seconds
+2024-07-23 15:53:48,401 - INFO - logger - Processed Q29RF7-1 in 27.221414804458618 seconds
+2024-07-23 15:53:51,639 - INFO - logger - Processed Q9Y5S2-1 in 30.51418685913086 seconds
+2024-07-23 15:53:52,592 - INFO - logger - Processed O60563-1 in 79.20196485519409 seconds
+2024-07-23 15:53:55,349 - INFO - logger - Processed Q01329-1 in 3.66290020942688 seconds
+2024-07-23 15:54:01,946 - INFO - logger - Processed Q96S55-1 in 33.31850504875183 seconds
+2024-07-23 15:54:05,928 - INFO - logger - Processed O75439-1 in 13.290775060653687 seconds
+2024-07-23 15:54:06,028 - INFO - logger - Processed Q922Y1-1 in 70.99769878387451 seconds
+2024-07-23 15:54:08,001 - INFO - logger - Processed Q8TC92-1 in 57.85497188568115 seconds
+2024-07-23 15:54:10,852 - INFO - logger - Processed P22470-1 in 4.752254009246826 seconds
+2024-07-23 15:54:19,399 - INFO - logger - Processed Q13506-1 in 46.88524389266968 seconds
+2024-07-23 15:54:21,803 - INFO - logger - Processed P16546-1 in 38.379733085632324 seconds
+2024-07-23 15:54:22,264 - INFO - logger - Processed O75037-1 in 33.81873297691345 seconds
+2024-07-23 15:54:25,902 - INFO - logger - Processed Q8NFU5-1 in 40.46697235107422 seconds
+2024-07-23 15:54:31,901 - INFO - logger - Processed Q08122-3 in 36.50651025772095 seconds
+2024-07-23 15:54:32,251 - INFO - logger - Processed Q6P4F7-1 in 75.31051111221313 seconds
+2024-07-23 15:54:34,124 - INFO - logger - Processed Q15006-1 in 32.133914947509766 seconds
+2024-07-23 15:54:36,308 - INFO - logger - Processed Q9UK61-1 in 28.264230012893677 seconds
+2024-07-23 15:54:41,107 - INFO - logger - Processed O70507-1 in 34.99280095100403 seconds
+2024-07-23 15:54:45,608 - INFO - logger - Processed P08048-1 in 34.69366383552551 seconds
+2024-07-23 15:54:45,695 - INFO - logger - Hit checkpoint at index 7800
+2024-07-23 15:54:45,695 - INFO - logger - API calls 35
+2024-07-23 15:54:45,695 - INFO - logger - cache hits 65
+2024-07-23 15:54:45,695 - INFO - logger - ============================================
+2024-07-23 15:54:52,499 - INFO - logger - Processed Q08831-1 in 6.7968909740448 seconds
+2024-07-23 15:55:00,569 - INFO - logger - Processed P17027-1 in 14.86673617362976 seconds
+2024-07-23 15:55:02,407 - INFO - logger - Processed O70305-1 in 16.704355239868164 seconds
+2024-07-23 15:55:10,587 - INFO - logger - Processed Q9UQ52-1 in 24.891273975372314 seconds
+2024-07-23 15:55:14,003 - INFO - logger - Processed Q9UPP2-1 in 21.462558031082153 seconds
+2024-07-23 15:55:14,837 - INFO - logger - Processed P32828-1 in 4.175479888916016 seconds
+2024-07-23 15:55:15,305 - INFO - logger - Processed P19883-1 in 29.603469133377075 seconds
+2024-07-23 15:55:19,479 - INFO - logger - Processed P04370-1 in 33.782673835754395 seconds
+2024-07-23 15:55:23,066 - INFO - logger - Processed P34072-1 in 7.7206361293792725 seconds
+2024-07-23 15:55:24,024 - INFO - logger - Processed Q02224-1 in 38.320356130599976 seconds
+2024-07-23 15:55:25,049 - INFO - logger - Processed P50219-1 in 39.347283124923706 seconds
+2024-07-23 15:55:30,542 - INFO - logger - Processed Q12427-1 in 5.4526519775390625 seconds
+2024-07-23 15:55:31,768 - INFO - logger - Processed P25558-1 in 8.642002820968628 seconds
+2024-07-23 15:55:32,336 - INFO - logger - Processed P30531-1 in 31.698313236236572 seconds
+2024-07-23 15:55:32,838 - INFO - logger - Processed P12111-1 in 47.1354660987854 seconds
+2024-07-23 15:55:34,917 - INFO - logger - Processed Q03088-1 in 4.309402227401733 seconds
+2024-07-23 15:55:37,339 - INFO - logger - Processed Q99583-1 in 34.89047694206238 seconds
+2024-07-23 15:55:39,707 - INFO - logger - Processed Q5SSZ5-1 in 24.831400871276855 seconds
+2024-07-23 15:55:40,099 - INFO - logger - Processed P38313-1 in 7.215497970581055 seconds
+2024-07-23 15:55:41,937 - INFO - logger - Processed Q12427-1 in 9.490625143051147 seconds
+2024-07-23 15:55:45,115 - INFO - logger - Processed P39927-1 in 7.733754873275757 seconds
+2024-07-23 15:55:52,757 - INFO - logger - Processed P63141-1 in 38.691572189331055 seconds
+2024-07-23 15:55:55,869 - INFO - logger - Processed P28652-1 in 70.16665601730347 seconds
+2024-07-23 15:55:56,279 - INFO - logger - Processed P46935-1 in 16.522502183914185 seconds
+2024-07-23 15:55:56,619 - INFO - logger - Processed P49419-1 in 24.81024718284607 seconds
+2024-07-23 15:56:01,674 - INFO - logger - Processed P53955-1 in 5.016304969787598 seconds
+2024-07-23 15:56:02,590 - INFO - logger - Processed Q03790-1 in 6.2692811489105225 seconds
+2024-07-23 15:56:04,561 - INFO - logger - Processed Q9H2P0-1 in 40.49556612968445 seconds
+2024-07-23 15:56:15,636 - INFO - logger - Processed Q9JLV1-1 in 56.07693696022034 seconds
+2024-07-23 15:56:16,180 - INFO - logger - Processed Q8R2M2-1 in 36.03752326965332 seconds
+2024-07-23 15:56:18,335 - INFO - logger - Processed P35663-1 in 22.42552924156189 seconds
+2024-07-23 15:56:22,547 - INFO - logger - Processed O95259-1 in 37.38601589202881 seconds
+2024-07-23 15:56:23,965 - INFO - logger - Processed P30085-1 in 49.00096011161804 seconds
+2024-07-23 15:56:25,503 - INFO - logger - Processed Q8R2M2-1 in 43.5172221660614 seconds
+2024-07-23 15:56:27,731 - INFO - logger - Processed Q8C0T5-1 in 34.92745280265808 seconds
+2024-07-23 15:56:27,809 - INFO - logger - Hit checkpoint at index 7900
+2024-07-23 15:56:27,809 - INFO - logger - API calls 35
+2024-07-23 15:56:27,809 - INFO - logger - cache hits 65
+2024-07-23 15:56:27,809 - INFO - logger - ============================================
+2024-07-23 15:56:36,586 - INFO - logger - Processed Q08649-1 in 8.774368047714233 seconds
+2024-07-23 15:56:47,256 - INFO - logger - Processed P25686-3 in 19.443174123764038 seconds
+2024-07-23 15:57:02,436 - INFO - logger - Processed Q15622-1 in 34.62451195716858 seconds
+2024-07-23 15:57:03,171 - INFO - logger - Processed Q9UII4-1 in 35.358628034591675 seconds
+2024-07-23 15:57:03,580 - INFO - logger - Processed Q96BY7-1 in 35.76650905609131 seconds
+2024-07-23 15:57:05,204 - INFO - logger - Processed Q9QYR6-1 in 37.39175295829773 seconds
+2024-07-23 15:57:06,447 - INFO - logger - Processed Q8TD57-1 in 19.13670802116394 seconds
+2024-07-23 15:57:09,335 - INFO - logger - Processed Q12221-1 in 6.117274045944214 seconds
+2024-07-23 15:57:09,791 - INFO - logger - Processed O15164-1 in 41.978235960006714 seconds
+2024-07-23 15:57:22,163 - INFO - logger - Processed P19532-1 in 54.35023593902588 seconds
+2024-07-23 15:57:29,063 - INFO - logger - Processed P52179-1 in 23.810951948165894 seconds
+2024-07-23 15:57:30,953 - INFO - logger - Processed Q13393-1 in 63.140442848205566 seconds
+2024-07-23 15:57:31,275 - INFO - logger - Processed Q99K48-1 in 21.42903184890747 seconds
+2024-07-23 15:57:32,520 - INFO - logger - Processed Q6N022-1 in 55.882035970687866 seconds
+2024-07-23 15:57:34,300 - INFO - logger - Processed O00338-1 in 66.48816418647766 seconds
+2024-07-23 15:57:35,034 - INFO - logger - Processed Q8IUR6-1 in 32.54203391075134 seconds
+2024-07-23 15:57:39,111 - INFO - logger - Processed Q12221-1 in 4.034527063369751 seconds
+2024-07-23 15:57:43,226 - INFO - logger - Processed Q9HB40-1 in 14.086911916732788 seconds
+2024-07-23 15:57:43,875 - INFO - logger - Processed P07663-1 in 9.520249843597412 seconds
+2024-07-23 15:57:46,058 - INFO - logger - Processed Q6P6R2-1 in 42.436145067214966 seconds
+2024-07-23 15:57:50,587 - INFO - logger - Processed P07663-1 in 28.377412796020508 seconds
+2024-07-23 15:57:53,005 - INFO - logger - Processed P25799-1 in 46.515748023986816 seconds
+2024-07-23 15:57:54,395 - INFO - logger - Processed P50395-1 in 45.01482009887695 seconds
+2024-07-23 15:58:05,573 - INFO - logger - Processed Q8WVE6-1 in 22.292744159698486 seconds
+2024-07-23 15:58:05,775 - INFO - logger - Processed Q8BRB7-1 in 21.85236620903015 seconds
+2024-07-23 15:58:08,630 - INFO - logger - Processed Q9R0L6-1 in 29.47490906715393 seconds
+2024-07-23 15:58:17,053 - INFO - logger - Processed Q86UD7-1 in 24.000765085220337 seconds
+2024-07-23 15:58:17,371 - INFO - logger - Processed Q86UE8-1 in 44.80915665626526 seconds
+2024-07-23 15:58:18,832 - INFO - logger - Processed O60741-1 in 47.51387310028076 seconds
+2024-07-23 15:58:18,955 - INFO - logger - Processed Q96JK9-1 in 47.87429690361023 seconds
+2024-07-23 15:58:25,240 - INFO - logger - Processed Q60598-1 in 19.509281158447266 seconds
+2024-07-23 15:58:28,601 - INFO - logger - Processed P53539-1 in 42.49422216415405 seconds
+2024-07-23 15:58:28,858 - INFO - logger - Processed Q9NR80-1 in 38.229501247406006 seconds
+2024-07-23 15:58:30,765 - INFO - logger - Processed Q9D219-1 in 36.308252811431885 seconds
+2024-07-23 15:58:30,847 - INFO - logger - Hit checkpoint at index 8000
+2024-07-23 15:58:30,847 - INFO - logger - API calls 34
+2024-07-23 15:58:30,847 - INFO - logger - cache hits 66
+2024-07-23 15:58:30,847 - INFO - logger - ============================================
+2024-07-23 15:58:50,777 - INFO - logger - Processed O00562-1 in 19.926764965057373 seconds
+2024-07-23 15:58:52,887 - INFO - logger - Processed Q8IWP9-1 in 22.036563873291016 seconds
+2024-07-23 15:58:56,512 - INFO - logger - Processed P30260-1 in 25.66241979598999 seconds
+2024-07-23 15:58:58,309 - INFO - logger - Processed Q9Y2M5-1 in 27.457015991210938 seconds
+2024-07-23 15:58:59,511 - INFO - logger - Processed P33314-1 in 6.582022190093994 seconds
+2024-07-23 15:59:03,669 - INFO - logger - Processed P43603-1 in 4.111427068710327 seconds
+2024-07-23 15:59:03,840 - INFO - logger - Processed Q9C0K7-1 in 32.99200415611267 seconds
+2024-07-23 15:59:03,926 - INFO - logger - Processed P39935-1 in 5.574867010116577 seconds
+2024-07-23 15:59:17,614 - INFO - logger - Processed Q86VP3-1 in 21.060479879379272 seconds
+2024-07-23 15:59:18,424 - INFO - logger - Processed Q8WWK9-1 in 47.572635889053345 seconds
+2024-07-23 15:59:22,822 - INFO - logger - Processed Q7M6Y3-1 in 19.06267809867859 seconds
+2024-07-23 15:59:26,664 - INFO - logger - Processed Q7TT18-1 in 22.783679008483887 seconds
+2024-07-23 15:59:27,374 - INFO - logger - Processed Q9Z103-1 in 56.523579120635986 seconds
+2024-07-23 15:59:28,710 - INFO - logger - Processed Q9H270-1 in 57.860857009887695 seconds
+2024-07-23 15:59:36,751 - INFO - logger - Processed P10696-1 in 13.882681846618652 seconds
+2024-07-23 15:59:37,720 - INFO - logger - Processed P29400-1 in 66.87131309509277 seconds
+2024-07-23 15:59:38,305 - INFO - logger - Processed P98170-1 in 47.47671675682068 seconds
+2024-07-23 15:59:39,234 - INFO - logger - Processed Q8C8R3-1 in 21.557489156723022 seconds
+2024-07-23 15:59:39,698 - INFO - logger - Processed Q7M6Y3-1 in 35.73091197013855 seconds
+2024-07-23 15:59:43,993 - INFO - logger - Processed Q06685-1 in 4.243441820144653 seconds
+2024-07-23 15:59:45,213 - INFO - logger - Processed P43603-1 in 5.933165073394775 seconds
+2024-07-23 15:59:47,610 - INFO - logger - Processed P40529-1 in 3.5669949054718018 seconds
+2024-07-23 15:59:48,261 - INFO - logger - Processed Q9NZN5-1 in 77.40952229499817 seconds
+2024-07-23 15:59:51,334 - INFO - logger - Processed Q8N9B5-1 in 24.617385864257812 seconds
+2024-07-23 15:59:53,203 - INFO - logger - Processed P20263-1 in 16.38472294807434 seconds
+2024-07-23 15:59:54,021 - INFO - logger - Processed Q8IY37-1 in 16.181715965270996 seconds
+2024-07-23 15:59:58,390 - INFO - logger - Processed Q93084-2 in 30.975301265716553 seconds
+2024-07-23 16:00:06,653 - INFO - logger - Processed Q3URK3-1 in 18.99946880340576 seconds
+2024-07-23 16:00:12,497 - INFO - logger - Processed Q6PF15-1 in 19.24718999862671 seconds
+2024-07-23 16:00:13,298 - INFO - logger - Processed O43913-1 in 34.95103192329407 seconds
+2024-07-23 16:00:14,535 - INFO - logger - Processed P97789-1 in 55.984419107437134 seconds
+2024-07-23 16:00:17,061 - INFO - logger - Processed Q6P1M9-1 in 28.750938892364502 seconds
+2024-07-23 16:00:19,581 - INFO - logger - Processed Q8IUF8-1 in 50.82532715797424 seconds
+2024-07-23 16:00:19,589 - INFO - logger - Processed Q64LD2-1 in 34.32579493522644 seconds
+2024-07-23 16:00:25,893 - INFO - logger - Processed Q8CI51-1 in 34.507437229156494 seconds
+2024-07-23 16:00:31,061 - INFO - logger - Processed Q8IVM8-1 in 36.99690914154053 seconds
+2024-07-23 16:00:31,154 - INFO - logger - Hit checkpoint at index 8100
+2024-07-23 16:00:31,154 - INFO - logger - API calls 36
+2024-07-23 16:00:31,154 - INFO - logger - cache hits 64
+2024-07-23 16:00:31,154 - INFO - logger - ============================================
+2024-07-23 16:00:36,580 - INFO - logger - Processed P38167-1 in 5.425048828125 seconds
+2024-07-23 16:00:45,300 - INFO - logger - Processed P13382-1 in 14.142630100250244 seconds
+2024-07-23 16:00:49,123 - INFO - logger - Processed Q9Y4B4-1 in 17.968724966049194 seconds
+2024-07-23 16:00:51,838 - INFO - logger - Processed Q9Y3D9-1 in 20.684031009674072 seconds
+2024-07-23 16:01:04,503 - INFO - logger - Processed Q9Y2X3-1 in 15.32866907119751 seconds
+2024-07-23 16:01:11,223 - INFO - logger - Processed Q02780-1 in 40.06746506690979 seconds
+2024-07-23 16:01:13,668 - INFO - logger - Processed Q7L591-1 in 37.039093017578125 seconds
+2024-07-23 16:01:15,879 - INFO - logger - Processed P15586-1 in 23.993755102157593 seconds
+2024-07-23 16:01:18,799 - INFO - logger - Processed Q92331-1 in 5.08988094329834 seconds
+2024-07-23 16:01:19,571 - INFO - logger - Processed Q9H992-1 in 48.414039850234985 seconds
+2024-07-23 16:01:19,597 - INFO - logger - Processed Q8TCJ2-1 in 48.440216064453125 seconds
+2024-07-23 16:01:19,883 - INFO - logger - Processed P22695-1 in 48.72490334510803 seconds
+2024-07-23 16:01:20,058 - INFO - logger - Processed P28827-1 in 48.90064096450806 seconds
+2024-07-23 16:01:28,544 - INFO - logger - Processed Q9Y3D9-1 in 43.175573110580444 seconds
+2024-07-23 16:01:37,011 - INFO - logger - Processed O14841-1 in 65.85221767425537 seconds
+2024-07-23 16:01:40,394 - INFO - logger - Processed P39104-1 in 3.3407859802246094 seconds
+2024-07-23 16:01:45,561 - INFO - logger - Processed P31146-1 in 34.289353132247925 seconds
+2024-07-23 16:01:49,090 - INFO - logger - Processed Q91Z67-1 in 20.495931148529053 seconds
+2024-07-23 16:01:54,105 - INFO - logger - Processed P34758-1 in 8.485928058624268 seconds
+2024-07-23 16:01:56,602 - INFO - logger - Processed P99024-1 in 52.04594397544861 seconds
+2024-07-23 16:01:57,228 - INFO - logger - Processed P48745-1 in 37.38519501686096 seconds
+2024-07-23 16:01:58,271 - INFO - logger - Processed P54132-1 in 42.3525869846344 seconds
+2024-07-23 16:01:58,638 - INFO - logger - Processed P23201-1 in 9.507426261901855 seconds
+2024-07-23 16:01:59,369 - INFO - logger - Processed Q05580-1 in 5.222224950790405 seconds
+2024-07-23 16:01:59,690 - INFO - logger - Processed Q62073-1 in 39.85871696472168 seconds
+2024-07-23 16:02:02,567 - INFO - logger - Processed P50991-1 in 42.597480058670044 seconds
+2024-07-23 16:02:05,937 - INFO - logger - Processed P30414-1 in 25.500650882720947 seconds
+2024-07-23 16:02:13,523 - INFO - logger - Processed Q9H2T7-1 in 53.42287468910217 seconds
+2024-07-23 16:02:14,380 - INFO - logger - Processed Q9Y4B4-1 in 55.01844882965088 seconds
+2024-07-23 16:02:17,809 - INFO - logger - Processed Q9BZA7-1 in 19.12773609161377 seconds
+2024-07-23 16:02:24,286 - INFO - logger - Processed Q9UMS5-1 in 25.97381019592285 seconds
+2024-07-23 16:02:31,123 - INFO - logger - Processed O35126-1 in 31.66933798789978 seconds
+2024-07-23 16:02:33,029 - INFO - logger - Processed Q99666-1 in 36.3858208656311 seconds
+2024-07-23 16:02:33,333 - INFO - logger - Processed Q9BU40-6 in 36.06365489959717 seconds
+2024-07-23 16:02:33,419 - INFO - logger - Hit checkpoint at index 8200
+2024-07-23 16:02:33,419 - INFO - logger - API calls 34
+2024-07-23 16:02:33,419 - INFO - logger - cache hits 66
+2024-07-23 16:02:33,419 - INFO - logger - ============================================
+2024-07-23 16:02:41,222 - INFO - logger - Processed P14922-1 in 7.7973527908325195 seconds
+2024-07-23 16:02:55,919 - INFO - logger - Processed Q8NHV4-1 in 22.49709677696228 seconds
+2024-07-23 16:02:59,399 - INFO - logger - Processed Q6EMB2-1 in 25.979490041732788 seconds
+2024-07-23 16:02:59,704 - INFO - logger - Processed Q6GQQ9-1 in 26.28083610534668 seconds
+2024-07-23 16:03:00,121 - INFO - logger - Processed Q8TAD4-1 in 26.69692897796631 seconds
+2024-07-23 16:03:05,978 - INFO - logger - Processed Q9HCR9-1 in 32.55683994293213 seconds
+2024-07-23 16:03:10,145 - INFO - logger - Processed Q16621-1 in 36.72009897232056 seconds
+2024-07-23 16:03:11,629 - INFO - logger - Processed Q07912-1 in 38.20905876159668 seconds
+2024-07-23 16:03:15,499 - INFO - logger - Processed Q17R98-1 in 42.07757902145386 seconds
+2024-07-23 16:03:18,376 - INFO - logger - Processed P08236-1 in 37.098276138305664 seconds
+2024-07-23 16:03:28,796 - INFO - logger - Processed Q9H0A0-1 in 32.81694006919861 seconds
+2024-07-23 16:03:29,057 - INFO - logger - Processed Q9Y2F5-1 in 55.6352858543396 seconds
+2024-07-23 16:03:30,676 - INFO - logger - Processed Q91YT7-1 in 24.643673181533813 seconds
+2024-07-23 16:03:31,836 - INFO - logger - Processed P25623-1 in 2.7376739978790283 seconds
+2024-07-23 16:03:32,186 - INFO - logger - Processed Q8IVM0-1 in 32.017245292663574 seconds
+2024-07-23 16:03:34,599 - INFO - logger - Processed P39078-1 in 2.7182209491729736 seconds
+2024-07-23 16:03:35,085 - INFO - logger - Processed Q9BWW4-1 in 35.17390203475952 seconds
+2024-07-23 16:03:35,148 - INFO - logger - Processed Q15022-1 in 23.45193386077881 seconds
+2024-07-23 16:03:37,321 - INFO - logger - Processed P47746-1 in 18.888525009155273 seconds
+2024-07-23 16:03:37,729 - INFO - logger - Processed P32913-1 in 2.5222630500793457 seconds
+2024-07-23 16:03:42,685 - INFO - logger - Processed P17010-1 in 27.127115964889526 seconds
+2024-07-23 16:03:43,054 - INFO - logger - Processed Q17R98-1 in 32.84783387184143 seconds
+2024-07-23 16:03:44,732 - INFO - logger - Processed Q96CS3-1 in 12.50532579421997 seconds
+2024-07-23 16:03:45,490 - INFO - logger - Processed Q64332-1 in 45.9675030708313 seconds
+2024-07-23 16:03:48,254 - INFO - logger - Processed Q9Y283-1 in 19.361392736434937 seconds
+2024-07-23 16:03:50,194 - INFO - logger - Processed Q9BZ71-1 in 15.23441481590271 seconds
+2024-07-23 16:03:53,801 - INFO - logger - Processed P51148-1 in 23.07516384124756 seconds
+2024-07-23 16:03:53,883 - INFO - logger - Hit checkpoint at index 8300
+2024-07-23 16:03:53,884 - INFO - logger - API calls 27
+2024-07-23 16:03:53,884 - INFO - logger - cache hits 73
+2024-07-23 16:03:53,884 - INFO - logger - ============================================
+2024-07-23 16:03:59,504 - INFO - logger - Processed P42845-1 in 5.619344711303711 seconds
+2024-07-23 16:04:00,501 - INFO - logger - Processed P53836-1 in 6.616827964782715 seconds
+2024-07-23 16:04:18,465 - INFO - logger - Processed P08575-3 in 24.579630136489868 seconds
+2024-07-23 16:04:20,073 - INFO - logger - Processed Q9BVA0-1 in 26.18867516517639 seconds
+2024-07-23 16:04:25,022 - INFO - logger - Processed Q12315-1 in 6.4429051876068115 seconds
+2024-07-23 16:04:25,528 - INFO - logger - Processed Q8VHJ5-1 in 31.643858909606934 seconds
+2024-07-23 16:04:28,297 - INFO - logger - Processed P30153-1 in 28.744184017181396 seconds
+2024-07-23 16:04:39,518 - INFO - logger - Processed Q4G0T1-1 in 45.63148617744446 seconds
+2024-07-23 16:04:39,527 - INFO - logger - Processed P50416-1 in 45.643243074417114 seconds
+2024-07-23 16:04:42,931 - INFO - logger - Processed Q8VHW2-1 in 49.04541802406311 seconds
+2024-07-23 16:04:43,866 - INFO - logger - Processed P32488-1 in 4.250612020492554 seconds
+2024-07-23 16:04:51,596 - INFO - logger - Processed Q9JL04-1 in 26.529698848724365 seconds
+2024-07-23 16:04:54,977 - INFO - logger - Processed Q86Z20-1 in 54.43208408355713 seconds
+2024-07-23 16:04:57,901 - INFO - logger - Processed Q02956-1 in 29.558006048202515 seconds
+2024-07-23 16:04:59,063 - INFO - logger - Processed Q86XE0-1 in 19.42527198791504 seconds
+2024-07-23 16:05:00,108 - INFO - logger - Processed P82650-1 in 39.99323511123657 seconds
+2024-07-23 16:05:05,704 - INFO - logger - Processed Q8WTS6-1 in 22.726786136627197 seconds
+2024-07-23 16:05:13,596 - INFO - logger - Processed Q9DBR7-1 in 79.71043395996094 seconds
+2024-07-23 16:05:19,015 - INFO - logger - Processed Q9BXS0-1 in 85.1302011013031 seconds
+2024-07-23 16:05:24,041 - INFO - logger - Processed Q14CZ8-1 in 58.470993995666504 seconds
+2024-07-23 16:05:30,462 - INFO - logger - Processed Q9Y5B9-1 in 31.3543860912323 seconds
+2024-07-23 16:05:30,833 - INFO - logger - Processed Q99K90-1 in 30.681907892227173 seconds
+2024-07-23 16:05:48,390 - INFO - logger - Processed Q80VP1-1 in 64.47377586364746 seconds
+2024-07-23 16:05:50,635 - INFO - logger - Processed Q14154-1 in 55.60361695289612 seconds
+2024-07-23 16:05:51,402 - INFO - logger - Processed P53438-1 in 2.959517002105713 seconds
+2024-07-23 16:05:52,042 - INFO - logger - Processed O75346-1 in 60.39627480506897 seconds
+2024-07-23 16:05:52,457 - INFO - logger - Processed Q5VTH9-1 in 33.396016120910645 seconds
+2024-07-23 16:05:52,778 - INFO - logger - Processed Q6YHU6-1 in 28.6882963180542 seconds
+2024-07-23 16:05:58,922 - INFO - logger - Processed Q96HW7-1 in 60.972491979599 seconds
+2024-07-23 16:06:02,064 - INFO - logger - Processed Q8VD37-1 in 48.422049045562744 seconds
+2024-07-23 16:06:09,466 - INFO - logger - Processed Q96F45-1 in 38.941335916519165 seconds
+2024-07-23 16:06:10,194 - INFO - logger - Processed Q8K4G5-1 in 39.31695485115051 seconds
+2024-07-23 16:06:13,304 - INFO - logger - Processed O14715-1 in 67.5602400302887 seconds
+2024-07-23 16:06:13,391 - INFO - logger - Hit checkpoint at index 8400
+2024-07-23 16:06:13,391 - INFO - logger - API calls 33
+2024-07-23 16:06:13,391 - INFO - logger - cache hits 67
+2024-07-23 16:06:13,391 - INFO - logger - ============================================
+2024-07-23 16:06:19,460 - INFO - logger - Processed Q04922-1 in 6.067847013473511 seconds
+2024-07-23 16:06:24,019 - INFO - logger - Processed P32364-1 in 10.621784210205078 seconds
+2024-07-23 16:06:37,788 - INFO - logger - Processed Q9NR56-1 in 24.39481282234192 seconds
+2024-07-23 16:06:43,183 - INFO - logger - Processed O08579-1 in 29.786159992218018 seconds
+2024-07-23 16:06:44,075 - INFO - logger - Processed Q96AT9-1 in 30.67683696746826 seconds
+2024-07-23 16:06:48,189 - INFO - logger - Processed P25786-1 in 34.79380393028259 seconds
+2024-07-23 16:06:53,183 - INFO - logger - Processed Q9Y2H0-2 in 39.78561305999756 seconds
+2024-07-23 16:06:54,835 - INFO - logger - Processed Q8BGD9-1 in 41.43800902366638 seconds
+2024-07-23 16:06:56,555 - INFO - logger - Processed P47914-1 in 37.040879011154175 seconds
+2024-07-23 16:07:08,124 - INFO - logger - Processed Q9NWB6-1 in 44.04197096824646 seconds
+2024-07-23 16:07:08,694 - INFO - logger - Processed Q9UJ83-1 in 20.448237895965576 seconds
+2024-07-23 16:07:13,161 - INFO - logger - Processed Q03656-1 in 4.421560049057007 seconds
+2024-07-23 16:07:17,345 - INFO - logger - Processed Q3LI81-1 in 63.95235800743103 seconds
+2024-07-23 16:07:20,223 - INFO - logger - Processed P83741-1 in 66.82553887367249 seconds
+2024-07-23 16:07:25,852 - INFO - logger - Processed P46977-1 in 32.626039028167725 seconds
+2024-07-23 16:07:29,135 - INFO - logger - Processed Q99717-1 in 45.01861119270325 seconds
+2024-07-23 16:07:29,621 - INFO - logger - Processed Q01968-1 in 16.408419132232666 seconds
+2024-07-23 16:07:30,222 - INFO - logger - Processed Q9Y6R9-1 in 35.33539605140686 seconds
+2024-07-23 16:07:33,638 - INFO - logger - Processed Q9QX47-1 in 55.797338008880615 seconds
+2024-07-23 16:07:35,250 - INFO - logger - Processed Q5SQN1-1 in 27.077166080474854 seconds
+2024-07-23 16:07:45,367 - INFO - logger - Processed O75582-1 in 62.130017042160034 seconds
+2024-07-23 16:07:48,383 - INFO - logger - Processed Q5F2E7-1 in 28.111417055130005 seconds
+2024-07-23 16:07:50,149 - INFO - logger - Processed Q8NDL9-1 in 20.483951091766357 seconds
+2024-07-23 16:07:54,508 - INFO - logger - Processed Q9H6K1-1 in 19.212594985961914 seconds
+2024-07-23 16:07:55,041 - INFO - logger - Processed Q96PP9-1 in 24.77375102043152 seconds
+2024-07-23 16:07:56,064 - INFO - logger - Processed Q9Z0U1-1 in 38.67592000961304 seconds
+2024-07-23 16:07:59,737 - INFO - logger - Processed Q9BW71-1 in 63.13675498962402 seconds
+2024-07-23 16:08:04,631 - INFO - logger - Processed Q8TCN5-1 in 19.20867609977722 seconds
+2024-07-23 16:08:05,663 - INFO - logger - Processed Q4KMM3-1 in 15.465155839920044 seconds
+2024-07-23 16:08:06,497 - INFO - logger - Processed Q9ET43-1 in 37.31383991241455 seconds
+2024-07-23 16:08:07,695 - INFO - logger - Processed P55268-1 in 19.26814293861389 seconds
+2024-07-23 16:08:10,657 - INFO - logger - Processed Q571K4-1 in 44.76125907897949 seconds
+2024-07-23 16:08:17,225 - INFO - logger - Processed Q62381-1 in 43.5408079624176 seconds
+2024-07-23 16:08:17,315 - INFO - logger - Hit checkpoint at index 8500
+2024-07-23 16:08:17,315 - INFO - logger - API calls 33
+2024-07-23 16:08:17,315 - INFO - logger - cache hits 67
+2024-07-23 16:08:17,315 - INFO - logger - ============================================
+2024-07-23 16:08:24,232 - INFO - logger - Processed P11978-1 in 6.9136152267456055 seconds
+2024-07-23 16:08:25,499 - INFO - logger - Processed P53297-1 in 8.183486938476562 seconds
+2024-07-23 16:08:34,853 - INFO - logger - Processed P53901-1 in 10.557689189910889 seconds
+2024-07-23 16:08:35,421 - INFO - logger - Processed Q15057-1 in 18.10346484184265 seconds
+2024-07-23 16:08:46,545 - INFO - logger - Processed Q06546-1 in 29.22735905647278 seconds
+2024-07-23 16:08:49,612 - INFO - logger - Processed P09216-1 in 32.29474997520447 seconds
+2024-07-23 16:08:53,383 - INFO - logger - Processed Q8IUD6-1 in 36.064327001571655 seconds
+2024-07-23 16:08:57,979 - INFO - logger - Processed P36139-1 in 11.378725051879883 seconds
+2024-07-23 16:09:05,449 - INFO - logger - Processed Q91XM9-1 in 30.528169870376587 seconds
+2024-07-23 16:09:08,075 - INFO - logger - Processed Q96GQ7-1 in 50.76030397415161 seconds
+2024-07-23 16:09:09,432 - INFO - logger - Processed Q92569-1 in 43.87352204322815 seconds
+2024-07-23 16:09:10,492 - INFO - logger - Processed Q9H324-1 in 53.173900842666626 seconds
+2024-07-23 16:09:13,071 - INFO - logger - Processed P49687-1 in 4.947683095932007 seconds
+2024-07-23 16:09:19,796 - INFO - logger - Processed P38198-1 in 9.253172159194946 seconds
+2024-07-23 16:09:21,655 - INFO - logger - Processed P68403-1 in 32.00070309638977 seconds
+2024-07-23 16:09:23,752 - INFO - logger - Processed P63010-1 in 66.43255567550659 seconds
+2024-07-23 16:09:27,052 - INFO - logger - Processed Q91XM9-1 in 33.62713313102722 seconds
+2024-07-23 16:09:30,512 - INFO - logger - Processed O15405-1 in 21.009437084197998 seconds
+2024-07-23 16:09:32,321 - INFO - logger - Processed P32770-1 in 5.219567775726318 seconds
+2024-07-23 16:09:35,008 - INFO - logger - Processed Q14031-1 in 77.6894257068634 seconds
+2024-07-23 16:09:35,239 - INFO - logger - Processed Q8N6G2-1 in 59.77435612678528 seconds
+2024-07-23 16:09:38,232 - INFO - logger - Processed Q96MT7-2 in 25.09587597846985 seconds
+2024-07-23 16:09:45,444 - INFO - logger - Processed Q9NWU1-1 in 47.41995596885681 seconds
+2024-07-23 16:09:52,249 - INFO - logger - Processed Q6A065-1 in 30.545441150665283 seconds
+2024-07-23 16:09:54,848 - INFO - logger - Processed O00512-1 in 35.00431680679321 seconds
+2024-07-23 16:09:54,966 - INFO - logger - Processed P49312-1 in 24.396297931671143 seconds
+2024-07-23 16:10:01,401 - INFO - logger - Processed P16260-1 in 55.90051603317261 seconds
+2024-07-23 16:10:08,341 - INFO - logger - Processed Q00341-1 in 44.54295611381531 seconds
+2024-07-23 16:10:08,426 - INFO - logger - Hit checkpoint at index 8600
+2024-07-23 16:10:08,426 - INFO - logger - API calls 28
+2024-07-23 16:10:08,426 - INFO - logger - cache hits 72
+2024-07-23 16:10:08,426 - INFO - logger - ============================================
+2024-07-23 16:10:12,389 - INFO - logger - Processed P47029-1 in 3.9625790119171143 seconds
+2024-07-23 16:10:13,851 - INFO - logger - Processed P34216-1 in 5.422049045562744 seconds
+2024-07-23 16:10:14,419 - INFO - logger - Processed Q02796-1 in 5.990988731384277 seconds
+2024-07-23 16:10:16,688 - INFO - logger - Processed P50875-1 in 4.247138023376465 seconds
+2024-07-23 16:10:23,964 - INFO - logger - Processed P40463-1 in 7.2245941162109375 seconds
+2024-07-23 16:10:34,168 - INFO - logger - Processed Q9QYC0-1 in 20.26998782157898 seconds
+2024-07-23 16:10:37,206 - INFO - logger - Processed Q9NZV5-1 in 28.776612043380737 seconds
+2024-07-23 16:10:40,394 - INFO - logger - Processed Q9UMN6-1 in 31.96461009979248 seconds
+2024-07-23 16:10:43,578 - INFO - logger - Processed Q05823-1 in 35.149334192276 seconds
+2024-07-23 16:10:53,118 - INFO - logger - Processed Q9H361-1 in 44.68962597846985 seconds
+2024-07-23 16:10:55,393 - INFO - logger - Processed Q01826-1 in 40.92896485328674 seconds
+2024-07-23 16:10:56,531 - INFO - logger - Processed Q9DC28-1 in 48.101211071014404 seconds
+2024-07-23 16:10:57,893 - INFO - logger - Processed P40463-1 in 4.708225965499878 seconds
+2024-07-23 16:10:58,204 - INFO - logger - Processed Q9Y3Y2-1 in 34.16598105430603 seconds
+2024-07-23 16:11:03,109 - INFO - logger - Processed O15371-1 in 28.89241600036621 seconds
+2024-07-23 16:11:06,346 - INFO - logger - Processed Q08206-1 in 3.185084342956543 seconds
+2024-07-23 16:11:14,720 - INFO - logger - Processed Q9BV19-1 in 31.082585096359253 seconds
+2024-07-23 16:11:14,871 - INFO - logger - Processed P36166-1 in 8.473297834396362 seconds
+2024-07-23 16:11:18,107 - INFO - logger - Processed Q9WV69-1 in 40.85821604728699 seconds
+2024-07-23 16:11:18,126 - INFO - logger - Processed A6QL64-1 in 20.130168914794922 seconds
+2024-07-23 16:11:20,704 - INFO - logger - Processed Q9EPU0-1 in 72.27421116828918 seconds
+2024-07-23 16:11:23,538 - INFO - logger - Processed Q9UBS9-1 in 75.10901284217834 seconds
+2024-07-23 16:11:24,454 - INFO - logger - Processed P17252-1 in 26.20567488670349 seconds
+2024-07-23 16:11:39,050 - INFO - logger - Processed Q922F4-1 in 42.421245098114014 seconds
+2024-07-23 16:11:41,624 - INFO - logger - Processed Q53G44-1 in 23.391252994537354 seconds
+2024-07-23 16:11:48,077 - INFO - logger - Processed P17030-1 in 24.495491981506348 seconds
+2024-07-23 16:11:48,927 - INFO - logger - Processed P62701-1 in 68.48502087593079 seconds
+2024-07-23 16:11:53,170 - INFO - logger - Processed Q99650-1 in 57.72634816169739 seconds
+2024-07-23 16:11:58,444 - INFO - logger - Processed O15455-1 in 40.205713987350464 seconds
+2024-07-23 16:11:59,005 - INFO - logger - Processed Q99424-1 in 34.49440884590149 seconds
+2024-07-23 16:11:59,371 - INFO - logger - Processed O95171-1 in 38.61901330947876 seconds
+2024-07-23 16:12:00,125 - INFO - logger - Processed Q99LI5-1 in 45.343202114105225 seconds
+2024-07-23 16:12:02,202 - INFO - logger - Processed Q9H1K0-1 in 47.28847599029541 seconds
+2024-07-23 16:12:05,093 - INFO - logger - Processed P68368-1 in 25.99214267730713 seconds
+2024-07-23 16:12:05,183 - INFO - logger - Hit checkpoint at index 8700
+2024-07-23 16:12:05,183 - INFO - logger - API calls 34
+2024-07-23 16:12:05,183 - INFO - logger - cache hits 66
+2024-07-23 16:12:05,183 - INFO - logger - ============================================
+2024-07-23 16:12:20,293 - INFO - logger - Processed Q12901-1 in 15.108930587768555 seconds
+2024-07-23 16:12:27,284 - INFO - logger - Processed Q13643-1 in 22.099071979522705 seconds
+2024-07-23 16:12:27,895 - INFO - logger - Processed O75534-1 in 22.709293842315674 seconds
+2024-07-23 16:12:29,154 - INFO - logger - Processed P63260-1 in 23.967317819595337 seconds
+2024-07-23 16:12:34,214 - INFO - logger - Processed O14640-1 in 29.02907395362854 seconds
+2024-07-23 16:12:35,089 - INFO - logger - Processed Q9UMF0-1 in 29.905093908309937 seconds
+2024-07-23 16:12:35,418 - INFO - logger - Processed Q61542-1 in 30.234376192092896 seconds
+2024-07-23 16:12:39,130 - INFO - logger - Processed Q63HQ2-1 in 33.945573806762695 seconds
+2024-07-23 16:12:46,318 - INFO - logger - Processed P21796-1 in 25.97338604927063 seconds
+2024-07-23 16:12:47,131 - INFO - logger - Processed O95274-1 in 17.925270080566406 seconds
+2024-07-23 16:12:49,096 - INFO - logger - Processed Q62504-1 in 43.910046100616455 seconds
+2024-07-23 16:12:55,320 - INFO - logger - Processed Q96S16-1 in 27.97314214706421 seconds
+2024-07-23 16:12:57,945 - INFO - logger - Processed Q8VHF5-1 in 52.75850200653076 seconds
+2024-07-23 16:13:15,703 - INFO - logger - Processed Q14689-1 in 40.24146389961243 seconds
+2024-07-23 16:13:16,610 - INFO - logger - Processed Q8NEG5-1 in 41.39745831489563 seconds
+2024-07-23 16:13:20,917 - INFO - logger - Processed P25398-1 in 22.915076732635498 seconds
+2024-07-23 16:13:24,161 - INFO - logger - Processed Q9C0C2-1 in 44.98549509048462 seconds
+2024-07-23 16:13:24,171 - INFO - logger - Processed Q60974-1 in 56.21808981895447 seconds
+2024-07-23 16:13:27,558 - INFO - logger - Processed Q68EF6-1 in 38.42041897773743 seconds
+2024-07-23 16:13:31,359 - INFO - logger - Processed P41696-1 in 7.089944839477539 seconds
+2024-07-23 16:13:33,078 - INFO - logger - Processed Q8BIE6-1 in 58.80484890937805 seconds
+2024-07-23 16:13:37,138 - INFO - logger - Processed Q6PHZ2-1 in 41.75525975227356 seconds
+2024-07-23 16:13:38,325 - INFO - logger - Processed O43548-1 in 51.14979100227356 seconds
+2024-07-23 16:13:39,579 - INFO - logger - Processed P07476-1 in 23.81040096282959 seconds
+2024-07-23 16:13:40,517 - INFO - logger - Processed Q4G0P3-1 in 23.861879110336304 seconds
+2024-07-23 16:13:49,228 - INFO - logger - Processed Q6PI47-1 in 62.85813879966736 seconds
+2024-07-23 16:13:59,084 - INFO - logger - Processed Q15637-1 in 31.473011016845703 seconds
+2024-07-23 16:13:59,123 - INFO - logger - Processed Q8N944-1 in 18.56190586090088 seconds
+2024-07-23 16:14:06,940 - INFO - logger - Processed Q7TQ95-1 in 45.97214388847351 seconds
+2024-07-23 16:14:13,545 - INFO - logger - Processed Q96JE9-1 in 49.279967069625854 seconds
+2024-07-23 16:14:14,437 - INFO - logger - Processed Q9Y6R0-1 in 37.25413799285889 seconds
+2024-07-23 16:14:14,642 - INFO - logger - Processed Q8TED1-1 in 36.27091693878174 seconds
+2024-07-23 16:14:21,833 - INFO - logger - Processed Q60932-1 in 50.42334699630737 seconds
+2024-07-23 16:14:24,794 - INFO - logger - Processed Q12788-1 in 51.665363788604736 seconds
+2024-07-23 16:14:25,129 - INFO - logger - Processed Q9NX47-1 in 25.9079270362854 seconds
+2024-07-23 16:14:28,424 - INFO - logger - Processed P30291-1 in 29.200018882751465 seconds
+2024-07-23 16:14:33,930 - INFO - logger - Processed Q6NXZ1-1 in 44.64289212226868 seconds
+2024-07-23 16:14:34,904 - INFO - logger - Processed O60566-1 in 55.26560378074646 seconds
+2024-07-23 16:14:34,989 - INFO - logger - Hit checkpoint at index 8800
+2024-07-23 16:14:34,990 - INFO - logger - API calls 38
+2024-07-23 16:14:34,990 - INFO - logger - cache hits 62
+2024-07-23 16:14:34,990 - INFO - logger - ============================================
+2024-07-23 16:14:44,262 - INFO - logger - Processed P29295-1 in 9.270047903060913 seconds
+2024-07-23 16:14:54,919 - INFO - logger - Processed B1AXH1-1 in 19.92662787437439 seconds
+2024-07-23 16:15:07,360 - INFO - logger - Processed Q8CHC4-1 in 32.36774492263794 seconds
+2024-07-23 16:15:09,184 - INFO - logger - Processed Q5S003-1 in 34.190529108047485 seconds
+2024-07-23 16:15:10,498 - INFO - logger - Processed Q8VDQ8-1 in 35.504515647888184 seconds
+2024-07-23 16:15:10,814 - INFO - logger - Processed Q86X10-1 in 35.82007193565369 seconds
+2024-07-23 16:15:23,941 - INFO - logger - Processed Q66K41-1 in 39.61491084098816 seconds
+2024-07-23 16:15:28,396 - INFO - logger - Processed Q6IBS0-1 in 53.40397024154663 seconds
+2024-07-23 16:15:28,833 - INFO - logger - Processed P0C6C1-1 in 53.839929819107056 seconds
+2024-07-23 16:15:31,960 - INFO - logger - Processed Q8K2F0-1 in 56.96655011177063 seconds
+2024-07-23 16:15:32,644 - INFO - logger - Processed O00429-1 in 23.414237022399902 seconds
+2024-07-23 16:15:33,589 - INFO - logger - Processed P32551-1 in 58.59619498252869 seconds
+2024-07-23 16:15:40,589 - INFO - logger - Processed P24821-1 in 45.6143958568573 seconds
+2024-07-23 16:15:47,818 - INFO - logger - Processed Q60793-1 in 15.814435958862305 seconds
+2024-07-23 16:15:49,515 - INFO - logger - Processed Q9P2P1-1 in 25.52376914024353 seconds
+2024-07-23 16:15:50,955 - INFO - logger - Processed F6ZDS4-1 in 43.54086399078369 seconds
+2024-07-23 16:15:59,582 - INFO - logger - Processed Q5XJV6-1 in 48.71809792518616 seconds
+2024-07-23 16:16:02,968 - INFO - logger - Processed Q64449-1 in 22.323912143707275 seconds
+2024-07-23 16:16:08,856 - INFO - logger - Processed Q9UQ26-6 in 36.17130494117737 seconds
+2024-07-23 16:16:08,885 - INFO - logger - Processed Q99J87-1 in 19.3261239528656 seconds
+2024-07-23 16:16:08,924 - INFO - logger - Processed Q9NR64-1 in 35.2857608795166 seconds
+2024-07-23 16:16:12,311 - INFO - logger - Processed Q7Z7G8-1 in 21.31288504600525 seconds
+2024-07-23 16:16:12,563 - INFO - logger - Processed Q14185-1 in 43.684605836868286 seconds
+2024-07-23 16:16:12,744 - INFO - logger - Processed O95222-1 in 62.14199090003967 seconds
+2024-07-23 16:16:12,914 - INFO - logger - Processed Q9P2D6-1 in 44.46444010734558 seconds
+2024-07-23 16:16:13,733 - INFO - logger - Processed Q9UPS8-1 in 25.862143993377686 seconds
+2024-07-23 16:16:13,820 - INFO - logger - Hit checkpoint at index 8900
+2024-07-23 16:16:13,820 - INFO - logger - API calls 26
+2024-07-23 16:16:13,820 - INFO - logger - cache hits 74
+2024-07-23 16:16:13,820 - INFO - logger - ============================================
+2024-07-23 16:16:36,888 - INFO - logger - Processed Q16676-1 in 23.06303906440735 seconds
+2024-07-23 16:16:37,268 - INFO - logger - Processed Q96Q15-1 in 23.44803214073181 seconds
+2024-07-23 16:16:44,456 - INFO - logger - Processed P38850-1 in 7.132744312286377 seconds
+2024-07-23 16:16:52,906 - INFO - logger - Processed P62979-1 in 39.08378005027771 seconds
+2024-07-23 16:16:53,179 - INFO - logger - Processed Q60790-1 in 39.35756301879883 seconds
+2024-07-23 16:16:53,864 - INFO - logger - Processed O75071-1 in 40.04193115234375 seconds
+2024-07-23 16:17:01,669 - INFO - logger - Processed P23921-1 in 47.848334074020386 seconds
+2024-07-23 16:17:04,211 - INFO - logger - Processed P97379-1 in 27.253886938095093 seconds
+2024-07-23 16:17:04,644 - INFO - logger - Processed Q3TZZ7-1 in 50.81826972961426 seconds
+2024-07-23 16:17:11,769 - INFO - logger - Processed Q09161-1 in 57.94828701019287 seconds
+2024-07-23 16:17:20,173 - INFO - logger - Processed A1L0T0-1 in 35.63753008842468 seconds
+2024-07-23 16:17:25,014 - INFO - logger - Processed Q13823-1 in 31.100954055786133 seconds
+2024-07-23 16:17:25,635 - INFO - logger - Processed O95251-1 in 32.617319107055664 seconds
+2024-07-23 16:17:26,143 - INFO - logger - Processed Q6PAL7-1 in 32.917266845703125 seconds
+2024-07-23 16:17:28,172 - INFO - logger - Processed Q86TZ1-1 in 74.34773802757263 seconds
+2024-07-23 16:17:48,611 - INFO - logger - Processed P08237-1 in 23.53691601753235 seconds
+2024-07-23 16:17:49,011 - INFO - logger - Processed Q9P2D8-1 in 44.31869602203369 seconds
+2024-07-23 16:17:50,331 - INFO - logger - Processed P09605-1 in 96.505615234375 seconds
+2024-07-23 16:17:54,560 - INFO - logger - Processed Q8NBI5-1 in 28.87994885444641 seconds
+2024-07-23 16:17:55,086 - INFO - logger - Processed Q14651-1 in 50.826923847198486 seconds
+2024-07-23 16:17:55,915 - INFO - logger - Processed P23511-1 in 44.0795578956604 seconds
+2024-07-23 16:18:02,270 - INFO - logger - Processed Q4L180-1 in 60.533344745635986 seconds
+2024-07-23 16:18:04,108 - INFO - logger - Processed Q9Y2Y4-1 in 35.89086318016052 seconds
+2024-07-23 16:18:07,708 - INFO - logger - Processed O00754-1 in 41.51657009124756 seconds
+2024-07-23 16:18:12,324 - INFO - logger - Processed Q9NSV4-3 in 52.0171377658844 seconds
+2024-07-23 16:18:18,693 - INFO - logger - Processed Q5TC79-1 in 30.01698589324951 seconds
+2024-07-23 16:18:18,789 - INFO - logger - Hit checkpoint at index 9000
+2024-07-23 16:18:18,789 - INFO - logger - API calls 26
+2024-07-23 16:18:18,789 - INFO - logger - cache hits 74
+2024-07-23 16:18:18,789 - INFO - logger - ============================================
+2024-07-23 16:18:26,819 - INFO - logger - Processed P39962-1 in 8.027109861373901 seconds
+2024-07-23 16:18:28,192 - INFO - logger - Processed P32873-1 in 9.400610208511353 seconds
+2024-07-23 16:18:37,962 - INFO - logger - Processed P33306-1 in 11.065026998519897 seconds
+2024-07-23 16:18:48,758 - INFO - logger - Processed Q9NYA4-1 in 29.969276905059814 seconds
+2024-07-23 16:18:57,201 - INFO - logger - Processed Q8IU85-1 in 38.410195112228394 seconds
+2024-07-23 16:18:57,573 - INFO - logger - Processed Q15878-1 in 19.534250020980835 seconds
+2024-07-23 16:18:57,924 - INFO - logger - Processed P28347-1 in 39.13436532020569 seconds
+2024-07-23 16:18:59,430 - INFO - logger - Processed B6SEH8-1 in 40.63603115081787 seconds
+2024-07-23 16:19:02,154 - INFO - logger - Processed Q06673-1 in 4.897880792617798 seconds
+2024-07-23 16:19:02,580 - INFO - logger - Processed Q12100-1 in 3.108264923095703 seconds
+2024-07-23 16:19:05,313 - INFO - logger - Processed Q00722-1 in 46.519705057144165 seconds
+2024-07-23 16:19:06,823 - INFO - logger - Processed O43242-1 in 38.583523988723755 seconds
+2024-07-23 16:19:21,045 - INFO - logger - Processed Q6ZQ58-1 in 62.24915623664856 seconds
+2024-07-23 16:19:21,564 - INFO - logger - Processed Q9UHV7-1 in 62.77414393424988 seconds
+2024-07-23 16:19:22,185 - INFO - logger - Processed Q96EQ0-1 in 33.34509801864624 seconds
+2024-07-23 16:19:23,392 - INFO - logger - Processed P11117-1 in 64.59639120101929 seconds
+2024-07-23 16:19:30,816 - INFO - logger - Processed P97310-1 in 23.93924903869629 seconds
+2024-07-23 16:19:37,947 - INFO - logger - Processed Q9EST3-1 in 16.848410844802856 seconds
+2024-07-23 16:19:39,354 - INFO - logger - Processed Q9BY42-1 in 41.38552284240723 seconds
+2024-07-23 16:19:42,778 - INFO - logger - Processed Q96DY7-1 in 37.40860891342163 seconds
+2024-07-23 16:19:50,180 - INFO - logger - Processed P63017-1 in 52.56318783760071 seconds
+2024-07-23 16:19:51,711 - INFO - logger - Processed Q6P8I4-1 in 29.48363971710205 seconds
+2024-07-23 16:19:51,818 - INFO - logger - Processed Q9Y6A5-1 in 49.18977618217468 seconds
+2024-07-23 16:19:52,450 - INFO - logger - Processed Q99715-1 in 50.25147008895874 seconds
+2024-07-23 16:19:55,392 - INFO - logger - Processed Q9Y5B6-1 in 33.78123998641968 seconds
+2024-07-23 16:19:55,491 - INFO - logger - Hit checkpoint at index 9100
+2024-07-23 16:19:55,491 - INFO - logger - API calls 25
+2024-07-23 16:19:55,491 - INFO - logger - cache hits 75
+2024-07-23 16:19:55,491 - INFO - logger - ============================================
+2024-07-23 16:19:59,869 - INFO - logger - Processed P13186-1 in 4.377557992935181 seconds
+2024-07-23 16:20:04,713 - INFO - logger - Processed P33749-1 in 9.21875786781311 seconds
+2024-07-23 16:20:12,193 - INFO - logger - Processed Q8BTJ4-1 in 16.701587915420532 seconds
+2024-07-23 16:20:13,955 - INFO - logger - Processed Q6ZQQ6-1 in 18.460828065872192 seconds
+2024-07-23 16:20:16,186 - INFO - logger - Processed Q5SRN2-1 in 20.69379496574402 seconds
+2024-07-23 16:20:22,691 - INFO - logger - Processed Q8TDJ6-1 in 27.197001218795776 seconds
+2024-07-23 16:20:26,231 - INFO - logger - Processed Q92736-1 in 13.981756210327148 seconds
+2024-07-23 16:20:29,550 - INFO - logger - Processed Q8WYB5-1 in 34.0565299987793 seconds
+2024-07-23 16:20:31,214 - INFO - logger - Processed Q8BKX1-1 in 26.45515275001526 seconds
+2024-07-23 16:20:32,776 - INFO - logger - Processed Q8NF37-1 in 18.730227947235107 seconds
+2024-07-23 16:20:39,333 - INFO - logger - Processed Q06315-1 in 6.500197887420654 seconds
+2024-07-23 16:20:39,741 - INFO - logger - Processed Q13394-1 in 39.80430316925049 seconds
+2024-07-23 16:20:41,899 - INFO - logger - Processed Q9QXL1-1 in 25.655317068099976 seconds
+2024-07-23 16:20:49,682 - INFO - logger - Processed P57075-1 in 54.190736055374146 seconds
+2024-07-23 16:20:51,328 - INFO - logger - Processed Q9UL01-1 in 28.584295749664307 seconds
+2024-07-23 16:20:51,802 - INFO - logger - Processed Q9Y485-1 in 20.540364980697632 seconds
+2024-07-23 16:20:53,737 - INFO - logger - Processed P08113-1 in 58.244393825531006 seconds
+2024-07-23 16:20:55,093 - INFO - logger - Processed P38080-1 in 5.362114906311035 seconds
+2024-07-23 16:20:55,204 - INFO - logger - Processed P97347-1 in 59.71097016334534 seconds
+2024-07-23 16:20:58,890 - INFO - logger - Processed Q12443-1 in 3.6789450645446777 seconds
+2024-07-23 16:21:01,134 - INFO - logger - Processed P40357-1 in 9.286937952041626 seconds
+2024-07-23 16:21:08,449 - INFO - logger - Processed O70250-1 in 38.84228587150574 seconds
+2024-07-23 16:21:16,927 - INFO - logger - Processed O08784-1 in 37.327483892440796 seconds
+2024-07-23 16:21:19,866 - INFO - logger - Processed P70459-1 in 24.608999967575073 seconds
+2024-07-23 16:21:25,529 - INFO - logger - Processed Q5SXC4-1 in 34.1555380821228 seconds
+2024-07-23 16:21:25,537 - INFO - logger - Processed P0CW24-1 in 24.352441787719727 seconds
+2024-07-23 16:21:29,649 - INFO - logger - Processed Q494V2-1 in 35.86079216003418 seconds
+2024-07-23 16:21:30,000 - INFO - logger - Processed P81117-1 in 50.20704674720764 seconds
+2024-07-23 16:21:30,429 - INFO - logger - Processed Q3UIL6-1 in 64.05627703666687 seconds
+2024-07-23 16:21:34,383 - INFO - logger - Processed O94991-1 in 52.423439025878906 seconds
+2024-07-23 16:21:36,648 - INFO - logger - Processed Q86TB3-1 in 37.70478415489197 seconds
+2024-07-23 16:21:36,742 - INFO - logger - Hit checkpoint at index 9200
+2024-07-23 16:21:36,742 - INFO - logger - API calls 31
+2024-07-23 16:21:36,742 - INFO - logger - cache hits 69
+2024-07-23 16:21:36,742 - INFO - logger - ============================================
+2024-07-23 16:21:42,235 - INFO - logger - Processed Q03833-1 in 5.4849770069122314 seconds
+2024-07-23 16:21:43,094 - INFO - logger - Processed P19659-1 in 6.3517351150512695 seconds
+2024-07-23 16:21:43,112 - INFO - logger - Processed P09436-1 in 6.359981060028076 seconds
+2024-07-23 16:21:55,350 - INFO - logger - Processed Q9NQZ7-1 in 18.599305152893066 seconds
+2024-07-23 16:22:00,003 - INFO - logger - Processed Q96I34-1 in 23.25291681289673 seconds
+2024-07-23 16:22:03,928 - INFO - logger - Processed Q9BZL6-1 in 21.630776166915894 seconds
+2024-07-23 16:22:06,342 - INFO - logger - Processed Q96QC0-1 in 23.14167594909668 seconds
+2024-07-23 16:22:10,100 - INFO - logger - Processed Q15363-1 in 33.35763716697693 seconds
+2024-07-23 16:22:10,195 - INFO - logger - Processed P35221-1 in 26.99381113052368 seconds
+2024-07-23 16:22:11,887 - INFO - logger - Processed Q9Y608-1 in 35.13765621185303 seconds
+2024-07-23 16:22:14,816 - INFO - logger - Processed P43489-1 in 38.073036670684814 seconds
+2024-07-23 16:22:17,906 - INFO - logger - Processed P39936-1 in 7.658948659896851 seconds
+2024-07-23 16:22:25,516 - INFO - logger - Processed Q96DL1-1 in 48.766148805618286 seconds
+2024-07-23 16:22:30,018 - INFO - logger - Processed Q03111-1 in 23.613831043243408 seconds
+2024-07-23 16:22:31,571 - INFO - logger - Processed P53135-1 in 6.001226425170898 seconds
+2024-07-23 16:22:35,032 - INFO - logger - Processed P35612-1 in 20.168335914611816 seconds
+2024-07-23 16:22:37,801 - INFO - logger - Processed Q96LT6-1 in 33.82663702964783 seconds
+2024-07-23 16:22:41,527 - INFO - logger - Processed O75335-3 in 64.77573013305664 seconds
+2024-07-23 16:22:49,688 - INFO - logger - Processed Q8N9T8-1 in 49.63652420043945 seconds
+2024-07-23 16:22:50,024 - INFO - logger - Processed Q8N4X5-1 in 19.959251880645752 seconds
+2024-07-23 16:22:52,061 - INFO - logger - Processed Q9HC58-1 in 56.658928871154785 seconds
+2024-07-23 16:22:52,784 - INFO - logger - Processed Q8VDC1-1 in 34.81394100189209 seconds
+2024-07-23 16:22:53,483 - INFO - logger - Processed Q9NVQ4-1 in 21.86503291130066 seconds
+2024-07-23 16:23:00,142 - INFO - logger - Processed Q02241-1 in 49.861440896987915 seconds
+2024-07-23 16:23:02,112 - INFO - logger - Processed P58107-1 in 50.17355799674988 seconds
+2024-07-23 16:23:04,702 - INFO - logger - Processed Q7Z553-1 in 29.618574142456055 seconds
+2024-07-23 16:23:04,792 - INFO - logger - Hit checkpoint at index 9300
+2024-07-23 16:23:04,792 - INFO - logger - API calls 26
+2024-07-23 16:23:04,792 - INFO - logger - cache hits 74
+2024-07-23 16:23:04,792 - INFO - logger - ============================================
+2024-07-23 16:23:17,208 - INFO - logger - Processed Q03935-1 in 12.411822080612183 seconds
+2024-07-23 16:23:18,519 - INFO - logger - Processed Q8IWE2-1 in 13.723514080047607 seconds
+2024-07-23 16:23:24,923 - INFO - logger - Processed P38970-1 in 6.355119943618774 seconds
+2024-07-23 16:23:34,374 - INFO - logger - Processed Q96PE2-1 in 29.579681634902954 seconds
+2024-07-23 16:23:37,454 - INFO - logger - Processed Q9BW92-1 in 32.657955169677734 seconds
+2024-07-23 16:23:40,270 - INFO - logger - Processed O60245-1 in 35.47314691543579 seconds
+2024-07-23 16:23:40,831 - INFO - logger - Processed P20108-1 in 36.03672170639038 seconds
+2024-07-23 16:23:47,217 - INFO - logger - Processed Q5SUE8-1 in 42.42180585861206 seconds
+2024-07-23 16:23:55,866 - INFO - logger - Processed Q80UG5-1 in 51.06982707977295 seconds
+2024-07-23 16:23:56,544 - INFO - logger - Processed Q8N0X2-1 in 22.114253997802734 seconds
+2024-07-23 16:24:04,158 - INFO - logger - Processed Q5SXM2-1 in 46.883774280548096 seconds
+2024-07-23 16:24:05,915 - INFO - logger - Processed A6NKN8-1 in 61.12137293815613 seconds
+2024-07-23 16:24:17,435 - INFO - logger - Processed Q3UTJ2-1 in 20.84434413909912 seconds
+2024-07-23 16:24:19,265 - INFO - logger - Processed Q8BJ90-1 in 74.46984314918518 seconds
+2024-07-23 16:24:26,601 - INFO - logger - Processed Q9BTW9-1 in 39.339356899261475 seconds
+2024-07-23 16:24:28,167 - INFO - logger - Processed P0DJD0-1 in 23.945833921432495 seconds
+2024-07-23 16:24:28,725 - INFO - logger - Processed P30519-1 in 22.76517105102539 seconds
+2024-07-23 16:24:29,059 - INFO - logger - Processed Q62600-1 in 64.08120703697205 seconds
+2024-07-23 16:24:32,740 - INFO - logger - Processed Q96M02-1 in 36.82776975631714 seconds
+2024-07-23 16:24:35,454 - INFO - logger - Processed Q60722-1 in 57.952006816864014 seconds
+2024-07-23 16:24:35,626 - INFO - logger - Processed Q8IYD1-1 in 54.7497239112854 seconds
+2024-07-23 16:24:43,197 - INFO - logger - Processed P06730-1 in 62.86502289772034 seconds
+2024-07-23 16:24:44,746 - INFO - logger - Processed O75191-1 in 18.099780082702637 seconds
+2024-07-23 16:24:47,779 - INFO - logger - Processed P62280-1 in 19.56422781944275 seconds
+2024-07-23 16:24:49,571 - INFO - logger - Processed Q80TS3-1 in 30.26180100440979 seconds
+2024-07-23 16:24:52,660 - INFO - logger - Processed Q8BHN3-1 in 35.16445994377136 seconds
+2024-07-23 16:24:52,757 - INFO - logger - Hit checkpoint at index 9400
+2024-07-23 16:24:52,757 - INFO - logger - API calls 26
+2024-07-23 16:24:52,757 - INFO - logger - cache hits 74
+2024-07-23 16:24:52,757 - INFO - logger - ============================================
+2024-07-23 16:24:58,400 - INFO - logger - Processed P32634-1 in 5.6404619216918945 seconds
+2024-07-23 16:25:00,195 - INFO - logger - Processed P08536-1 in 7.436655044555664 seconds
+2024-07-23 16:25:07,193 - INFO - logger - Processed Q68ED7-1 in 14.434693098068237 seconds
+2024-07-23 16:25:16,753 - INFO - logger - Processed P78357-1 in 16.511560916900635 seconds
+2024-07-23 16:25:18,191 - INFO - logger - Processed Q5T6J7-1 in 25.43283200263977 seconds
+2024-07-23 16:25:24,128 - INFO - logger - Processed P13942-1 in 31.36880874633789 seconds
+2024-07-23 16:25:24,428 - INFO - logger - Processed Q9H8W3-1 in 31.668417930603027 seconds
+2024-07-23 16:25:25,218 - INFO - logger - Processed Q9P0K7-1 in 26.76823115348816 seconds
+2024-07-23 16:25:29,485 - INFO - logger - Processed Q8NHQ9-1 in 22.244131088256836 seconds
+2024-07-23 16:25:30,251 - INFO - logger - Processed P53090-1 in 4.986379146575928 seconds
+2024-07-23 16:25:38,763 - INFO - logger - Processed Q06547-1 in 46.004446029663086 seconds
+2024-07-23 16:25:39,165 - INFO - logger - Processed P24386-1 in 46.40594005584717 seconds
+2024-07-23 16:25:39,387 - INFO - logger - Processed Q8VHR5-1 in 21.149921894073486 seconds
+2024-07-23 16:25:40,552 - INFO - logger - Processed O60235-1 in 47.791319131851196 seconds
+2024-07-23 16:25:43,771 - INFO - logger - Processed Q6PFD9-1 in 14.238533973693848 seconds
+2024-07-23 16:25:45,179 - INFO - logger - Processed P02458-2 in 28.36167287826538 seconds
+2024-07-23 16:25:46,812 - INFO - logger - Processed Q06108-1 in 7.602315902709961 seconds
+2024-07-23 16:25:54,236 - INFO - logger - Processed P21576-1 in 9.006628036499023 seconds
+2024-07-23 16:26:00,611 - INFO - logger - Processed A6NC86-1 in 20.008180141448975 seconds
+2024-07-23 16:26:01,958 - INFO - logger - Processed Q91XV3-1 in 69.20007014274597 seconds
+2024-07-23 16:26:03,280 - INFO - logger - Processed P15814-1 in 19.457072257995605 seconds
+2024-07-23 16:26:11,138 - INFO - logger - Processed P43565-1 in 7.810276985168457 seconds
+2024-07-23 16:26:12,469 - INFO - logger - Processed A6NCM1-1 in 47.993356704711914 seconds
+2024-07-23 16:26:13,602 - INFO - logger - Processed Q12152-1 in 12.939501762390137 seconds
+2024-07-23 16:26:14,325 - INFO - logger - Processed Q9DBJ1-1 in 27.46478509902954 seconds
+2024-07-23 16:26:15,207 - INFO - logger - Processed O75363-1 in 44.90910816192627 seconds
+2024-07-23 16:26:16,842 - INFO - logger - Processed P32831-1 in 5.646245956420898 seconds
+2024-07-23 16:26:17,773 - INFO - logger - Processed P0CG13-1 in 23.464694023132324 seconds
+2024-07-23 16:26:18,624 - INFO - logger - Processed Q922J3-1 in 54.41140389442444 seconds
+2024-07-23 16:26:26,374 - INFO - logger - Processed Q14392-1 in 47.07939791679382 seconds
+2024-07-23 16:26:35,473 - INFO - logger - Processed O08919-1 in 56.0341854095459 seconds
+2024-07-23 16:26:40,951 - INFO - logger - Processed Q16656-1 in 27.301724195480347 seconds
+2024-07-23 16:26:47,077 - INFO - logger - Processed Q03001-7 in 34.56057095527649 seconds
+2024-07-23 16:26:47,365 - INFO - logger - Processed Q96Q11-1 in 45.348979234695435 seconds
+2024-07-23 16:26:47,457 - INFO - logger - Hit checkpoint at index 9500
+2024-07-23 16:26:47,457 - INFO - logger - API calls 34
+2024-07-23 16:26:47,457 - INFO - logger - cache hits 66
+2024-07-23 16:26:47,457 - INFO - logger - ============================================
+2024-07-23 16:26:53,396 - INFO - logger - Processed Q02959-1 in 5.9357099533081055 seconds
+2024-07-23 16:27:14,604 - INFO - logger - Processed Q9C0D7-1 in 27.142420053482056 seconds
+2024-07-23 16:27:25,782 - INFO - logger - Processed Q8CI95-1 in 38.323927879333496 seconds
+2024-07-23 16:27:27,659 - INFO - logger - Processed Q9Z2L0-1 in 40.198639154434204 seconds
+2024-07-23 16:27:27,810 - INFO - logger - Processed P20676-1 in 13.142668962478638 seconds
+2024-07-23 16:27:31,220 - INFO - logger - Processed Q3U3T8-1 in 43.76003909111023 seconds
+2024-07-23 16:27:38,093 - INFO - logger - Processed Q9HBF4-1 in 50.63217091560364 seconds
+2024-07-23 16:27:38,312 - INFO - logger - Processed Q9P2X0-1 in 50.85142111778259 seconds
+2024-07-23 16:27:39,647 - INFO - logger - Processed Q12132-1 in 11.785477876663208 seconds
+2024-07-23 16:27:40,508 - INFO - logger - Processed P32591-1 in 9.238548994064331 seconds
+2024-07-23 16:27:50,557 - INFO - logger - Processed Q8VHG2-1 in 57.11007022857666 seconds
+2024-07-23 16:28:00,412 - INFO - logger - Processed Q8VCF0-1 in 32.70268702507019 seconds
+2024-07-23 16:28:00,539 - INFO - logger - Processed Q14699-1 in 73.0782470703125 seconds
+2024-07-23 16:28:02,377 - INFO - logger - Processed P36543-1 in 24.17252516746521 seconds
+2024-07-23 16:28:08,221 - INFO - logger - Processed Q5VZ89-1 in 80.7618350982666 seconds
+2024-07-23 16:28:13,587 - INFO - logger - Processed O75150-1 in 47.75590801239014 seconds
+2024-07-23 16:28:17,269 - INFO - logger - Processed P78337-1 in 89.80960273742676 seconds
+2024-07-23 16:28:23,339 - INFO - logger - Processed Q9D824-1 in 44.98080277442932 seconds
+2024-07-23 16:28:25,105 - INFO - logger - Processed Q01804-1 in 45.39933705329895 seconds
+2024-07-23 16:28:29,735 - INFO - logger - Processed Q9UEY8-1 in 49.17453694343567 seconds
+2024-07-23 16:28:29,833 - INFO - logger - Hit checkpoint at index 9600
+2024-07-23 16:28:29,833 - INFO - logger - API calls 20
+2024-07-23 16:28:29,833 - INFO - logger - cache hits 80
+2024-07-23 16:28:29,833 - INFO - logger - ============================================
+2024-07-23 16:28:46,042 - INFO - logger - Processed P70365-1 in 16.20790195465088 seconds
+2024-07-23 16:28:46,149 - INFO - logger - Processed Q9NRD9-1 in 16.316073894500732 seconds
+2024-07-23 16:28:48,761 - INFO - logger - Processed Q9H582-1 in 18.927326917648315 seconds
+2024-07-23 16:28:58,605 - INFO - logger - Processed E9PV98-1 in 28.769415855407715 seconds
+2024-07-23 16:29:00,502 - INFO - logger - Processed Q02809-1 in 14.303656816482544 seconds
+2024-07-23 16:29:00,822 - INFO - logger - Processed Q96HE7-1 in 14.583168983459473 seconds
+2024-07-23 16:29:01,329 - INFO - logger - Processed Q61644-1 in 31.496328115463257 seconds
+2024-07-23 16:29:06,308 - INFO - logger - Processed Q16363-1 in 17.49513006210327 seconds
+2024-07-23 16:29:08,124 - INFO - logger - Processed Q9NT99-1 in 38.289146900177 seconds
+2024-07-23 16:29:12,484 - INFO - logger - Processed O43156-1 in 42.64962291717529 seconds
+2024-07-23 16:29:14,020 - INFO - logger - Processed Q8CHY6-1 in 44.18723511695862 seconds
+2024-07-23 16:29:20,990 - INFO - logger - Processed Q15287-1 in 20.119800090789795 seconds
+2024-07-23 16:29:23,631 - INFO - logger - Processed Q9NRG9-1 in 53.79640507698059 seconds
+2024-07-23 16:29:26,078 - INFO - logger - Processed Q6MZW2-1 in 56.24317193031311 seconds
+2024-07-23 16:29:34,226 - INFO - logger - Processed A5D8V7-1 in 32.848434925079346 seconds
+2024-07-23 16:29:45,935 - INFO - logger - Processed P16858-1 in 31.86584973335266 seconds
+2024-07-23 16:29:45,965 - INFO - logger - Processed P81269-1 in 39.60718059539795 seconds
+2024-07-23 16:29:46,188 - INFO - logger - Processed Q1W617-1 in 47.52562212944031 seconds
+2024-07-23 16:29:48,639 - INFO - logger - Processed P11679-1 in 27.6030490398407 seconds
+2024-07-23 16:29:50,737 - INFO - logger - Processed Q9NQ76-1 in 38.19513821601868 seconds
+2024-07-23 16:29:53,761 - INFO - logger - Processed Q8R361-1 in 53.20510697364807 seconds
+2024-07-23 16:30:04,107 - INFO - logger - Processed O14647-1 in 55.933619022369385 seconds
+2024-07-23 16:30:04,200 - INFO - logger - Hit checkpoint at index 9700
+2024-07-23 16:30:04,200 - INFO - logger - API calls 22
+2024-07-23 16:30:04,200 - INFO - logger - cache hits 78
+2024-07-23 16:30:04,200 - INFO - logger - ============================================
+2024-07-23 16:30:10,448 - INFO - logger - Processed P12385-1 in 6.242042064666748 seconds
+2024-07-23 16:30:25,254 - INFO - logger - Processed Q6Q759-1 in 21.05000615119934 seconds
+2024-07-23 16:30:31,542 - INFO - logger - Processed O14764-1 in 27.337037086486816 seconds
+2024-07-23 16:30:36,709 - INFO - logger - Processed Q9GZR5-1 in 32.50523591041565 seconds
+2024-07-23 16:30:37,649 - INFO - logger - Processed Q96CB8-1 in 33.44381904602051 seconds
+2024-07-23 16:30:41,750 - INFO - logger - Processed P12611-1 in 4.987561225891113 seconds
+2024-07-23 16:30:48,202 - INFO - logger - Processed Q3UHJ0-1 in 43.99703907966614 seconds
+2024-07-23 16:30:56,089 - INFO - logger - Processed Q0GA42-1 in 24.498541116714478 seconds
+2024-07-23 16:30:56,462 - INFO - logger - Processed Q8CDK2-1 in 18.75535774230957 seconds
+2024-07-23 16:30:57,347 - INFO - logger - Processed A2RUS2-1 in 53.144946813583374 seconds
+2024-07-23 16:31:02,850 - INFO - logger - Processed Q7TQH0-1 in 58.645426988601685 seconds
+2024-07-23 16:31:06,758 - INFO - logger - Processed O15355-1 in 41.443724155426025 seconds
+2024-07-23 16:31:06,933 - INFO - logger - Processed Q15643-1 in 25.09810471534729 seconds
+2024-07-23 16:31:07,912 - INFO - logger - Processed P11498-1 in 63.708155155181885 seconds
+2024-07-23 16:31:08,703 - INFO - logger - Processed Q9P0M2-1 in 64.50160789489746 seconds
+2024-07-23 16:31:09,353 - INFO - logger - Processed P19105-1 in 58.84510016441345 seconds
+2024-07-23 16:31:13,807 - INFO - logger - Processed O00154-1 in 25.55345606803894 seconds
+2024-07-23 16:31:33,924 - INFO - logger - Processed Q9Y4G6-1 in 36.52093195915222 seconds
+2024-07-23 16:31:35,766 - INFO - logger - Processed O95983-1 in 39.547693967819214 seconds
+2024-07-23 16:31:38,791 - INFO - logger - Processed Q9H7S9-1 in 42.281416177749634 seconds
+2024-07-23 16:31:38,883 - INFO - logger - Hit checkpoint at index 9800
+2024-07-23 16:31:38,883 - INFO - logger - API calls 20
+2024-07-23 16:31:38,883 - INFO - logger - cache hits 80
+2024-07-23 16:31:38,883 - INFO - logger - ============================================
+2024-07-23 16:32:00,115 - INFO - logger - Processed A2A6A1-1 in 21.22625422477722 seconds
+2024-07-23 16:32:05,347 - INFO - logger - Processed Q7Z333-1 in 26.46235704421997 seconds
+2024-07-23 16:32:06,929 - INFO - logger - Processed Q9NW75-1 in 28.041982889175415 seconds
+2024-07-23 16:32:07,949 - INFO - logger - Processed O08901-1 in 29.06458806991577 seconds
+2024-07-23 16:32:15,665 - INFO - logger - Processed Q9Y6E0-1 in 36.77685022354126 seconds
+2024-07-23 16:32:24,867 - INFO - logger - Processed P61812-1 in 17.889545917510986 seconds
+2024-07-23 16:32:27,955 - INFO - logger - Processed O08789-1 in 49.06785202026367 seconds
+2024-07-23 16:32:28,548 - INFO - logger - Processed Q8IVF6-1 in 49.662906885147095 seconds
+2024-07-23 16:32:34,792 - INFO - logger - Processed Q99K46-1 in 55.90629291534424 seconds
+2024-07-23 16:32:42,185 - INFO - logger - Processed Q03188-1 in 34.188992738723755 seconds
+2024-07-23 16:32:45,192 - INFO - logger - Processed A0FGR8-1 in 29.468703985214233 seconds
+2024-07-23 16:32:47,263 - INFO - logger - Processed Q9UP79-1 in 19.25933575630188 seconds
+2024-07-23 16:32:47,357 - INFO - logger - Processed Q60520-2 in 68.4697618484497 seconds
+2024-07-23 16:32:47,467 - INFO - logger - Processed O00116-1 in 68.57818984985352 seconds
+2024-07-23 16:32:51,750 - INFO - logger - Processed P14873-1 in 51.58296275138855 seconds
+2024-07-23 16:32:54,389 - INFO - logger - Processed Q6PFD5-1 in 48.98668909072876 seconds
+2024-07-23 16:33:01,658 - INFO - logger - Processed Q15431-1 in 36.7421932220459 seconds
+2024-07-23 16:33:01,762 - INFO - logger - Hit checkpoint at index 9900
+2024-07-23 16:33:01,762 - INFO - logger - API calls 17
+2024-07-23 16:33:01,762 - INFO - logger - cache hits 83
+2024-07-23 16:33:01,762 - INFO - logger - ============================================
+2024-07-23 16:33:34,386 - INFO - logger - Processed Q8R1S4-1 in 32.61977291107178 seconds
+2024-07-23 16:33:40,299 - INFO - logger - Processed Q9BRK5-1 in 38.53293800354004 seconds
+2024-07-23 16:33:44,979 - INFO - logger - Processed O14936-1 in 43.21427917480469 seconds
+2024-07-23 16:33:45,140 - INFO - logger - Processed Q06833-1 in 4.7698962688446045 seconds
+2024-07-23 16:33:49,379 - INFO - logger - Processed Q9D7V1-1 in 47.61380577087402 seconds
+2024-07-23 16:33:51,327 - INFO - logger - Processed Q8K298-1 in 49.56509208679199 seconds
+2024-07-23 16:33:51,914 - INFO - logger - Processed P15104-1 in 17.472928047180176 seconds
+2024-07-23 16:33:55,189 - INFO - logger - Processed P97797-1 in 53.423622846603394 seconds
+2024-07-23 16:33:58,446 - INFO - logger - Processed Q04545-1 in 3.2078239917755127 seconds
+2024-07-23 16:34:02,536 - INFO - logger - Processed P97855-1 in 60.77032709121704 seconds
+2024-07-23 16:34:04,782 - INFO - logger - Processed Q9NRH2-1 in 63.01938271522522 seconds
+2024-07-23 16:34:14,898 - INFO - logger - Processed P02647-1 in 22.936640977859497 seconds
+2024-07-23 16:34:15,252 - INFO - logger - Processed Q8NE18-1 in 30.064393997192383 seconds
+2024-07-23 16:34:16,094 - INFO - logger - Processed Q96GD3-1 in 17.59774899482727 seconds
+2024-07-23 16:34:17,555 - INFO - logger - Processed Q6P2Q9-1 in 28.126370906829834 seconds
+2024-07-23 16:34:18,377 - INFO - logger - Processed P10888-1 in 76.61049008369446 seconds
+2024-07-23 16:34:20,057 - INFO - logger - Processed P48524-1 in 3.908730983734131 seconds
+2024-07-23 16:34:22,816 - INFO - logger - Processed Q8N5T2-1 in 81.05137181282043 seconds
+2024-07-23 16:34:28,788 - INFO - logger - Processed P53604-1 in 5.923748254776001 seconds
+2024-07-23 16:34:34,695 - INFO - logger - Processed Q8WXU2-1 in 49.65842080116272 seconds
+2024-07-23 16:34:34,993 - INFO - logger - Processed Q8WZ74-1 in 19.68046808242798 seconds
+2024-07-23 16:34:35,411 - INFO - logger - Processed Q8VD65-1 in 32.82323884963989 seconds
+2024-07-23 16:34:36,916 - INFO - logger - Processed Q6PIU2-1 in 21.951071977615356 seconds
+2024-07-23 16:34:46,687 - INFO - logger - Processed Q8IYH5-1 in 28.2620689868927 seconds
+2024-07-23 16:34:52,471 - INFO - logger - Processed Q14683-1 in 61.09742999076843 seconds
+2024-07-23 16:34:53,896 - INFO - logger - Processed O75144-1 in 18.438562154769897 seconds
+2024-07-23 16:34:54,595 - INFO - logger - Processed Q00610-1 in 49.7632040977478 seconds
+2024-07-23 16:34:54,998 - INFO - logger - Processed Q15833-1 in 19.957247972488403 seconds
+2024-07-23 16:34:55,978 - INFO - logger - Processed Q96LW1-1 in 35.872835874557495 seconds
+2024-07-23 16:35:03,306 - INFO - logger - Processed Q96BZ4-1 in 26.342099905014038 seconds
+2024-07-23 16:35:04,395 - INFO - logger - Processed Q9NYP9-1 in 46.793147802352905 seconds
+2024-07-23 16:35:07,143 - INFO - logger - Processed O00330-1 in 38.302213191986084 seconds
+2024-07-23 16:35:07,538 - INFO - logger - Processed P83111-1 in 32.78443694114685 seconds
+2024-07-23 16:35:07,638 - INFO - logger - Hit checkpoint at index 10000
+2024-07-23 16:35:07,638 - INFO - logger - API calls 33
+2024-07-23 16:35:07,638 - INFO - logger - cache hits 67
+2024-07-23 16:35:07,638 - INFO - logger - ============================================
+2024-07-23 16:35:10,007 - INFO - logger - Processed P28834-1 in 2.3662431240081787 seconds
+2024-07-23 16:35:43,103 - INFO - logger - Processed Q8IUR5-5 in 35.46302080154419 seconds
+2024-07-23 16:35:47,257 - INFO - logger - Processed Q6ZRI6-1 in 39.61775612831116 seconds
+2024-07-23 16:35:48,281 - INFO - logger - Processed Q9UDY8-1 in 40.639955043792725 seconds
+2024-07-23 16:35:50,131 - INFO - logger - Processed Q9Y487-1 in 42.489367723464966 seconds
+2024-07-23 16:35:50,767 - INFO - logger - Processed P35348-1 in 43.1267032623291 seconds
+2024-07-23 16:35:52,983 - INFO - logger - Processed Q8BL65-1 in 45.34333920478821 seconds
+2024-07-23 16:36:06,982 - INFO - logger - Processed Q9ERU9-1 in 59.340940952301025 seconds
+2024-07-23 16:36:18,082 - INFO - logger - Processed P42331-1 in 70.43993210792542 seconds
+2024-07-23 16:36:18,436 - INFO - logger - Processed Q9Y2G1-1 in 35.27176022529602 seconds
+2024-07-23 16:36:32,123 - INFO - logger - Processed Q8TAX9-4 in 84.48278021812439 seconds
+2024-07-23 16:36:32,972 - INFO - logger - Processed Q0KL02-1 in 82.90604209899902 seconds
+2024-07-23 16:36:40,977 - INFO - logger - Processed P18494-1 in 8.790841102600098 seconds
+2024-07-23 16:36:43,384 - INFO - logger - Processed Q6NXI6-1 in 55.05129313468933 seconds
+2024-07-23 16:36:50,199 - INFO - logger - Processed P38427-1 in 9.17099905014038 seconds
+2024-07-23 16:36:50,759 - INFO - logger - Processed Q8N0Z3-1 in 60.57806086540222 seconds
+2024-07-23 16:36:50,880 - INFO - logger - Processed Q8BL65-1 in 60.05977392196655 seconds
+2024-07-23 16:36:52,987 - INFO - logger - Processed Q99MI1-1 in 45.93967008590698 seconds
+2024-07-23 16:36:55,123 - INFO - logger - Processed O09000-1 in 62.09034490585327 seconds
+2024-07-23 16:36:55,276 - INFO - logger - Processed Q01118-1 in 67.96135878562927 seconds
+2024-07-23 16:37:09,815 - INFO - logger - Processed Q9Z0R6-1 in 51.32124614715576 seconds
+2024-07-23 16:37:14,475 - INFO - logger - Processed Q9D6U8-1 in 56.32920598983765 seconds
+2024-07-23 16:37:19,665 - INFO - logger - Processed Q7Z3I7-1 in 46.646870136260986 seconds
+2024-07-23 16:37:19,761 - INFO - logger - Hit checkpoint at index 10100
+2024-07-23 16:37:19,761 - INFO - logger - API calls 23
+2024-07-23 16:37:19,761 - INFO - logger - cache hits 77
+2024-07-23 16:37:19,761 - INFO - logger - ============================================
+2024-07-23 16:37:29,950 - INFO - logger - Processed P25344-1 in 10.180297374725342 seconds
+2024-07-23 16:38:16,901 - INFO - logger - Processed Q6UWW8-1 in 57.13227200508118 seconds
+2024-07-23 16:38:25,593 - INFO - logger - Processed P08183-1 in 65.82303166389465 seconds
+2024-07-23 16:38:26,618 - INFO - logger - Processed A6X8Z5-1 in 66.84735679626465 seconds
+2024-07-23 16:38:29,746 - INFO - logger - Processed P13056-1 in 69.97632908821106 seconds
+2024-07-23 16:38:30,409 - INFO - logger - Processed O75129-1 in 70.6417498588562 seconds
+2024-07-23 16:38:31,892 - INFO - logger - Processed P25344-1 in 5.214997053146362 seconds
+2024-07-23 16:38:34,449 - INFO - logger - Processed Q91Y44-1 in 74.68422889709473 seconds
+2024-07-23 16:38:40,230 - INFO - logger - Processed P50851-1 in 80.46113014221191 seconds
+2024-07-23 16:38:46,943 - INFO - logger - Processed Q8NCT3-1 in 76.94306325912476 seconds
+2024-07-23 16:38:48,300 - INFO - logger - Processed Q9Y2Z9-1 in 88.52931475639343 seconds
+2024-07-23 16:39:01,702 - INFO - logger - Processed P43487-1 in 101.9322600364685 seconds
+2024-07-23 16:39:17,138 - INFO - logger - Processed P70398-1 in 60.167717933654785 seconds
+2024-07-23 16:39:29,986 - INFO - logger - Processed Q9P212-1 in 59.52590203285217 seconds
+2024-07-23 16:39:34,173 - INFO - logger - Processed Q99LI7-1 in 68.51668691635132 seconds
+2024-07-23 16:39:34,682 - INFO - logger - Processed Q8NBL1-1 in 46.33407378196716 seconds
+2024-07-23 16:39:36,050 - INFO - logger - Processed Q13200-1 in 66.23610281944275 seconds
+2024-07-23 16:39:37,467 - INFO - logger - Processed Q5JUQ0-1 in 57.19071292877197 seconds
+2024-07-23 16:39:44,336 - INFO - logger - Processed O96020-1 in 69.8367919921875 seconds
+2024-07-23 16:39:45,411 - INFO - logger - Processed Q9ES97-1 in 58.41373896598816 seconds
+2024-07-23 16:39:46,718 - INFO - logger - Processed Q6P5W5-1 in 44.95358395576477 seconds
+2024-07-23 16:39:50,085 - INFO - logger - Processed O54960-1 in 78.13818597793579 seconds
+2024-07-23 16:39:50,178 - INFO - logger - Hit checkpoint at index 10200
+2024-07-23 16:39:50,178 - INFO - logger - API calls 22
+2024-07-23 16:39:50,178 - INFO - logger - cache hits 78
+2024-07-23 16:39:50,178 - INFO - logger - ============================================
+2024-07-23 16:40:07,912 - INFO - logger - Processed P38903-1 in 17.729581832885742 seconds
+2024-07-23 16:40:46,674 - INFO - logger - Processed Q8WX93-1 in 56.493876934051514 seconds
+2024-07-23 16:40:56,005 - INFO - logger - Processed P04066-1 in 65.82242107391357 seconds
+2024-07-23 16:41:01,997 - INFO - logger - Processed Q96AD5-1 in 54.020087003707886 seconds
+2024-07-23 16:41:11,152 - INFO - logger - Processed Q99985-1 in 80.97359991073608 seconds
+2024-07-23 16:41:14,571 - INFO - logger - Processed Q8CGC7-1 in 84.3879759311676 seconds
+2024-07-23 16:41:19,046 - INFO - logger - Processed P26284-1 in 88.8641881942749 seconds
+2024-07-23 16:41:23,132 - INFO - logger - Processed Q8TDG4-1 in 92.95061993598938 seconds
+2024-07-23 16:41:25,411 - INFO - logger - Processed Q9NR99-1 in 95.22901916503906 seconds
+2024-07-23 16:41:27,936 - INFO - logger - Processed Q9ER34-1 in 97.7536780834198 seconds
+2024-07-23 16:41:33,843 - INFO - logger - Processed Q0P678-1 in 103.66097784042358 seconds
+2024-07-23 16:41:41,491 - INFO - logger - Processed P23443-1 in 45.422175884246826 seconds
+2024-07-23 16:41:42,405 - INFO - logger - Processed Q9Y613-1 in 55.67057681083679 seconds
+2024-07-23 16:41:43,797 - INFO - logger - Processed P11433-1 in 9.903967142105103 seconds
+2024-07-23 16:41:53,028 - INFO - logger - Processed Q96JI7-1 in 41.80700898170471 seconds
+2024-07-23 16:42:01,309 - INFO - logger - Processed Q9H8Y5-1 in 42.21335411071777 seconds
+2024-07-23 16:42:03,892 - INFO - logger - Processed Q08932-1 in 10.811471939086914 seconds
+2024-07-23 16:42:06,854 - INFO - logger - Processed P52746-1 in 64.8027651309967 seconds
+2024-07-23 16:42:08,463 - INFO - logger - Processed P58462-1 in 53.83367609977722 seconds
+2024-07-23 16:42:11,539 - INFO - logger - Processed E9PZQ0-1 in 43.54796814918518 seconds
+2024-07-23 16:42:13,635 - INFO - logger - Processed Q04837-1 in 50.453497886657715 seconds
+2024-07-23 16:42:15,241 - INFO - logger - Processed P16951-1 in 49.77817106246948 seconds
+2024-07-23 16:42:21,474 - INFO - logger - Processed Q9P2D0-1 in 39.93399214744568 seconds
+2024-07-23 16:42:25,968 - INFO - logger - Processed Q5VWJ9-1 in 42.121798276901245 seconds
+2024-07-23 16:42:36,533 - INFO - logger - Processed Q12872-1 in 54.059030055999756 seconds
+2024-07-23 16:42:36,625 - INFO - logger - Hit checkpoint at index 10300
+2024-07-23 16:42:36,625 - INFO - logger - API calls 25
+2024-07-23 16:42:36,625 - INFO - logger - cache hits 75
+2024-07-23 16:42:36,625 - INFO - logger - ============================================
+2024-07-23 16:42:45,479 - INFO - logger - Processed Q02866-1 in 8.850229024887085 seconds
+2024-07-23 16:43:12,912 - INFO - logger - Processed Q9Y6N7-1 in 36.28246092796326 seconds
+2024-07-23 16:43:28,558 - INFO - logger - Processed Q921K9-1 in 51.92846703529358 seconds
+2024-07-23 16:43:36,987 - INFO - logger - Processed Q8TAT6-1 in 60.357568979263306 seconds
+2024-07-23 16:43:38,158 - INFO - logger - Processed Q9Y3P8-1 in 61.53062081336975 seconds
+2024-07-23 16:43:38,194 - INFO - logger - Processed Q02413-1 in 61.56673884391785 seconds
+2024-07-23 16:43:38,439 - INFO - logger - Processed Q14781-1 in 61.81219220161438 seconds
+2024-07-23 16:43:43,169 - INFO - logger - Processed P51677-1 in 66.54363012313843 seconds
+2024-07-23 16:43:43,451 - INFO - logger - Processed Q9UNX4-1 in 66.82454490661621 seconds
+2024-07-23 16:43:52,723 - INFO - logger - Processed P19332-1 in 76.09453797340393 seconds
+2024-07-23 16:43:53,609 - INFO - logger - Processed P43686-1 in 68.07506084442139 seconds
+2024-07-23 16:43:58,481 - INFO - logger - Processed Q12494-1 in 4.824607849121094 seconds
+2024-07-23 16:44:07,037 - INFO - logger - Processed Q8TAX7-1 in 54.053467750549316 seconds
+2024-07-23 16:44:18,087 - INFO - logger - Processed Q15050-1 in 34.82120704650879 seconds
+2024-07-23 16:44:26,418 - INFO - logger - Processed Q9QXD8-1 in 48.07086515426636 seconds
+2024-07-23 16:44:28,167 - INFO - logger - Processed Q99959-1 in 35.3946738243103 seconds
+2024-07-23 16:44:30,451 - INFO - logger - Processed Q86UB9-1 in 51.9564528465271 seconds
+2024-07-23 16:44:30,783 - INFO - logger - Processed O00165-1 in 52.45766019821167 seconds
+2024-07-23 16:44:31,611 - INFO - logger - Processed Q8K327-1 in 54.57773995399475 seconds
+2024-07-23 16:44:32,684 - INFO - logger - Processed P67936-1 in 49.18150520324707 seconds
+2024-07-23 16:44:33,104 - INFO - logger - Processed A0A0G2JFN0-1 in 64.48610401153564 seconds
+2024-07-23 16:44:38,996 - INFO - logger - Processed Q9Y4G8-1 in 40.46694493293762 seconds
+2024-07-23 16:44:39,089 - INFO - logger - Hit checkpoint at index 10400
+2024-07-23 16:44:39,089 - INFO - logger - API calls 22
+2024-07-23 16:44:39,089 - INFO - logger - cache hits 78
+2024-07-23 16:44:39,089 - INFO - logger - ============================================
+2024-07-23 16:44:54,309 - INFO - logger - Processed Q04149-1 in 15.216984987258911 seconds
+2024-07-23 16:45:34,212 - INFO - logger - Processed Q6BDS2-1 in 55.11973714828491 seconds
+2024-07-23 16:45:35,243 - INFO - logger - Processed Q8CG79-1 in 56.15302920341492 seconds
+2024-07-23 16:45:40,824 - INFO - logger - Processed Q92538-4 in 61.730417251586914 seconds
+2024-07-23 16:45:41,735 - INFO - logger - Processed Q9BYP7-1 in 62.645151138305664 seconds
+2024-07-23 16:45:44,589 - INFO - logger - Processed Q9JKR6-1 in 50.230376958847046 seconds
+2024-07-23 16:45:44,880 - INFO - logger - Processed P62874-1 in 65.78661108016968 seconds
+2024-07-23 16:45:46,673 - INFO - logger - Processed Q9HC36-1 in 67.58003211021423 seconds
+2024-07-23 16:45:47,461 - INFO - logger - Processed Q99LJ0-1 in 68.37158298492432 seconds
+2024-07-23 16:45:49,761 - INFO - logger - Processed Q7L2E3-1 in 70.6715190410614 seconds
+2024-07-23 16:45:58,149 - INFO - logger - Processed O70279-1 in 79.05696177482605 seconds
+2024-07-23 16:46:06,742 - INFO - logger - Processed P38691-1 in 8.544405937194824 seconds
+2024-07-23 16:46:36,662 - INFO - logger - Processed Q9Y2Z4-1 in 54.86682915687561 seconds
+2024-07-23 16:46:41,691 - INFO - logger - Processed Q80TZ9-1 in 54.96990895271301 seconds
+2024-07-23 16:46:42,141 - INFO - logger - Processed Q9BU23-1 in 66.84593892097473 seconds
+2024-07-23 16:46:42,707 - INFO - logger - Processed P11166-1 in 68.43350887298584 seconds
+2024-07-23 16:46:53,607 - INFO - logger - Processed Q02388-1 in 63.79322385787964 seconds
+2024-07-23 16:46:54,240 - INFO - logger - Processed P35712-1 in 73.36654710769653 seconds
+2024-07-23 16:46:54,293 - INFO - logger - Processed Q8TDB8-1 in 69.57863783836365 seconds
+2024-07-23 16:46:59,055 - INFO - logger - Processed Q96FC7-1 in 71.54543781280518 seconds
+2024-07-23 16:46:59,418 - INFO - logger - Processed P51116-1 in 74.48737001419067 seconds
+2024-07-23 16:47:05,640 - INFO - logger - Processed E9PV26-1 in 58.841005086898804 seconds
+2024-07-23 16:47:07,218 - INFO - logger - Processed Q9UPN7-1 in 30.497350931167603 seconds
+2024-07-23 16:47:07,318 - INFO - logger - Hit checkpoint at index 10500
+2024-07-23 16:47:07,318 - INFO - logger - API calls 23
+2024-07-23 16:47:07,318 - INFO - logger - cache hits 77
+2024-07-23 16:47:07,318 - INFO - logger - ============================================
+2024-07-23 16:47:16,116 - INFO - logger - Processed P39016-1 in 8.796993970870972 seconds
+2024-07-23 16:47:27,419 - INFO - logger - Processed Q04947-1 in 20.09853196144104 seconds
+2024-07-23 16:48:10,011 - INFO - logger - Processed P42356-1 in 62.69169569015503 seconds
+2024-07-23 16:48:10,874 - INFO - logger - Processed P60880-1 in 63.55338501930237 seconds
+2024-07-23 16:48:13,823 - INFO - logger - Processed Q9Y473-1 in 66.50356483459473 seconds
+2024-07-23 16:48:14,982 - INFO - logger - Processed Q8R1X6-1 in 67.66366314888 seconds
+2024-07-23 16:48:16,443 - INFO - logger - Processed P16112-1 in 69.122878074646 seconds
+2024-07-23 16:48:16,724 - INFO - logger - Processed P0C7U0-1 in 69.40240120887756 seconds
+2024-07-23 16:48:17,886 - INFO - logger - Processed O75027-1 in 70.56484293937683 seconds
+2024-07-23 16:48:24,362 - INFO - logger - Processed O94823-1 in 68.16430902481079 seconds
+2024-07-23 16:48:24,831 - INFO - logger - Processed Q9H5P4-3 in 77.5097222328186 seconds
+2024-07-23 16:48:28,580 - INFO - logger - Processed Q9BVA1-1 in 61.11009979248047 seconds
+2024-07-23 16:48:39,543 - INFO - logger - Processed O89032-1 in 28.617817163467407 seconds
+2024-07-23 16:48:48,559 - INFO - logger - Processed P60879-1 in 38.479493141174316 seconds
+2024-07-23 16:48:48,665 - INFO - logger - Hit checkpoint at index 10600
+2024-07-23 16:48:48,665 - INFO - logger - API calls 14
+2024-07-23 16:48:48,665 - INFO - logger - cache hits 86
+2024-07-23 16:48:48,665 - INFO - logger - ============================================
+2024-07-23 16:49:44,485 - INFO - logger - Processed Q7Z6L1-1 in 55.81752920150757 seconds
+2024-07-23 16:49:50,181 - INFO - logger - Processed Q9NYQ7-1 in 61.51305794715881 seconds
+2024-07-23 16:49:52,331 - INFO - logger - Processed O14513-1 in 63.663991928100586 seconds
+2024-07-23 16:49:55,945 - INFO - logger - Processed Q15561-1 in 67.27623891830444 seconds
+2024-07-23 16:49:56,625 - INFO - logger - Processed P37088-1 in 67.95934009552002 seconds
+2024-07-23 16:50:03,606 - INFO - logger - Processed Q99459-1 in 74.93926501274109 seconds
+2024-07-23 16:50:07,531 - INFO - logger - Processed Q9NTI5-1 in 78.86576104164124 seconds
+2024-07-23 16:50:10,847 - INFO - logger - Processed Q13469-1 in 82.18078374862671 seconds
+2024-07-23 16:50:11,999 - INFO - logger - Processed P31942-1 in 83.33149600028992 seconds
+2024-07-23 16:50:30,692 - INFO - logger - Processed P35435-1 in 102.02399897575378 seconds
+2024-07-23 16:50:45,641 - INFO - logger - Processed Q9Y4W2-1 in 55.40938186645508 seconds
+2024-07-23 16:50:58,375 - INFO - logger - Processed Q01094-1 in 73.82936692237854 seconds
+2024-07-23 16:51:07,538 - INFO - logger - Processed Q9BXW7-1 in 55.487430810928345 seconds
+2024-07-23 16:51:11,703 - INFO - logger - Processed O00635-1 in 79.32359075546265 seconds
+2024-07-23 16:51:14,369 - INFO - logger - Processed Q9NS15-1 in 78.37559008598328 seconds
+2024-07-23 16:51:16,319 - INFO - logger - Processed Q8TCQ1-1 in 68.73714709281921 seconds
+2024-07-23 16:51:16,601 - INFO - logger - Processed Q76LL6-1 in 72.94134783744812 seconds
+2024-07-23 16:51:16,884 - INFO - logger - Processed P60202-1 in 80.20862984657288 seconds
+2024-07-23 16:51:21,208 - INFO - logger - Processed Q8TE49-1 in 70.31052112579346 seconds
+2024-07-23 16:51:27,474 - INFO - logger - Processed Q13207-1 in 41.77567386627197 seconds
+2024-07-23 16:51:32,687 - INFO - logger - Processed Q9UKG1-1 in 61.926300048828125 seconds
+2024-07-23 16:51:38,621 - INFO - logger - Processed P59759-1 in 40.18788814544678 seconds
+2024-07-23 16:51:52,380 - INFO - logger - Processed P29401-1 in 44.78424000740051 seconds
+2024-07-23 16:51:52,488 - INFO - logger - Hit checkpoint at index 10700
+2024-07-23 16:51:52,488 - INFO - logger - API calls 23
+2024-07-23 16:51:52,488 - INFO - logger - cache hits 77
+2024-07-23 16:51:52,488 - INFO - logger - ============================================
+2024-07-23 16:52:05,232 - INFO - logger - Processed Q12451-1 in 12.74096393585205 seconds
+2024-07-23 16:52:39,929 - INFO - logger - Processed Q7Z2Y5-1 in 47.43977999687195 seconds
+2024-07-23 16:52:48,291 - INFO - logger - Processed Q9NNW5-1 in 55.80218005180359 seconds
+2024-07-23 16:52:50,508 - INFO - logger - Processed Q8NFI3-1 in 58.01890301704407 seconds
+2024-07-23 16:52:51,153 - INFO - logger - Processed Q6P3R8-1 in 58.663779973983765 seconds
+2024-07-23 16:52:51,408 - INFO - logger - Processed Q7Z2K8-1 in 58.91237497329712 seconds
+2024-07-23 16:52:51,587 - INFO - logger - Processed Q6AI12-1 in 46.30284118652344 seconds
+2024-07-23 16:53:02,885 - INFO - logger - Processed P51816-1 in 70.39417695999146 seconds
+2024-07-23 16:53:03,637 - INFO - logger - Processed P61647-1 in 71.14746904373169 seconds
+2024-07-23 16:53:04,045 - INFO - logger - Processed Q62440-1 in 71.54877591133118 seconds
+2024-07-23 16:53:04,363 - INFO - logger - Processed Q08972-1 in 12.867211103439331 seconds
+2024-07-23 16:53:07,794 - INFO - logger - Processed Q02614-1 in 75.29875302314758 seconds
+2024-07-23 16:53:09,676 - INFO - logger - Processed P38164-1 in 5.989214897155762 seconds
+2024-07-23 16:53:09,752 - INFO - logger - Processed P40091-1 in 5.650879144668579 seconds
+2024-07-23 16:53:45,013 - INFO - logger - Processed Q96T51-1 in 53.76047372817993 seconds
+2024-07-23 16:53:46,697 - INFO - logger - Processed O94822-1 in 55.06026577949524 seconds
+2024-07-23 16:53:51,341 - INFO - logger - Processed Q8NGB8-1 in 48.39816403388977 seconds
+2024-07-23 16:53:53,563 - INFO - logger - Processed Q07617-1 in 73.55817198753357 seconds
+2024-07-23 16:53:59,067 - INFO - logger - Processed P54652-1 in 70.72740197181702 seconds
+2024-07-23 16:53:59,681 - INFO - logger - Processed O08599-1 in 55.271369218826294 seconds
+2024-07-23 16:54:02,166 - INFO - logger - Processed Q8N103-1 in 71.60140180587769 seconds
+2024-07-23 16:54:05,513 - INFO - logger - Processed Q27J81-1 in 57.66285800933838 seconds
+2024-07-23 16:54:05,608 - INFO - logger - Hit checkpoint at index 10800
+2024-07-23 16:54:05,608 - INFO - logger - API calls 22
+2024-07-23 16:54:05,608 - INFO - logger - cache hits 78
+2024-07-23 16:54:05,608 - INFO - logger - ============================================
+2024-07-23 16:54:51,791 - INFO - logger - Processed Q9H4S2-1 in 46.17929291725159 seconds
+2024-07-23 16:54:57,545 - INFO - logger - Processed E9Q616-1 in 51.93635678291321 seconds
+2024-07-23 16:55:01,502 - INFO - logger - Processed Q63HM2-1 in 55.89017605781555 seconds
+2024-07-23 16:55:01,647 - INFO - logger - Processed Q5TCZ1-1 in 56.03553104400635 seconds
+2024-07-23 16:55:02,374 - INFO - logger - Processed Q99KN9-1 in 56.76290321350098 seconds
+2024-07-23 16:55:03,849 - INFO - logger - Processed D3YZU1-1 in 58.23776316642761 seconds
+2024-07-23 16:55:05,100 - INFO - logger - Processed Q15020-1 in 59.48776125907898 seconds
+2024-07-23 16:55:05,581 - INFO - logger - Processed Q9Y5E2-1 in 59.97052311897278 seconds
+2024-07-23 16:55:06,627 - INFO - logger - Processed P53974-1 in 4.930011034011841 seconds
+2024-07-23 16:55:13,029 - INFO - logger - Processed Q9ULD6-1 in 67.41794323921204 seconds
+2024-07-23 16:55:14,944 - INFO - logger - Processed O55098-1 in 69.3330671787262 seconds
+2024-07-23 16:55:33,799 - INFO - logger - Processed Q8N6L0-1 in 36.20487189292908 seconds
+2024-07-23 16:55:34,148 - INFO - logger - Processed Q9H3U7-1 in 42.29757618904114 seconds
+2024-07-23 16:55:40,521 - INFO - logger - Processed P33778-1 in 38.885246992111206 seconds
+2024-07-23 16:55:48,901 - INFO - logger - Processed Q66L42-1 in 46.47561311721802 seconds
+2024-07-23 16:55:51,585 - INFO - logger - Processed Q86T82-1 in 47.684494972229004 seconds
+2024-07-23 16:55:51,684 - INFO - logger - Hit checkpoint at index 10900
+2024-07-23 16:55:51,684 - INFO - logger - API calls 16
+2024-07-23 16:55:51,684 - INFO - logger - cache hits 84
+2024-07-23 16:55:51,684 - INFO - logger - ============================================
+2024-07-23 16:56:47,520 - INFO - logger - Processed Q07890-1 in 55.83346629142761 seconds
+2024-07-23 16:56:48,214 - INFO - logger - Processed Q62383-1 in 56.52584409713745 seconds
+2024-07-23 16:56:49,143 - INFO - logger - Processed Q02040-1 in 57.45722508430481 seconds
+2024-07-23 16:56:51,546 - INFO - logger - Processed P35831-1 in 59.858044147491455 seconds
+2024-07-23 16:56:53,301 - INFO - logger - Processed Q6XZL8-1 in 61.61370396614075 seconds
+2024-07-23 16:56:53,698 - INFO - logger - Processed Q02543-1 in 62.01002502441406 seconds
+2024-07-23 16:56:56,007 - INFO - logger - Processed Q4U4S6-1 in 64.32043623924255 seconds
+2024-07-23 16:56:56,305 - INFO - logger - Processed P15121-1 in 64.61830997467041 seconds
+2024-07-23 16:57:02,182 - INFO - logger - Processed Q6PDH0-1 in 70.4961290359497 seconds
+2024-07-23 16:57:04,427 - INFO - logger - Processed Q3UIA2-1 in 72.74032592773438 seconds
+2024-07-23 16:57:37,196 - INFO - logger - Processed P02462-1 in 49.61451601982117 seconds
+2024-07-23 16:57:37,535 - INFO - logger - Processed Q9NTX5-1 in 43.77858114242554 seconds
+2024-07-23 16:57:38,741 - INFO - logger - Processed O70468-1 in 49.53892731666565 seconds
+2024-07-23 16:57:42,945 - INFO - logger - Processed P43006-1 in 40.71236801147461 seconds
+2024-07-23 16:57:43,864 - INFO - logger - Processed Q9NQS3-1 in 52.258567094802856 seconds
+2024-07-23 16:57:46,016 - INFO - logger - Processed Q80TR8-1 in 49.64610934257507 seconds
+2024-07-23 16:57:47,795 - INFO - logger - Processed Q9UL62-1 in 59.52179789543152 seconds
+2024-07-23 16:57:56,008 - INFO - logger - Processed P22082-1 in 8.148916959762573 seconds
+2024-07-23 16:57:59,795 - INFO - logger - Processed O43143-1 in 66.43410396575928 seconds
+2024-07-23 16:58:10,095 - INFO - logger - Processed A2ARZ3-1 in 65.61106824874878 seconds
+2024-07-23 16:58:13,786 - INFO - logger - Processed O08785-1 in 77.72259902954102 seconds
+2024-07-23 16:58:18,072 - INFO - logger - Processed Q9GZR1-1 in 39.268434047698975 seconds
+2024-07-23 16:58:26,122 - INFO - logger - Processed Q6ZQ08-1 in 48.52276921272278 seconds
+2024-07-23 16:58:33,982 - INFO - logger - Processed Q6P5Q4-1 in 50.97634720802307 seconds
+2024-07-23 16:58:36,979 - INFO - logger - Processed Q7L590-1 in 59.680983781814575 seconds
+2024-07-23 16:58:41,463 - INFO - logger - Processed Q8NDH2-1 in 41.61853814125061 seconds
+2024-07-23 16:58:41,735 - INFO - logger - Processed Q8BX22-1 in 57.80987787246704 seconds
+2024-07-23 16:58:47,059 - INFO - logger - Processed Q9QYY0-1 in 60.976744174957275 seconds
+2024-07-23 16:58:49,386 - INFO - logger - Processed Q9H1D0-1 in 35.539511919021606 seconds
+2024-07-23 16:58:50,213 - INFO - logger - Processed Q5H9R4-1 in 54.136680126190186 seconds
+2024-07-23 16:59:00,754 - INFO - logger - Processed O95104-1 in 50.60916185379028 seconds
+2024-07-23 16:59:00,873 - INFO - logger - Hit checkpoint at index 11000
+2024-07-23 16:59:00,873 - INFO - logger - API calls 31
+2024-07-23 16:59:00,873 - INFO - logger - cache hits 69
+2024-07-23 16:59:00,873 - INFO - logger - ============================================
+2024-07-23 16:59:37,407 - INFO - logger - Processed Q3UFS4-1 in 36.531628131866455 seconds
+2024-07-23 16:59:38,356 - INFO - logger - Processed Q8BG95-1 in 37.473758935928345 seconds
+2024-07-23 16:59:47,248 - INFO - logger - Processed Q7RTS9-1 in 46.37343192100525 seconds
+2024-07-23 16:59:48,070 - INFO - logger - Processed Q64092-1 in 47.187514305114746 seconds
+2024-07-23 16:59:49,620 - INFO - logger - Processed Q08431-1 in 48.74473595619202 seconds
+2024-07-23 16:59:55,263 - INFO - logger - Processed Q75N03-1 in 54.38828706741333 seconds
+2024-07-23 17:00:01,655 - INFO - logger - Processed Q93009-1 in 60.78161573410034 seconds
+2024-07-23 17:00:01,945 - INFO - logger - Processed Q8IZW8-1 in 61.062061071395874 seconds
+2024-07-23 17:00:02,442 - INFO - logger - Processed Q01955-1 in 61.55925703048706 seconds
+2024-07-23 17:00:05,290 - INFO - logger - Processed Q7TME2-1 in 64.41575813293457 seconds
+2024-07-23 17:00:14,868 - INFO - logger - Processed Q15111-1 in 36.45000100135803 seconds
+2024-07-23 17:00:27,170 - INFO - logger - Processed Q13568-1 in 39.03833484649658 seconds
+2024-07-23 17:00:29,890 - INFO - logger - Processed O14976-1 in 52.412643909454346 seconds
+2024-07-23 17:00:33,025 - INFO - logger - Processed Q8TEV9-1 in 45.715656042099 seconds
+2024-07-23 17:00:35,223 - INFO - logger - Processed Q99829-1 in 39.90690732002258 seconds
+2024-07-23 17:00:35,249 - INFO - logger - Processed Q8TE73-1 in 33.51653003692627 seconds
+2024-07-23 17:00:36,681 - INFO - logger - Processed A0MZ66-1 in 47.00150513648987 seconds
+2024-07-23 17:00:36,787 - INFO - logger - Hit checkpoint at index 11100
+2024-07-23 17:00:36,787 - INFO - logger - API calls 17
+2024-07-23 17:00:36,787 - INFO - logger - cache hits 83
+2024-07-23 17:00:36,787 - INFO - logger - ============================================
+2024-07-23 17:00:43,299 - INFO - logger - Processed Q08446-1 in 6.508970022201538 seconds
+2024-07-23 17:01:02,724 - INFO - logger - Processed Q96Q04-1 in 25.93332815170288 seconds
+2024-07-23 17:01:05,171 - INFO - logger - Processed Q5QJ38-1 in 28.38289785385132 seconds
+2024-07-23 17:01:05,719 - INFO - logger - Processed P04843-1 in 28.93146324157715 seconds
+2024-07-23 17:01:05,868 - INFO - logger - Processed Q6UVK1-1 in 29.077172994613647 seconds
+2024-07-23 17:01:06,633 - INFO - logger - Processed P21781-1 in 29.84259796142578 seconds
+2024-07-23 17:01:19,084 - INFO - logger - no domain data for O75140-10
+2024-07-23 17:01:29,603 - INFO - logger - Processed O75140-10 in 52.812463998794556 seconds
+2024-07-23 17:01:29,730 - INFO - logger - Hit checkpoint at index 11200
+2024-07-23 17:01:29,730 - INFO - logger - API calls 7
+2024-07-23 17:01:29,730 - INFO - logger - cache hits 93
+2024-07-23 17:01:29,730 - INFO - logger - ============================================
+2024-07-23 17:01:42,107 - INFO - logger - Processed P32900-1 in 12.372960805892944 seconds
+2024-07-23 17:01:56,401 - INFO - logger - Processed Q9H2F5-1 in 26.670136213302612 seconds
+2024-07-23 17:01:56,582 - INFO - logger - Processed P13671-1 in 26.851463794708252 seconds
+2024-07-23 17:01:56,947 - INFO - logger - Processed Q80TZ3-1 in 27.21355414390564 seconds
+2024-07-23 17:01:59,389 - INFO - logger - Processed O43561-1 in 17.21501398086548 seconds
+2024-07-23 17:02:02,456 - INFO - logger - Processed Q8CHI8-1 in 32.72152590751648 seconds
+2024-07-23 17:02:03,342 - INFO - logger - Processed Q6PIV7-1 in 33.60898208618164 seconds
+2024-07-23 17:02:05,245 - INFO - logger - Processed O43613-1 in 35.51075196266174 seconds
+2024-07-23 17:02:06,352 - INFO - logger - Processed Q7Z5M8-1 in 36.61805486679077 seconds
+2024-07-23 17:02:06,796 - INFO - logger - Processed Q8CDG3-1 in 37.06172204017639 seconds
+2024-07-23 17:02:20,087 - INFO - logger - Processed A6NH11-1 in 16.689197778701782 seconds
+2024-07-23 17:02:20,366 - INFO - logger - Processed P13682-1 in 17.860776901245117 seconds
+2024-07-23 17:02:21,975 - INFO - logger - Processed Q5BKT4-1 in 25.466366052627563 seconds
+2024-07-23 17:02:22,614 - INFO - logger - Processed Q9Y4K1-1 in 52.88304686546326 seconds
+2024-07-23 17:02:24,833 - INFO - logger - Processed O43314-1 in 27.823593854904175 seconds
+2024-07-23 17:02:29,407 - INFO - logger - Processed Q15746-1 in 32.76073980331421 seconds
+2024-07-23 17:02:29,674 - INFO - logger - Processed P07492-1 in 30.22467613220215 seconds
+2024-07-23 17:02:34,206 - INFO - logger - Processed P86397-1 in 28.89926505088806 seconds
+2024-07-23 17:02:35,615 - INFO - logger - Processed Q9BZE4-1 in 29.201278924942017 seconds
+2024-07-23 17:02:35,725 - INFO - logger - Hit checkpoint at index 11300
+2024-07-23 17:02:35,725 - INFO - logger - API calls 19
+2024-07-23 17:02:35,725 - INFO - logger - cache hits 81
+2024-07-23 17:02:35,725 - INFO - logger - ============================================
+2024-07-23 17:03:00,430 - INFO - logger - Processed Q53H47-1 in 24.70132303237915 seconds
+2024-07-23 17:03:02,570 - INFO - logger - Processed P43365-1 in 26.842087984085083 seconds
+2024-07-23 17:03:04,289 - INFO - logger - Processed Q711Q0-1 in 28.562775135040283 seconds
+2024-07-23 17:03:06,911 - INFO - logger - Processed P32432-1 in 6.396471261978149 seconds
+2024-07-23 17:03:07,508 - INFO - logger - Processed Q15772-5 in 31.779063940048218 seconds
+2024-07-23 17:03:21,441 - INFO - logger - Processed G3XA57-1 in 18.804040908813477 seconds
+2024-07-23 17:03:28,625 - INFO - logger - Processed P48029-1 in 52.897956132888794 seconds
+2024-07-23 17:03:34,557 - INFO - logger - Processed O09012-1 in 58.82904815673828 seconds
+2024-07-23 17:03:36,330 - INFO - logger - Processed Q8NHP8-1 in 60.60070776939392 seconds
+2024-07-23 17:03:42,386 - INFO - logger - Processed P70392-1 in 35.41045093536377 seconds
+2024-07-23 17:03:42,569 - INFO - logger - Processed Q8R1A4-1 in 66.84014964103699 seconds
+2024-07-23 17:03:46,005 - INFO - logger - Processed Q04759-1 in 70.27576923370361 seconds
+2024-07-23 17:03:46,599 - INFO - logger - Processed Q9Z180-1 in 39.033307790756226 seconds
+2024-07-23 17:03:48,187 - INFO - logger - Processed O15287-1 in 43.848379135131836 seconds
+2024-07-23 17:03:51,746 - INFO - logger - Processed Q9UPX0-1 in 76.01635313034058 seconds
+2024-07-23 17:04:03,175 - INFO - logger - Processed P0CW18-1 in 28.563415050506592 seconds
+2024-07-23 17:04:09,699 - INFO - logger - Processed Q9H792-1 in 48.195783853530884 seconds
+2024-07-23 17:04:12,332 - INFO - logger - Processed Q96IZ7-1 in 43.64016270637512 seconds
+2024-07-23 17:04:12,444 - INFO - logger - Hit checkpoint at index 11400
+2024-07-23 17:04:12,444 - INFO - logger - API calls 18
+2024-07-23 17:04:12,444 - INFO - logger - cache hits 82
+2024-07-23 17:04:12,444 - INFO - logger - ============================================
+2024-07-23 17:04:22,740 - INFO - logger - Processed Q03337-1 in 10.294194221496582 seconds
+2024-07-23 17:05:00,377 - INFO - logger - Processed Q86UK0-1 in 47.9317409992218 seconds
+2024-07-23 17:05:05,088 - INFO - logger - Processed P06213-1 in 52.64321994781494 seconds
+2024-07-23 17:05:07,023 - INFO - logger - Processed Q14093-1 in 54.579248905181885 seconds
+2024-07-23 17:05:09,915 - INFO - logger - Processed Q96QB1-2 in 57.46583676338196 seconds
+2024-07-23 17:05:11,195 - INFO - logger - Processed Q7Z614-1 in 58.750144958496094 seconds
+2024-07-23 17:05:18,834 - INFO - logger - Processed Q5TBA9-1 in 66.38911199569702 seconds
+2024-07-23 17:05:21,645 - INFO - logger - Processed Q08AE8-1 in 69.19399309158325 seconds
+2024-07-23 17:05:25,473 - INFO - logger - Processed Q03173-1 in 62.674193143844604 seconds
+2024-07-23 17:05:26,061 - INFO - logger - Processed P35555-1 in 73.61545968055725 seconds
+2024-07-23 17:05:30,381 - INFO - logger - Processed P06213-1 in 77.9291582107544 seconds
+2024-07-23 17:05:35,752 - INFO - logger - Processed O95260-1 in 35.29244899749756 seconds
+2024-07-23 17:05:48,239 - INFO - logger - Processed Q5SFM8-1 in 38.266441822052 seconds
+2024-07-23 17:05:50,570 - INFO - logger - Processed Q9UHX3-1 in 45.421741008758545 seconds
+2024-07-23 17:05:53,915 - INFO - logger - Processed Q9CS74-1 in 35.025471925735474 seconds
+2024-07-23 17:05:57,666 - INFO - logger - Processed Q12769-1 in 46.395166873931885 seconds
+2024-07-23 17:05:58,538 - INFO - logger - Processed P27169-1 in 36.84534287452698 seconds
+2024-07-23 17:05:59,998 - INFO - logger - Processed Q3UHL1-1 in 52.92656397819519 seconds
+2024-07-23 17:06:00,115 - INFO - logger - Hit checkpoint at index 11500
+2024-07-23 17:06:00,115 - INFO - logger - API calls 18
+2024-07-23 17:06:00,115 - INFO - logger - cache hits 82
+2024-07-23 17:06:00,115 - INFO - logger - ============================================
+2024-07-23 17:06:35,818 - INFO - logger - Processed Q17RY6-1 in 35.70058083534241 seconds
+2024-07-23 17:06:51,154 - INFO - logger - Processed B2RUR8-1 in 51.03801703453064 seconds
+2024-07-23 17:06:51,730 - INFO - logger - Processed O43516-1 in 51.6100697517395 seconds
+2024-07-23 17:06:52,693 - INFO - logger - Processed Q8IZQ1-1 in 52.57571315765381 seconds
+2024-07-23 17:06:54,902 - INFO - logger - Processed P20849-1 in 54.78247928619385 seconds
+2024-07-23 17:06:55,457 - INFO - logger - Processed Q8VCB1-1 in 55.33947992324829 seconds
+2024-07-23 17:06:58,456 - INFO - logger - Processed Q921D9-1 in 58.33889412879944 seconds
+2024-07-23 17:07:00,596 - INFO - logger - Processed Q03373-1 in 8.803959846496582 seconds
+2024-07-23 17:07:01,536 - INFO - logger - Processed Q67FY2-1 in 61.417072057724 seconds
+2024-07-23 17:07:12,329 - INFO - logger - Processed Q15631-1 in 72.20968985557556 seconds
+2024-07-23 17:07:19,597 - INFO - logger - Processed O75477-1 in 79.47985625267029 seconds
+2024-07-23 17:07:50,509 - INFO - logger - Processed Q8R4U7-1 in 59.28626203536987 seconds
+2024-07-23 17:07:54,624 - INFO - logger - Processed Q8CBY3-1 in 78.73772311210632 seconds
+2024-07-23 17:07:55,106 - INFO - logger - Processed Q9ES28-1 in 59.58434295654297 seconds
+2024-07-23 17:08:00,628 - INFO - logger - Processed Q14993-1 in 62.111955881118774 seconds
+2024-07-23 17:08:00,661 - INFO - logger - Processed Q86XE3-1 in 67.91747784614563 seconds
+2024-07-23 17:08:01,213 - INFO - logger - Processed P60711-1 in 60.56034207344055 seconds
+2024-07-23 17:08:02,677 - INFO - logger - Processed Q99LI8-1 in 61.07713484764099 seconds
+2024-07-23 17:08:03,186 - INFO - logger - Processed P39748-1 in 68.22126078605652 seconds
+2024-07-23 17:08:07,721 - INFO - logger - Processed Q04725-1 in 55.33077907562256 seconds
+2024-07-23 17:08:16,838 - INFO - logger - Processed Q62418-1 in 57.18318510055542 seconds
+2024-07-23 17:08:32,154 - INFO - logger - Processed Q61286-1 in 41.57556176185608 seconds
+2024-07-23 17:08:38,879 - INFO - logger - Processed Q9Y6K5-1 in 38.117746114730835 seconds
+2024-07-23 17:08:38,914 - INFO - logger - Processed Q14108-1 in 38.148208141326904 seconds
+2024-07-23 17:08:43,957 - INFO - logger - Processed Q3UHC0-1 in 48.794965982437134 seconds
+2024-07-23 17:08:47,442 - INFO - logger - no domain data for E9Q842-1
+2024-07-23 17:09:10,901 - INFO - logger - Processed E9Q842-1 in 76.22191500663757 seconds
+2024-07-23 17:09:11,020 - INFO - logger - Hit checkpoint at index 11600
+2024-07-23 17:09:11,020 - INFO - logger - API calls 26
+2024-07-23 17:09:11,020 - INFO - logger - cache hits 74
+2024-07-23 17:09:11,020 - INFO - logger - ============================================
+2024-07-23 17:10:07,016 - INFO - logger - Processed O60749-1 in 55.99439096450806 seconds
+2024-07-23 17:10:15,654 - INFO - logger - Processed Q6VVB1-1 in 64.63255190849304 seconds
+2024-07-23 17:10:16,446 - INFO - logger - Processed Q9BUL9-1 in 65.42371082305908 seconds
+2024-07-23 17:10:17,322 - INFO - logger - Processed Q8NFW1-1 in 66.29852414131165 seconds
+2024-07-23 17:10:25,237 - INFO - logger - Processed Q15047-1 in 74.21589016914368 seconds
+2024-07-23 17:10:27,578 - INFO - logger - Processed P38041-1 in 10.200539827346802 seconds
+2024-07-23 17:10:27,811 - INFO - logger - Processed P06102-1 in 12.093783140182495 seconds
+2024-07-23 17:10:32,242 - INFO - logger - Processed Q6N075-1 in 81.21789598464966 seconds
+2024-07-23 17:10:32,723 - INFO - logger - Processed Q9NWY4-1 in 81.702064037323 seconds
+2024-07-23 17:10:33,451 - INFO - logger - Processed Q3L8U1-1 in 82.42807722091675 seconds
+2024-07-23 17:10:37,590 - INFO - logger - Processed Q9Z2U2-1 in 86.56983590126038 seconds
+2024-07-23 17:10:41,331 - INFO - logger - Processed Q9Y2D9-1 in 90.30910015106201 seconds
+2024-07-23 17:10:59,867 - INFO - logger - Processed Q8BWW4-1 in 43.37101078033447 seconds
+2024-07-23 17:11:02,639 - INFO - logger - Processed P25789-1 in 34.77820181846619 seconds
+2024-07-23 17:11:03,174 - INFO - logger - Processed Q68FF6-1 in 56.07835531234741 seconds
+2024-07-23 17:11:06,119 - INFO - logger - Processed Q922R5-1 in 33.8202691078186 seconds
+2024-07-23 17:11:13,984 - INFO - logger - Processed Q91ZU6-1 in 48.66914200782776 seconds
+2024-07-23 17:11:22,193 - INFO - logger - Processed O95359-4 in 54.56294512748718 seconds
+2024-07-23 17:11:22,320 - INFO - logger - Hit checkpoint at index 11700
+2024-07-23 17:11:22,320 - INFO - logger - API calls 18
+2024-07-23 17:11:22,320 - INFO - logger - cache hits 82
+2024-07-23 17:11:22,320 - INFO - logger - ============================================
+2024-07-23 17:11:28,458 - INFO - logger - Processed P23493-1 in 6.132705926895142 seconds
+2024-07-23 17:12:11,993 - INFO - logger - Processed Q8TB96-1 in 49.667701959609985 seconds
+2024-07-23 17:12:18,289 - INFO - logger - Processed Q15029-1 in 55.96920204162598 seconds
+2024-07-23 17:12:19,919 - INFO - logger - Processed Q9QXZ0-1 in 51.405611753463745 seconds
+2024-07-23 17:12:20,995 - INFO - logger - Processed Q8NA03-1 in 58.67037796974182 seconds
+2024-07-23 17:12:21,089 - INFO - logger - Processed Q9ESK9-1 in 58.76612710952759 seconds
+2024-07-23 17:12:21,893 - INFO - logger - Processed O88532-1 in 59.56767177581787 seconds
+2024-07-23 17:12:26,463 - INFO - logger - Processed P24844-1 in 64.13900899887085 seconds
+2024-07-23 17:12:28,045 - INFO - logger - Processed P02511-1 in 65.72120499610901 seconds
+2024-07-23 17:12:30,762 - INFO - logger - Processed P42695-1 in 68.4355800151825 seconds
+2024-07-23 17:12:37,209 - INFO - logger - Processed Q5FVE4-1 in 74.88481736183167 seconds
+2024-07-23 17:12:56,942 - INFO - logger - Processed O94992-1 in 44.82085108757019 seconds
+2024-07-23 17:12:59,275 - INFO - logger - Processed E9Q1P8-1 in 39.28956890106201 seconds
+2024-07-23 17:12:59,972 - INFO - logger - Processed Q9UBN4-1 in 38.0233678817749 seconds
+2024-07-23 17:13:04,281 - INFO - logger - Processed Q8NB91-1 in 45.931134939193726 seconds
+2024-07-23 17:13:05,317 - INFO - logger - Processed Q9BXU7-1 in 44.17210412025452 seconds
+2024-07-23 17:13:09,203 - INFO - logger - Processed Q9H8M1-1 in 48.02788305282593 seconds
+2024-07-23 17:13:09,313 - INFO - logger - Hit checkpoint at index 11800
+2024-07-23 17:13:09,313 - INFO - logger - API calls 17
+2024-07-23 17:13:09,313 - INFO - logger - cache hits 83
+2024-07-23 17:13:09,313 - INFO - logger - ============================================
+2024-07-23 17:13:20,061 - INFO - logger - Processed P47100-1 in 10.746708869934082 seconds
+2024-07-23 17:14:01,281 - INFO - logger - Processed Q03169-1 in 41.154507875442505 seconds
+2024-07-23 17:14:01,281 - INFO - logger - Processed Q15375-1 in 51.966773986816406 seconds
+2024-07-23 17:14:04,604 - INFO - logger - Processed Q9BVP2-1 in 55.288543939590454 seconds
+2024-07-23 17:14:05,407 - INFO - logger - Processed Q8BG05-1 in 56.0917010307312 seconds
+2024-07-23 17:14:06,147 - INFO - logger - Processed O75934-1 in 56.833133935928345 seconds
+2024-07-23 17:14:11,003 - INFO - logger - Processed P63328-1 in 61.689006090164185 seconds
+2024-07-23 17:14:11,185 - INFO - logger - Processed Q9EPN1-1 in 61.87063193321228 seconds
+2024-07-23 17:14:11,368 - INFO - logger - Processed P50895-1 in 62.053529024124146 seconds
+2024-07-23 17:14:24,778 - INFO - logger - Processed P20908-1 in 75.46254110336304 seconds
+2024-07-23 17:14:30,074 - INFO - logger - Processed Q96JB8-1 in 80.75896906852722 seconds
+2024-07-23 17:14:45,216 - INFO - logger - Processed Q9JMD0-1 in 39.0110502243042 seconds
+2024-07-23 17:14:50,479 - INFO - logger - Processed Q9NUT2-1 in 45.81496286392212 seconds
+2024-07-23 17:14:54,004 - INFO - logger - Processed Q8N531-1 in 52.59973883628845 seconds
