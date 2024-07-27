@@ -160,7 +160,7 @@ def find_go_annotation(protein_accession, organism):
 def process_protein(row, cache, logger):
     start_time = time.time() #time recorded for logging
     uniprot = row["uniprotkb_canonical_ac"] #retrieving the protein ac
-    protein_ac = re.sub(r'-\d+', '', protein_ac) #editing the protein ac to be appropriate for EBI protein API
+    protein_ac = re.sub(r'-\d+', '', uniprot) #editing the protein ac to be appropriate for EBI protein API
     protein_data = get_protein_details(uniprot, max_retries=5) #retrieve protein details from API
     if protein_ac:
         try:
